@@ -22,6 +22,7 @@ Everything in this folder is a **draft for review**. Nothing here has been poste
 4. [`04-pre-publish-checklist.md`](04-pre-publish-checklist.md): review this before every post
 5. [`content-calendar.md`](content-calendar.md): simple calendar tracker with a status column
 6. [`website/`](website/): draft course sales page (see `website/README.md`)
+7. [`course/`](course/): course content, with Week 1 drafted (see `course/README.md`)
 
 ## Specialist agents (`.claude/agents/`)
 
