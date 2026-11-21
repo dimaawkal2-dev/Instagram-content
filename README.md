@@ -1,4 +1,4 @@
-# Instagram Content Plan (DRAFTS)
+# Dimawkal: Instagram Content Plan (DRAFTS)
 
 Everything in this folder is a **draft for review**. Nothing here has been posted, scheduled, or sent.
 
@@ -19,6 +19,19 @@ Everything in this folder is a **draft for review**. Nothing here has been poste
 2. [`02-post-and-reel-ideas.md`](02-post-and-reel-ideas.md): Reel scripts, carousel outlines, extra idea bank
 3. [`03-caption-drafts.md`](03-caption-drafts.md): captions with hashtags for weeks 1–2
 4. [`04-pre-publish-checklist.md`](04-pre-publish-checklist.md): review this before every post
+5. [`content-calendar.md`](content-calendar.md): simple calendar tracker with a status column
+
+## Specialist agents (`.claude/agents/`)
+
+| Agent | Use it to |
+|---|---|
+| `instagram-strategist` | Plan themes and the weekly posting schedule, and update the calendar |
+| `caption-writer` | Draft captions in your voice with CTA options and hashtags |
+| `reels-ideas` | Brainstorm Reels with a hook, timed outline and on-screen text |
+| `content-reviewer` | Check a draft for clarity, tone, spelling and accuracy (report only) |
+
+Example: *"Use the reels-ideas agent to give me 5 Reels about picky eating."*
+None of the agents post, schedule, message or change the account.
 
 ## Placeholders to fill in
 
