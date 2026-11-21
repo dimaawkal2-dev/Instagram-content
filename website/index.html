@@ -1,0 +1,388 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- DRAFT: remove the next line when you're ready for search engines to find the site -->
+<meta name="robots" content="noindex, nofollow">
+<title>No Perfect Parents | 8-Week Parenting Program</title>
+<meta name="description" content="An 8-week, blame-free parenting program for parents of kids aged 1–12. Learn why kids do what they do and what to say instead.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Nunito+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#fffaf5; --surface:#ffffff; --soft:#fbefe4; --text:#2d2a32; --muted:#6b6470;
+    --accent:#d9694a; --accent-dark:#b9502f; --sage:#5f8a74; --line:#eedfd2;
+    --radius:18px; --max:1040px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--bg);color:var(--text);font:17px/1.6 "Nunito Sans",system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+  h1,h2,h3{font-family:Fraunces,Georgia,serif;line-height:1.15;margin:0 0 .5em;letter-spacing:-.01em}
+  h1{font-size:clamp(2.2rem,7vw,3.6rem)}
+  h2{font-size:clamp(1.7rem,5vw,2.4rem)}
+  h3{font-size:1.2rem}
+  p{margin:0 0 1em}
+  a{color:var(--accent-dark)}
+  .wrap{max-width:var(--max);margin:0 auto;padding:0 16px}
+  section{padding:64px 0}
+  section[id]{scroll-margin-top:60px}
+  .eyebrow{display:inline-block;font-weight:700;font-size:.8rem;letter-spacing:.08em;text-transform:uppercase;color:var(--sage);margin-bottom:12px}
+  .center{text-align:center}
+  .lead{font-size:1.15rem;color:var(--muted);max-width:640px}
+  .center .lead{margin-left:auto;margin-right:auto}
+
+  /* draft banner */
+  .draft{background:#2d2a32;color:#fff;font-size:.85rem;text-align:center;padding:8px 16px}
+
+  /* nav */
+  header.nav{position:sticky;top:0;z-index:10;background:rgba(255,250,245,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+  header.nav .wrap{display:flex;align-items:center;justify-content:space-between;height:60px}
+  .logo{font-family:Fraunces,Georgia,serif;font-weight:700;font-size:1.15rem;color:var(--text);text-decoration:none}
+
+  /* buttons */
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:12px 24px;border-radius:999px;border:0;background:var(--accent);color:#fff;font:700 1rem/1 "Nunito Sans",sans-serif;text-decoration:none;cursor:pointer;transition:background .15s, transform .15s}
+  .btn:hover{background:var(--accent-dark)}
+  .btn:active{transform:scale(.98)}
+  .btn:focus-visible{outline:3px solid var(--sage);outline-offset:3px}
+  .btn.ghost{background:transparent;color:var(--accent-dark);border:2px solid var(--accent)}
+  .btn.ghost:hover{background:var(--soft)}
+  .btn.small{min-height:40px;padding:8px 18px;font-size:.9rem}
+  .btn.block{width:100%}
+  .btn.placeholder{background:#9a8f96;cursor:not-allowed}
+  .btn.ghost.placeholder{background:transparent;color:#7d737a;border-color:#b9afb5}
+
+  /* hero */
+  .hero{padding:56px 0 64px;background:radial-gradient(1200px 500px at 85% -10%, #fde3d3 0%, transparent 60%)}
+  .hero-grid{display:grid;gap:40px;align-items:center}
+  .hero .lead{margin-bottom:28px}
+  .hero-ctas{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
+  .hero-note{font-size:.9rem;color:var(--muted);margin-top:14px}
+  .hero-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:28px;box-shadow:0 20px 40px -24px rgba(120,60,30,.25)}
+  .hero-card ul{list-style:none;padding:0;margin:0}
+  .hero-card li{display:flex;gap:12px;padding:10px 0;border-bottom:1px dashed var(--line)}
+  .hero-card li:last-child{border-bottom:0}
+  .tick{flex:none;width:26px;height:26px;border-radius:50%;background:#e4efe8;color:var(--sage);display:grid;place-items:center;font-weight:700;font-size:.85rem}
+
+  /* promise */
+  .promise{background:var(--soft)}
+  .quote{font-family:Fraunces,Georgia,serif;font-size:clamp(1.35rem,4vw,1.8rem);line-height:1.35;max-width:760px;margin:0 auto}
+
+  /* cards grid */
+  .grid{display:grid;gap:16px;margin-top:32px}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:24px}
+  .card .icon{font-size:1.6rem;margin-bottom:8px}
+  .card p{color:var(--muted);margin:0}
+
+  /* curriculum */
+  .weeks{list-style:none;padding:0;margin:32px 0 0;display:grid;gap:12px}
+  .week{display:flex;gap:16px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px}
+  .week-num{flex:none;width:52px;text-align:center;font-family:Fraunces,Georgia,serif;color:var(--accent-dark)}
+  .week-num small{display:block;font:700 .7rem/1 "Nunito Sans",sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
+  .week-num span{font-size:1.6rem;font-weight:700}
+  .week h3{margin-bottom:4px}
+  .week p{color:var(--muted);margin:0;font-size:.97rem}
+
+  /* for you */
+  .two{display:grid;gap:16px;margin-top:32px}
+  .list{list-style:none;padding:0;margin:0}
+  .list li{padding:8px 0 8px 32px;position:relative}
+  .list li::before{content:"✓";position:absolute;left:0;top:8px;color:var(--sage);font-weight:700}
+  .list.no li::before{content:"–";color:var(--muted)}
+
+  /* instructor */
+  .about{display:grid;gap:28px;align-items:center}
+  .avatar{width:160px;height:160px;border-radius:50%;background:linear-gradient(135deg,#f6c9b2,#e4efe8);display:grid;place-items:center;font-family:Fraunces,Georgia,serif;font-size:2.6rem;color:var(--accent-dark);margin:0 auto}
+
+  /* pricing */
+  .pricing{background:var(--soft)}
+  .plans{display:grid;gap:16px;margin-top:32px;max-width:760px;margin-left:auto;margin-right:auto}
+  .plan{background:var(--surface);border:2px solid var(--line);border-radius:var(--radius);padding:28px;display:flex;flex-direction:column}
+  .plan.featured{border-color:var(--accent);position:relative}
+  .badge{position:absolute;top:-13px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;font-size:.75rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:4px 12px;border-radius:999px;white-space:nowrap}
+  .price{font-family:Fraunces,Georgia,serif;font-size:2.8rem;font-weight:700;line-height:1;margin:8px 0 4px}
+  .price small{font:600 1rem "Nunito Sans",sans-serif;color:var(--muted)}
+  .plan .sub{color:var(--muted);font-size:.95rem;margin-bottom:20px}
+  .plan .list{margin-bottom:24px;flex:1}
+  .secure{display:flex;justify-content:center;align-items:center;gap:8px;color:var(--muted);font-size:.9rem;margin-top:20px;text-align:center}
+  .setup-note{display:none;max-width:760px;margin:20px auto 0;background:#fff;border:2px dashed var(--accent);border-radius:var(--radius);padding:16px 20px;font-size:.95rem}
+  .setup-note.show{display:block}
+
+  /* faq */
+  .faq{max-width:760px;margin:32px auto 0}
+  details{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:4px 20px;margin-bottom:10px}
+  summary{cursor:pointer;font-weight:700;padding:14px 0;list-style:none;display:flex;justify-content:space-between;gap:12px}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";font-size:1.3rem;line-height:1;color:var(--accent)}
+  details[open] summary::after{content:"–"}
+  details p{color:var(--muted)}
+
+  /* final cta */
+  .final{background:#2d2a32;color:#fff}
+  .final .lead{color:#d8d0d6}
+
+  footer{padding:32px 0;font-size:.85rem;color:var(--muted)}
+  footer .links{display:flex;flex-wrap:wrap;gap:16px;margin-bottom:12px}
+
+  .ph{background:#fff3c4;border-radius:4px;padding:0 4px}
+
+  @media (min-width:720px){
+    section{padding:88px 0}
+    .hero-grid{grid-template-columns:1.2fr 1fr}
+    .grid{grid-template-columns:repeat(2,1fr)}
+    .two{grid-template-columns:1fr 1fr}
+    .about{grid-template-columns:200px 1fr}
+    .plans{grid-template-columns:1fr 1fr}
+  }
+  @media (min-width:960px){
+    .grid{grid-template-columns:repeat(3,1fr)}
+    .weeks{grid-template-columns:1fr 1fr}
+  }
+</style>
+</head>
+<body>
+
+<div class="draft" role="note">DRAFT PREVIEW: not published. Checkout is not connected yet, so no one can be charged.</div>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="logo" href="#top">No Perfect Parents</a>
+    <a class="btn small" href="#pricing">Enroll</a>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <span class="eyebrow">8-week parenting program · ages 1–12</span>
+        <h1>You don't have to be perfect to be a great parent.</h1>
+        <p class="lead">No Perfect Parents is a warm, blame-free program that helps you understand <em>why</em> your child does what they do, and gives you calm, simple words for the hard moments.</p>
+        <div class="hero-ctas">
+          <a class="btn" href="#pricing">Enroll now</a>
+          <a class="btn ghost" href="#curriculum">See the 8 weeks</a>
+        </div>
+        <p class="hero-note">From $109/month (3 payments), or $297 one-time.</p>
+      </div>
+      <div class="hero-card" aria-label="What you'll learn">
+        <ul>
+          <li><span class="tick">✓</span><span>Understand the psychology behind tantrums, "no!", and pushback</span></li>
+          <li><span class="tick">✓</span><span>Stay calmer, even on the hard days</span></li>
+          <li><span class="tick">✓</span><span>Set boundaries without yelling, shame, or guilt</span></li>
+          <li><span class="tick">✓</span><span>Repair after rough moments and reconnect</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROMISE -->
+  <section class="promise center">
+    <div class="wrap">
+      <span class="eyebrow">No blame here</span>
+      <p class="quote">"You're not doing it wrong. Nobody handed you a manual. This is the one I wish every parent had, written with kindness, not judgment."</p>
+    </div>
+  </section>
+
+  <!-- BENEFITS -->
+  <section>
+    <div class="wrap">
+      <div class="center">
+        <span class="eyebrow">What changes</span>
+        <h2>Less battling. More connection.</h2>
+        <p class="lead">Practical tools grounded in child psychology, explained like a friend would explain them.</p>
+      </div>
+      <div class="grid">
+        <div class="card"><div class="icon">🧠</div><h3>Understand the "why"</h3><p>See behavior as communication, so you can respond to the need instead of fighting the behavior.</p></div>
+        <div class="card"><div class="icon">💬</div><h3>Know what to say</h3><p>Ready-to-use scripts for meltdowns, bedtime, siblings, screens and more. No more blanking in the moment.</p></div>
+        <div class="card"><div class="icon">🌿</div><h3>Find your calm</h3><p>Learn what triggers <em>you</em>, and simple ways to stay steady so your child can borrow your calm.</p></div>
+        <div class="card"><div class="icon">🧱</div><h3>Kind, firm boundaries</h3><p>Be warm <em>and</em> clear at the same time. Limits that hold, without shame or threats.</p></div>
+        <div class="card"><div class="icon">🔁</div><h3>Repair over perfect</h3><p>Everyone loses it sometimes. Learn how to repair, so mistakes become moments of connection.</p></div>
+        <div class="card"><div class="icon">💛</div><h3>Drop the guilt</h3><p>Leave each week feeling more capable, not more judged. Progress, not perfection.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CURRICULUM -->
+  <section id="curriculum" style="background:var(--surface);border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+    <div class="wrap">
+      <div class="center">
+        <span class="eyebrow">The program</span>
+        <h2>8 weeks, one step at a time</h2>
+        <p class="lead">One focused module a week, with short lessons you can fit around real family life.</p>
+      </div>
+      <ol class="weeks">
+        <li class="week"><div class="week-num"><small>Week</small><span>1</span></div><div><h3>Why kids do that</h3><p>Behavior as communication, the developing brain, and what your child actually needs.</p></div></li>
+        <li class="week"><div class="week-num"><small>Week</small><span>2</span></div><div><h3>Your calm comes first</h3><p>Spot your triggers, regulate yourself, and become the steady place your child leans on.</p></div></li>
+        <li class="week"><div class="week-num"><small>Week</small><span>3</span></div><div><h3>Big feelings &amp; tantrums</h3><p>What to say (and skip) during meltdowns, and how to help kids name and handle emotions.</p></div></li>
+        <li class="week"><div class="week-num"><small>Week</small><span>4</span></div><div><h3>Boundaries without blame</h3><p>Warm and firm limits, giving choices, and following through without yelling.</p></div></li>
+        <li class="week"><div class="week-num"><small>Week</small><span>5</span></div><div><h3>Bedtime, mornings &amp; routines</h3><p>Turn daily battle zones into predictable, calmer rhythms.</p></div></li>
+        <li class="week"><div class="week-num"><small>Week</small><span>6</span></div><div><h3>Siblings &amp; everyday battles</h3><p>Stop playing referee and coach kids to solve problems together.</p></div></li>
+        <li class="week"><div class="week-num"><small>Week</small><span>7</span></div><div><h3>Screens, school &amp; growing kids</h3><p>Screen-time transitions, homework, friendships, and staying connected as kids get older.</p></div></li>
+        <li class="week"><div class="week-num"><small>Week</small><span>8</span></div><div><h3>Repair &amp; reconnection</h3><p>Repair after hard moments, build lasting connection, and make your own family plan.</p></div></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- WHO IT'S FOR -->
+  <section>
+    <div class="wrap">
+      <div class="center">
+        <span class="eyebrow">Is this for you?</span>
+        <h2>Made for real, busy parents</h2>
+      </div>
+      <div class="two">
+        <div class="card">
+          <h3>This is for you if…</h3>
+          <ul class="list">
+            <li>You have a child aged 1–12</li>
+            <li>You're tired of yelling, then feeling guilty</li>
+            <li>You want to understand your child, not just control behavior</li>
+            <li>You want practical words you can use today</li>
+            <li>You're doing your best and want support, not judgment</li>
+          </ul>
+        </div>
+        <div class="card">
+          <h3>It's not the right fit if…</h3>
+          <ul class="list no">
+            <li>You're looking for strict, punishment-based methods</li>
+            <li>You want a quick fix with no practice</li>
+            <li>Your child needs a diagnosis or therapy. Please see a licensed professional for that (this program can sit alongside that support)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- INSTRUCTOR -->
+  <section style="background:var(--surface);border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
+    <div class="wrap about">
+      <div class="avatar" aria-hidden="true">NPP</div>
+      <div>
+        <span class="eyebrow">Your guide</span>
+        <h2>Hi, I'm <span class="ph">[Your name]</span></h2>
+        <p>I'm a parenting consultant and clinical psychology trainee. I created No Perfect Parents because so many parents I talk to feel blamed, overwhelmed and alone. You deserve tools that are grounded in psychology <em>and</em> delivered with kindness.</p>
+        <p><span class="ph">[Add 1–2 sentences about your experience, training and why this work matters to you.]</span></p>
+        <p>Follow along on Instagram: <a href="#" rel="noopener"><span class="ph">[@your-handle]</span></a></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- PRICING -->
+  <section id="pricing" class="pricing">
+    <div class="wrap">
+      <div class="center">
+        <span class="eyebrow">Enroll</span>
+        <h2>Join No Perfect Parents</h2>
+        <p class="lead">Full 8-week program. Choose the option that works for your family.</p>
+      </div>
+
+      <div class="plans">
+        <div class="plan featured">
+          <span class="badge">Best value</span>
+          <h3>Pay in full</h3>
+          <div class="price">$297</div>
+          <p class="sub">One-time payment. Save $30.</p>
+          <ul class="list">
+            <li>All 8 weekly modules</li>
+            <li>Scripts &amp; worksheets</li>
+            <li><span class="ph">[Access length, e.g. lifetime access]</span></li>
+            <li><span class="ph">[Any bonus, e.g. live Q&amp;A]</span></li>
+          </ul>
+          <a class="btn block" data-checkout="full" href="#pricing">Enroll – $297</a>
+        </div>
+
+        <div class="plan">
+          <h3>Payment plan</h3>
+          <div class="price">$109 <small>× 3 months</small></div>
+          <p class="sub">$327 total, spread over 3 monthly payments.</p>
+          <ul class="list">
+            <li>All 8 weekly modules</li>
+            <li>Scripts &amp; worksheets</li>
+            <li><span class="ph">[Access length]</span></li>
+            <li><span class="ph">[Any bonus]</span></li>
+          </ul>
+          <a class="btn ghost block" data-checkout="plan" href="#pricing">Enroll – 3 × $109</a>
+        </div>
+      </div>
+
+      <p class="secure">🔒 Payments are handled securely by our checkout provider. This website never sees or stores your card details.</p>
+      <div class="setup-note" id="setup-note" role="status" aria-live="polite">
+        <strong>Checkout isn't connected yet.</strong> This is a draft. Enrollment will open soon, and no payment was taken.
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section>
+    <div class="wrap">
+      <div class="center">
+        <span class="eyebrow">Questions</span>
+        <h2>Frequently asked</h2>
+      </div>
+      <div class="faq">
+        <details><summary>What ages is this for?</summary><p>Parents and caregivers of children aged 1–12. Each module includes examples for little ones and for older kids.</p></details>
+        <details><summary>How much time does it take each week?</summary><p><span class="ph">[e.g. About 30–45 minutes of video lessons plus a short practice task.]</span> You can go at your own pace.</p></details>
+        <details><summary>How do I access the lessons after I pay?</summary><p><span class="ph">[Explain delivery, e.g. "You'll receive an email within 24 hours with your login / access link."]</span></p></details>
+        <details><summary>Can my partner or co-parent join too?</summary><p><span class="ph">[Yes/no, e.g. "Yes, one enrollment covers both caregivers in the same household."]</span></p></details>
+        <details><summary>What if it's not right for me?</summary><p><span class="ph">[Your refund policy, e.g. "Email us within 14 days for a full refund."]</span></p></details>
+        <details><summary>Is this therapy?</summary><p>No. No Perfect Parents is an educational program, not therapy, diagnosis or medical advice. If you're worried about your child's development, mental health or safety, please speak with a licensed professional.</p></details>
+      </div>
+    </div>
+  </section>
+
+  <!-- FINAL CTA -->
+  <section class="final center">
+    <div class="wrap">
+      <h2>Ready to parent with less guilt and more calm?</h2>
+      <p class="lead">You don't need to be perfect. You just need a place to start.</p>
+      <a class="btn" href="#pricing">Enroll in No Perfect Parents</a>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="links">
+      <a href="#"><span class="ph">[Privacy policy]</span></a>
+      <a href="#"><span class="ph">[Terms &amp; refund policy]</span></a>
+      <a href="#"><span class="ph">[Contact email]</span></a>
+    </div>
+    <p>No Perfect Parents is an educational program and does not provide therapy, diagnosis or medical advice. © <span id="year"></span> <span class="ph">[Your name / business name]</span></p>
+  </div>
+</footer>
+
+<script>
+  /* ============================================================
+     CHECKOUT LINKS: paste your secure checkout URLs here.
+     Create these in your Whish (business/merchant) account.
+     While a value is empty, its button shows a "not connected" note
+     and goes nowhere. This page never handles card details.
+     ============================================================ */
+  const CHECKOUT_LINKS = {
+    full: "",   // e.g. "https://...your Whish payment link for $297..."
+    plan: ""    // e.g. "https://...your Whish link for the 3 × $109 plan..."
+  };
+
+  document.querySelectorAll("[data-checkout]").forEach(btn => {
+    const url = CHECKOUT_LINKS[btn.dataset.checkout];
+    if (url && url.startsWith("https://")) {
+      btn.href = url;
+      btn.rel = "noopener";
+    } else {
+      btn.classList.add("placeholder");
+      btn.setAttribute("aria-disabled", "true");
+      btn.addEventListener("click", e => {
+        e.preventDefault();
+        document.getElementById("setup-note").classList.add("show");
+      });
+    }
+  });
+
+  document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+</body>
+</html>
