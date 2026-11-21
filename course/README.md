@@ -18,14 +18,14 @@ Total: about **45 minutes per week**, plus practice. Use this for the website FA
 
 | Week | Title | Status |
 |---|---|---|
-| 1 | Kind and firm: the Positive Discipline way | ✅ Drafted ([folder](week-01-kind-and-firm/)) |
-| 2 | Your calm comes first | Not started |
-| 3 | The belief behind the behavior | Not started |
-| 4 | Connection before correction | Not started |
-| 5 | Focus on solutions | Not started |
-| 6 | Routines, choices & cooperation | Not started |
-| 7 | Family meetings, siblings & screens | Not started |
-| 8 | Mistakes are opportunities to learn | Not started |
+| 1 | Kind and firm: the Positive Discipline way | ✅ Script, slides, filming notes, worksheet, cheat sheet ([folder](week-01-kind-and-firm/)) |
+| 2 | Your calm comes first | ✏️ Script ([folder](week-02-your-calm/)). Slides, filming notes, worksheet, cheat sheet still to do |
+| 3 | The belief behind the behavior | ✏️ Script ([folder](week-03-belief-behind-behavior/)). Slides, filming notes, worksheet, cheat sheet still to do |
+| 4 | Connection before correction | ✏️ Script ([folder](week-04-connection-before-correction/)). Slides, filming notes, worksheet, cheat sheet still to do |
+| 5 | Focus on solutions | ✏️ Script ([folder](week-05-focus-on-solutions/)). Slides, filming notes, worksheet, cheat sheet still to do |
+| 6 | Routines, choices & cooperation | ✏️ Script ([folder](week-06-routines-and-choices/)). Slides, filming notes, worksheet, cheat sheet still to do |
+| 7 | Family meetings, siblings & screens | ✏️ Script ([folder](week-07-family-meetings-siblings-screens/)). Slides, filming notes, worksheet, cheat sheet still to do |
+| 8 | Mistakes are opportunities to learn | ✏️ Script ([folder](week-08-mistakes-are-for-learning/)). Slides, filming notes, worksheet, cheat sheet still to do |
 
 ## Notes before recording
 
