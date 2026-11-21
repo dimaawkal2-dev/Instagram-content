@@ -1,37 +1,38 @@
 # Dimawkal: Content Calendar (DRAFT)
 
+**Approach:** Positive Discipline (kind and firm, connection before correction, solutions instead of punishment)
 **Rhythm:** Mon Reel · Wed Carousel · Fri Reel/Post · posting at ~8–9 pm
 **Status options:** Idea → Drafted → Reviewed → Ready → Posted (you post it yourself)
 
 Detailed scripts are in `02-post-and-reel-ideas.md` and captions are in `03-caption-drafts.md`.
 
-## Week 1: Big feelings
+## Week 1: Kind and firm
 | Date | Day | Format | Pillar | Topic | CTA | Status |
 |---|---|---|---|---|---|---|
-| | Mon | Reel | Why kids do that | They're not giving you a hard time, they're having one | Follow | Drafted |
-| | Wed | Carousel | Say this, not that | 5 things to say during a meltdown | Save | Drafted |
-| | Fri | Reel | You matter too | Repair over perfect | Comment 💛 | Drafted |
+| | Mon | Reel | Belief behind behavior | A misbehaving child is a discouraged child | Follow | Drafted |
+| | Wed | Carousel | PD tools | Kind AND firm: 6 phrases | Save | Drafted |
+| | Fri | Reel | Kind to yourself | Mistakes are opportunities to learn: 3 Rs of repair | Comment 💛 | Drafted |
 
-## Week 2: Listening and cooperation
+## Week 2: Connection before correction
 | Date | Day | Format | Pillar | Topic | CTA | Status |
 |---|---|---|---|---|---|---|
-| | Mon | Reel | Why kids do that | Your kid isn't ignoring you | Follow | Drafted |
-| | Wed | Carousel | Say this, not that | Swap commands for choices | Share | Drafted |
-| | Fri | Post | You matter too | Gentle ≠ permissive | Comment | Drafted |
+| | Mon | Reel | Belief behind behavior | Connect before you correct | Follow | Drafted |
+| | Wed | Carousel | PD tools | Praise vs. encouragement: 6 swaps | Share | Drafted |
+| | Fri | Post | Kind to yourself | Positive discipline isn't permissive | Comment | Drafted |
 
-## Week 3: Bedtime and routines
+## Week 3: Routines and choices
 | Date | Day | Format | Pillar | Topic | CTA | Status |
 |---|---|---|---|---|---|---|
-| | Mon | Reel | Why kids do that | Why bedtime becomes a battle | Follow | Idea |
-| | Wed | Carousel | Say this, not that | Calm bedtime in 5 steps | Save | Idea |
-| | Fri | Reel | You matter too | 4 signs you're running on empty | Comment 💛 | Idea |
+| | Mon | Reel | Belief behind behavior | Bedtime power struggles and routine charts | Follow | Idea |
+| | Wed | Carousel | PD tools | Make a routine chart with your child | Save | Idea |
+| | Fri | Reel | Kind to yourself | Positive time-out for parents | Comment 💛 | Idea |
 
-## Week 4: Siblings + course spotlight
+## Week 4: Solutions + course spotlight
 | Date | Day | Format | Pillar | Topic | CTA | Status |
 |---|---|---|---|---|---|---|
-| | Mon | Reel | Why kids do that | Stop being the referee | Follow | Idea |
-| | Wed | Carousel | Say this, not that | What to say when siblings fight | Save | Idea |
-| | Fri | Reel | Course and journey | What I wish every parent knew + [COURSE NAME] | Comment [KEYWORD] | Idea |
+| | Mon | Reel | Belief behind behavior | Sibling fights: focus on solutions | Follow | Idea |
+| | Wed | Carousel | PD tools | 15-minute family meeting | Save | Idea |
+| | Fri | Reel | Course and credentials | Why I teach Positive Discipline + No Perfect Parents | Comment [KEYWORD] | Idea |
 
 ## Notes / ideas parking lot
 -

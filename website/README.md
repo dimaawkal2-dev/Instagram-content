@@ -1,6 +1,6 @@
 # No Perfect Parents: Course Website (DRAFT)
 
-A single-page, mobile-friendly sales page for the 8-week **No Perfect Parents** program.
+A single-page, mobile-friendly sales page for the 8-week **No Perfect Parents** program, built on Positive Discipline.
 
 - **Status:** draft. It's not published and checkout isn't connected, so no one can be charged.
 - **Preview:** open `index.html` in any browser.
@@ -38,6 +38,7 @@ Placeholders are highlighted in yellow on the page:
 - [ ] Access length and any bonus (the pricing cards)
 - [ ] Weekly time commitment, how students get access after paying, co-parent policy, refund policy (the FAQ)
 - [ ] Privacy policy, terms & refund policy, contact email (footer). You need these before taking payments.
+- [ ] The Positive Discipline Association's guidelines for certified educators: how you may use the "Positive Discipline" name and logo, and any attribution notice they require (there's a placeholder for it in the footer)
 - [ ] Optional: add real testimonials, with written permission, once you have them
 
 ## 3. Decide how students get the lessons

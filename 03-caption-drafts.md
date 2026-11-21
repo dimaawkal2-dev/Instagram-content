@@ -1,139 +1,141 @@
 # Caption Drafts (DRAFT, NOT POSTED)
 
+**Approach: Positive Discipline.** Kind and firm, encouraging, never shaming.
+
 How these are built:
 - **First line = hook.** Only ~125 characters show before "…more", so the first line has to earn the tap.
 - **One clear ask** per post (save, comment, share or follow), not all four.
-- **3–5 focused hashtags** at the end. A few relevant tags beat 30 generic ones. Rotate the sets so posts aren't identical.
-- Search keywords (like "toddler tantrums") are written into the caption naturally, because Instagram search reads captions.
+- **3–5 focused hashtags** at the end. Rotate the sets so posts aren't identical.
+- Search keywords (like "positive discipline", "toddler tantrums") are written into the caption naturally, because Instagram search reads captions.
 
 ---
 
 ## Week 1
 
-### Mon Reel: "They're not giving you a hard time"
+### Mon Reel: "A misbehaving child is a discouraged child"
 
-> Your toddler isn't giving you a hard time. They're having one. 🧠
+> Your child isn't trying to make you mad. They're trying to belong. 💛
 >
-> When your little one melts down over the "wrong" cup, it can feel personal. It's not.
+> One idea from Positive Discipline changed how I see every tantrum and power struggle: "A misbehaving child is a discouraged child" (Rudolf Dreikurs).
 >
-> The part of the brain in charge of calming down and self-control is still under construction (for years!). In the middle of a toddler tantrum, your child can't reason their way out. They need to borrow your calm first.
+> Every child needs to feel two things: I belong, and I matter. When they don't, they go looking for it in mistaken ways, like whining, defiance, or "Watch me! Watch me!"
 >
-> Try this next time:
-> → Get down to their level
-> → Lower your voice
-> → Say less, stay close
+> So next time, before you react, get curious:
+> → What is my child really trying to tell me?
+> → How can I help them feel connected right now?
 >
-> Connection first. Lessons later, once everyone's calm.
+> Connection first. Correction second.
 >
-> Follow along for more "why kids do that" 💛
+> Follow along for more Positive Discipline tools ✨
 >
-> #toddlertantrums #gentleparenting #childpsychology #parentingtips
+> #positivediscipline #childbehavior #positiveparenting #parentingtips
 
-### Wed Carousel: "5 things to say during a meltdown"
+### Wed Carousel: "Kind AND firm"
 
-> Save this for the next meltdown. Future you will be grateful 💛
+> You don't have to choose between kind and firm. You can be both. 👇
 >
-> In the heat of the moment, our brains go blank too. Having a few phrases ready makes it so much easier to stay steady.
+> Kind shows respect for your child. Firm shows respect for yourself and for what the situation needs. Together, that's the heart of Positive Discipline.
 >
-> My go-tos:
-> 1️⃣ "I'm right here."
-> 2️⃣ "You're really upset. That's okay."
-> 3️⃣ "Let's breathe together."
-> 4️⃣ "You can be mad. I won't let you hit."
-> 5️⃣ "Hug or some space?"
+> A few of my favorites:
+> 1️⃣ "I love you, and the answer is no."
+> 2️⃣ "You're upset, and it's still time to go."
+> 3️⃣ "I won't let you hit. You can stomp instead."
+> 4️⃣ "What's your plan for homework tonight?"
+> 5️⃣ "I'll read when your pajamas are on."
 >
-> And the ones to skip (we've all said them!): "Stop crying," "You're fine," "Big kids don't do that."
+> Swipe for #6, then save this for the next hard moment 💛
 >
-> Which one are you trying this week? Tell me in the comments 👇
->
-> #parentingtips #emotionalregulation #positiveparenting #toddlerlife #bigfeelings
+> #positivediscipline #kindandfirm #parentingtips #toddlerlife #raisingkids
 
-### Fri Reel: "Repair over perfect"
+### Fri Reel: "Mistakes are opportunities to learn"
 
-> Yelling doesn't make you a bad parent. Here's what to do after.
+> I teach Positive Discipline, and I still lose my cool sometimes. Here's what I do next.
 >
-> Every parent loses it sometimes. What matters most is what happens next: the repair.
+> In Positive Discipline, mistakes are wonderful opportunities to learn. That goes for parents too.
 >
-> Something as simple as:
-> "I yelled earlier. That wasn't okay. I was frustrated, and it wasn't your fault. I love you."
+> When I mess up, I use the 3 Rs of Recovery:
+> 1. Recognize: "I yelled."
+> 2. Reconcile: "I'm sorry. That wasn't respectful."
+> 3. Resolve: "Let's figure out what we can both do next time."
 >
-> When you repair, your child learns that people who love each other can mess up and come back together. That's a lesson they'll carry for life.
+> Your kids don't need a perfect parent. They need one who shows them how to repair.
 >
-> If you needed this today, drop a 💛 below. You're doing better than you think.
+> If you needed this today, drop a 💛 below.
 >
-> #momguilt #parentingsupport #gentleparenting #consciousparenting
+> #positivediscipline #momguilt #parentingsupport #noperfectparents
 
 ---
 
 ## Week 2
 
-### Mon Reel: "Your kid isn't ignoring you"
+### Mon Reel: "Connect before you correct"
 
-> Your kid isn't ignoring you. They might not have actually heard you. 👀
+> Your kid isn't ignoring you. They might just need connection first. 👀
 >
-> When kids are focused on play, a request shouted from the kitchen often doesn't register. It's not (always!) defiance. It's how attention works at this age.
+> Shouting a request from the kitchen while they're deep in play rarely works. It's not always defiance. Kids cooperate best when they feel connected.
 >
-> Try the 4-step reset:
+> Try this:
 > 1. Walk over
-> 2. Get down to their level and say their name
-> 3. Wait for eye contact
-> 4. Give one short, clear instruction
+> 2. Get down to their level
+> 3. Make eye contact, or put a hand on their shoulder
+> 4. Then make one short, respectful request
 >
-> It takes 10 extra seconds and saves 10 minutes of repeating yourself.
+> 10 extra seconds of connection saves 10 minutes of repeating yourself.
 >
-> Follow for more simple, science-backed parenting tools ✨
+> Follow for more Positive Discipline tools ✨
 >
-> #parentingtips #toddlerbehavior #childdevelopment #positiveparenting
+> #positivediscipline #connectionbeforecorrection #parentingtips #childdevelopment
 
-### Wed Carousel: "Commands → choices"
+### Wed Carousel: "Praise vs. encouragement"
 
-> Stop saying "put your shoes on!" 20 times. Try this instead 👇
+> Stop saying "Good job!" (sort of). Here's what builds real confidence 👇
 >
-> Kids push back hardest when they feel they have zero control. Giving two choices (both of which you're happy with) lets them feel in charge while you still get to the door.
+> Praise teaches kids to look for our approval. Encouragement helps them notice their own effort and feel capable from the inside.
 >
-> Swipe for 6 swaps you can use today:
-> 👟 "Red shoes or blue shoes?"
-> 🛁 "Bath first or pajamas first?"
-> 🥦 "Broccoli or carrots on your plate?"
+> A few swaps:
+> 🌟 "Good job!" → "You worked really hard on that."
+> 🌟 "I'm so proud of you." → "You must be proud of yourself."
+> 🌟 "Good girl/boy." → "Thank you for helping. That made a difference."
 > …and 3 more inside.
 >
-> Send this to your co-parent so you're both using the same script 📲
+> Send this to your co-parent so you're both trying it this week 📲
 >
-> #gentleparenting #parentinghacks #toddlermom #toddlerdad #cooperation
+> #positivediscipline #encouragement #positiveparenting #raisingconfidentkids #parentinghacks
 
-### Fri Post: "Gentle ≠ permissive"
+### Fri Post: "Positive discipline isn't permissive"
 
-> Gentle parenting doesn't mean no boundaries. Let's clear this up.
+> Positive discipline doesn't mean no rules. Let's clear this up.
 >
-> Gentle (or authoritative, as research calls it) parenting is warm and firm. You can say "I understand you're sad" AND "the answer is still no." Both at once.
+> Positive Discipline is kind AND firm, both at once:
 >
-> Permissive = warmth, no limits
-> Authoritarian = limits, no warmth
-> Authoritative = warmth + limits 💛
+> Permissive = kind, but not firm
+> Punitive = firm, but not kind
+> Positive Discipline = kind AND firm 💛
 >
-> Studies consistently link that third style with kids who are more confident and better at managing emotions.
+> It's not about letting kids do whatever they want. It's about teaching skills, finding solutions together, and holding limits with respect instead of punishment or shame.
 >
-> Did you think gentle parenting meant "no rules"? Be honest in the comments, no judgment 😄
+> Did you think "positive" meant "no limits"? Be honest in the comments, no judgment 😄
 >
-> #gentleparenting #authoritativeparenting #parentingmyths #raisingkids
+> #positivediscipline #kindandfirm #parentingmyths #raisingkids
 
 ---
 
 ## Week 4 Fri: course spotlight (template for sales posts)
 
-> 3 things I wish every parent knew (and what I'm doing about it)
+> Why I teach Positive Discipline (and what I built for you)
 >
-> 1. Behavior is communication.
-> 2. Your calm is contagious, and so is your stress.
-> 3. You don't need to be perfect, just willing to repair.
+> As a Certified Positive Discipline Parent Educator, I've seen how three ideas change families:
+> 1. A misbehaving child is a discouraged child.
+> 2. You can be kind and firm at the same time.
+> 3. Mistakes are opportunities to learn, for parents too.
 >
-> These ideas are the foundation of [COURSE NAME], my [X-week / self-paced] program for parents of [AGE RANGE] who want fewer power struggles and more connection.
+> That's what No Perfect Parents is built on: an 8-week program for parents of kids aged 1–12 who want fewer power struggles and more connection, without blame.
 >
-> Inside you'll get: [3 bullet points of what's included].
+> Inside: [3 bullet points of what's included].
 >
 > Comment [KEYWORD] and I'll send you the details. 💛
 >
-> #parentingcourse #gentleparenting #parentingsupport #raisingkids
+> #positivediscipline #parentingcourse #noperfectparents #parentingsupport
 
 > ⚠️ If you use "Comment [KEYWORD]", you'll need to send the link yourself or set up an automation tool. Only promise what you can deliver.
 
@@ -143,8 +145,10 @@ How these are built:
 
 | Set | Tags |
 |---|---|
-| **Behavior** | #toddlertantrums #toddlerbehavior #bigfeelings #emotionalregulation #childpsychology |
-| **Tips** | #parentingtips #parentinghacks #positiveparenting #gentleparenting #raisingkids |
-| **Support** | #momguilt #parentingsupport #consciousparenting #parentingishard #motherhoodunplugged |
-| **Audience** | #toddlermom #toddlerdad #momlife #dadlife #millennialparents |
-| **Course** | #parentingcourse #parentingcoach #parentingeducation #parentingjourney |
+| **Positive Discipline** | #positivediscipline #kindandfirm #positivedisciplineparenting #encouragement #connectionbeforecorrection |
+| **Behavior** | #childbehavior #toddlertantrums #bigfeelings #emotionalregulation #childdevelopment |
+| **Tips** | #parentingtips #parentinghacks #positiveparenting #raisingkids #respectfulparenting |
+| **Support** | #momguilt #parentingsupport #parentingishard #noperfectparents |
+| **Course** | #parentingcourse #parentingeducator #parentingclass #parentingjourney |
+
+> Note: search `#noperfectparents` on Instagram before using it as your branded hashtag, to check that no one else is already using it.

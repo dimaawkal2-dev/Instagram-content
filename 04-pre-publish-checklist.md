@@ -10,6 +10,8 @@ Copy this list for each post and tick it off before you hit Share.
 - [ ] **Advice is general, not individual.** Where it fits, I've added something like: *"General education, not a substitute for professional support."*
 - [ ] **Research claims are true and not overstated.** I can name the source if someone asks ("studies show" is backed by real studies).
 - [ ] **Safety topics point to real help.** If a post touches on abuse, self-harm, postpartum depression or a crisis, it includes a line encouraging people to contact a professional or local helpline.
+- [ ] **It matches Positive Discipline.** No punishment, shaming, threats, bribes or reward charts presented as the answer. It's kind *and* firm, not permissive.
+- [ ] **Positive Discipline credit is accurate.** I describe myself as a "Certified Positive Discipline Parent Educator" and follow the Positive Discipline Association's guidelines for using the name and logo. I don't suggest that the Association or Jane Nelsen endorses my course unless they do. Quotes are attributed (e.g. Dreikurs, Nelsen, Siegel).
 - [ ] **Nothing shames parents.** I'd be comfortable if a struggling parent read this on their worst day.
 
 ## 2. Privacy and consent
