@@ -21,3 +21,15 @@
 - رُفعت نسخ PDF من شرائح الأسابيع 1–8 إلى مكتبة Canva (Uploads).
 - أُنشئت عروض Canva قابلة للتعديل للأسابيع 1–4 داخل المجلد (بعدد الشرائح نفسه). الأسابيع 5–8: نفدت أرصدة Canva AI، فاستوردوا ملفات `.pptx` يدويًا (مجانًا).
 - ملاحظة: أداة الرفع في Canva لا تقبل ملفات PowerPoint مباشرة، لذلك رُفعت بصيغة PDF. لتعديل كامل، استوردوا ملف `.pptx` يدويًا من Canva ← Import file.
+
+## لإكمال الأسابيع 5–8 لاحقًا
+بانتظار تجدّد أرصدة Canva AI. ملفات PDF مرفوعة مسبقًا إلى Canva (معرّفات الملفات):
+
+| الأسبوع | File ID |
+|---|---|
+| Week 5 | `oAHbqDqWm7w` |
+| Week 6 | `oAHbqMjNAGE` |
+| Week 7 | `oAHbqF3QLoc` |
+| Week 8 | `oAHbqBNO1Zk` |
+
+مجلد Canva: `FAHbqJtuYcw`. عروض جاهزة: Week 1 `DAHbqJAeRe8` · Week 2 `DAHbqWXRI2Y` · Week 3 `DAHbqVtWtXE` · Week 4 `DAHbqSz-r4Q`.
