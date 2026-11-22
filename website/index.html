@@ -103,8 +103,13 @@
   .plan .sub{color:var(--muted);font-size:.98rem;margin-bottom:20px}
   .plan .list{margin-bottom:24px;flex:1}
   .secure{display:flex;justify-content:center;align-items:center;gap:8px;color:var(--muted);font-size:.95rem;margin-top:20px;text-align:center}
-  .setup-note{display:none;max-width:760px;margin:20px auto 0;background:#fff;border:2px dashed var(--accent);border-radius:var(--radius);padding:16px 20px;font-size:1rem}
-  .setup-note.show{display:block}
+  .pay-steps{display:none;max-width:440px;margin:20px auto 0;background:#fff;border:2px solid var(--sage);border-radius:var(--radius);padding:22px 20px}
+  .pay-steps.show{display:block}
+  .pay-steps ol{padding-inline-start:22px;margin:0 0 18px}
+  .pay-steps li{margin-bottom:10px}
+  .pay-number{display:inline-block;font:700 1.25rem/1.4 "Fraunces",Georgia,serif;margin-top:4px;letter-spacing:.02em}
+  .copy-btn{margin-inline-start:8px;border:1px solid var(--line);background:var(--soft);border-radius:999px;padding:4px 12px;font:600 .85rem "Tajawal",sans-serif;cursor:pointer;color:var(--text)}
+  .pay-note{font-size:.9rem;color:var(--muted);margin:12px 0 0;text-align:center}
 
   .faq{max-width:760px;margin:32px auto 0}
   details{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:4px 20px;margin-bottom:10px}
@@ -139,7 +144,7 @@
 </head>
 <body>
 
-<div class="draft" role="note">نسخة تجريبية (مسودّة): غير منشورة. الدفع غير مفعّل بعد، لذلك لا يمكن تحصيل أي مبلغ من أحد.</div>
+<div class="draft" role="note">نسخة تجريبية (مسودّة): غير منشورة بعد.</div>
 
 <header class="nav">
   <div class="wrap">
@@ -294,9 +299,20 @@
         </div>
       </div>
 
-      <p class="secure">🔒 تتمّ عمليات الدفع بأمان عبر مزوّد خدمة الدفع. هذا الموقع لا يرى ولا يحفظ بيانات بطاقتكم أبدًا.</p>
-      <div class="setup-note" id="setup-note" role="status" aria-live="polite">
-        <strong>الدفع غير مفعّل بعد.</strong> هذه نسخة تجريبية. سيفتح التسجيل قريبًا، ولم يُحصَّل أي مبلغ.
+      <p class="secure">🔒 الدفع بتحويل عبر تطبيق Whish. هذا الموقع لا يطلب ولا يحفظ أي بيانات بطاقات أو حسابات.</p>
+
+      <div class="pay-steps" id="pay-steps" role="region" aria-label="طريقة الدفع" tabindex="-1">
+        <h3>طريقة التسجيل والدفع عبر <bdi>Whish</bdi></h3>
+        <ol>
+          <li>حوّلوا <strong><bdi dir="ltr">$99</bdi></strong> عبر تطبيق <bdi>Whish</bdi> إلى الرقم:<br>
+            <span class="pay-number"><bdi dir="ltr" id="whish-number"></bdi></span>
+            <button type="button" class="copy-btn" id="copy-number">نسخ الرقم</button></li>
+          <li>اكتبوا اسمكم الكامل في ملاحظة التحويل.</li>
+          <li>أرسلوا صورة إيصال التحويل مع بريدكم الإلكتروني عبر WhatsApp.</li>
+          <li>بعد التأكّد من وصول المبلغ، يصلكم رابط الدخول إلى الدورة خلال 24 ساعة.</li>
+        </ol>
+        <a class="btn block" id="whatsapp-btn" href="#" target="_blank" rel="noopener">أرسلوا الإيصال عبر WhatsApp</a>
+        <p class="pay-note">من خارج لبنان؟ راسلونا عبر WhatsApp لنرشدكم إلى طريقة الدفع المناسبة.</p>
       </div>
     </div>
   </section>
@@ -313,7 +329,7 @@
         <details><summary>لأي أعمار هذا البرنامج؟</summary><p>لأهالي ومقدّمي رعاية الأطفال من عمر 1 إلى 12 سنة. كل وحدة تتضمّن أمثلة للأطفال الصغار وأخرى للأكبر سنًا.</p></details>
         <details><summary>كم مدة الوصول إلى الدورة؟</summary><p>مدى الحياة. تدفعون مرة واحدة، وتبقى الدروس متاحة لكم لتعودوا إليها كلما احتجتم، مع أي تحديثات نضيفها لاحقًا. <span class="ph">[تأكّدوا أن الشروط تعرّف "مدى الحياة" بأنها طوال مدة توفّر الدورة.]</span></p></details>
         <details><summary>كم من الوقت يتطلّب كل أسبوع؟</summary><p>حوالي 45 دقيقة أسبوعيًا: نحو 30 دقيقة من الفيديوهات القصيرة، وورقة عمل، وتحدٍّ عملي بسيط. يمكنكم التقدّم بالسرعة التي تناسبكم.</p></details>
-        <details><summary>كيف أصل إلى الدروس بعد الدفع؟</summary><p><span class="ph">[اشرحوا طريقة التسليم، مثلًا: "ستصلكم رسالة خلال 24 ساعة فيها رابط الدخول."]</span></p></details>
+        <details><summary>كيف أصل إلى الدروس بعد الدفع؟</summary><p>بعد التحويل عبر <bdi>Whish</bdi>، أرسلوا الإيصال وبريدكم الإلكتروني عبر WhatsApp. عندما نتأكّد من وصول المبلغ، نرسل لكم دعوة الدخول إلى الدورة على بريدكم خلال 24 ساعة.</p></details>
         <details><summary>هل يمكن لشريكي في التربية الانضمام أيضًا؟</summary><p><span class="ph">[نعم/لا، مثلًا: "نعم، التسجيل الواحد يشمل الأبوين في المنزل نفسه."]</span></p></details>
         <details><summary>ماذا لو لم يناسبني البرنامج؟</summary><p><span class="ph">[سياسة الاسترداد، مثلًا: "راسلونا خلال 14 يومًا لاسترداد المبلغ كاملًا."]</span></p></details>
         <details><summary>هل هذا علاج نفسي؟</summary><p>لا. <bdi>No Perfect Parents</bdi> برنامج تثقيفي، وليس علاجًا أو تشخيصًا أو استشارة طبية. إذا كنتم قلقين بشأن نموّ طفلكم أو صحته النفسية أو سلامته، يُرجى التحدث مع مختص مرخّص.</p></details>
@@ -345,28 +361,44 @@
 
 <script>
   /* ============================================================
-     روابط الدفع: الصقوا روابط الدفع الآمنة هنا.
-     أنشئوها من حساب Whish التجاري (أو أي مزوّد دفع آمن).
-     طالما القيمة فارغة، يبقى الزر رماديًا ويُظهر رسالة "غير مفعّل".
-     هذه الصفحة لا تتعامل أبدًا مع بيانات البطاقات.
+     إعدادات الدفع
+     - WHISH_NUMBER: الرقم الذي يُحوَّل إليه المبلغ عبر Whish.
+     - WHATSAPP_NUMBER: رقم WhatsApp لاستقبال الإيصالات (أرقام فقط، مع رمز الدولة، بلا 00 أو +).
+     - CHECKOUT_LINK: اتركوه فارغًا. إذا حصلتم لاحقًا على رابط دفع بالبطاقة
+       (مثلًا من Whish التجاري)، الصقوه هنا فيذهب الزرّ إليه مباشرة.
+     هذه الصفحة لا تطلب ولا تحفظ أي بيانات بطاقات.
      ============================================================ */
-  const CHECKOUT_LINKS = {
-    full: ""    // مثلًا: "https://...رابط Whish لمبلغ $99 (سعر الإطلاق)..."
-  };
+  const WHISH_NUMBER    = "+961 70 766 616";
+  const WHATSAPP_NUMBER = "96170766616";
+  const PRICE           = "$99";
+  const CHECKOUT_LINK   = "";
+
+  const waText = encodeURIComponent(
+    "مرحبًا، حوّلت " + PRICE + " عبر Whish للتسجيل في No Perfect Parents.\n" +
+    "الاسم الكامل: \nالبريد الإلكتروني: \n(أرفقت صورة الإيصال)"
+  );
+  document.getElementById("whish-number").textContent = WHISH_NUMBER;
+  document.getElementById("whatsapp-btn").href = "https://wa.me/" + WHATSAPP_NUMBER + "?text=" + waText;
+
+  document.getElementById("copy-number").addEventListener("click", e => {
+    const btn = e.currentTarget;
+    const done = () => { btn.textContent = "تمّ النسخ ✓"; setTimeout(() => btn.textContent = "نسخ الرقم", 2000); };
+    try { navigator.clipboard.writeText(WHISH_NUMBER.replace(/\s/g, "")).then(done, () => {}); } catch (_) {}
+  });
 
   document.querySelectorAll("[data-checkout]").forEach(btn => {
-    const url = CHECKOUT_LINKS[btn.dataset.checkout];
-    if (url && url.startsWith("https://")) {
-      btn.href = url;
+    if (CHECKOUT_LINK && CHECKOUT_LINK.startsWith("https://")) {
+      btn.href = CHECKOUT_LINK;
       btn.rel = "noopener";
-    } else {
-      btn.classList.add("placeholder");
-      btn.setAttribute("aria-disabled", "true");
-      btn.addEventListener("click", e => {
-        e.preventDefault();
-        document.getElementById("setup-note").classList.add("show");
-      });
+      return;
     }
+    btn.addEventListener("click", e => {
+      e.preventDefault();
+      const box = document.getElementById("pay-steps");
+      box.classList.add("show");
+      box.scrollIntoView({ behavior: "smooth", block: "center" });
+      box.focus({ preventScroll: true });
+    });
   });
 
   document.getElementById("year").textContent = new Date().getFullYear();
