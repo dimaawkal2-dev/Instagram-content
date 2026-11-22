@@ -1,38 +1,38 @@
-# Dimawkal: Content Calendar (DRAFT)
+# Dimawkal: Content Calendar (مسودّة)
 
-**Approach:** Positive Discipline (kind and firm, connection before correction, solutions instead of punishment)
-**Rhythm:** Mon Reel · Wed Carousel · Fri Reel/Post · posting at ~8–9 pm
-**Status options:** Idea → Drafted → Reviewed → Ready → Posted (you post it yourself)
+**الأسلوب:** Positive Discipline (لطف وحزم معًا، التواصل قبل التصحيح، حلول بدل العقاب)
+**الإيقاع:** الإثنين Reel · الأربعاء Carousel · الجمعة Reel/منشور · النشر حوالي ‏8–9 مساءً
+**الحالات:** فكرة ← مكتوب ← تمّت المراجعة ← جاهز ← منشور (أنتم من ينشر)
 
-Detailed scripts are in `02-post-and-reel-ideas.md` and captions are in `03-caption-drafts.md`.
+النصوص التفصيلية في `02-post-and-reel-ideas.md` والـCaptions في `03-caption-drafts.md`.
 
-## Week 1: Kind and firm
-| Date | Day | Format | Pillar | Topic | CTA | Status |
+## Week 1: Kind and Firm
+| التاريخ | اليوم | الشكل | المحور | الموضوع | دعوة للتفاعل | الحالة |
 |---|---|---|---|---|---|---|
-| | Mon | Reel | Belief behind behavior | A misbehaving child is a discouraged child | Follow | Drafted |
-| | Wed | Carousel | PD tools | Kind AND firm: 6 phrases | Save | Drafted |
-| | Fri | Reel | Kind to yourself | Mistakes are opportunities to learn: 3 Rs of repair | Comment 💛 | Drafted |
+| | الإثنين | Reel | Belief Behind Behavior | الطفل الذي يسيء التصرّف هو طفل محبَط | تابعوني | مكتوب |
+| | الأربعاء | Carousel | PD Tools | Kind AND Firm: ‏6 عبارات | احفظوا | مكتوب |
+| | الجمعة | Reel | Kind to Yourself | الأخطاء فرص للتعلّم: 3 Rs of Recovery | علّقوا 💛 | مكتوب |
 
-## Week 2: Connection before correction
-| Date | Day | Format | Pillar | Topic | CTA | Status |
+## Week 2: Connection Before Correction
+| التاريخ | اليوم | الشكل | المحور | الموضوع | دعوة للتفاعل | الحالة |
 |---|---|---|---|---|---|---|
-| | Mon | Reel | Belief behind behavior | Connect before you correct | Follow | Drafted |
-| | Wed | Carousel | PD tools | Praise vs. encouragement: 6 swaps | Share | Drafted |
-| | Fri | Post | Kind to yourself | Positive discipline isn't permissive | Comment | Drafted |
+| | الإثنين | Reel | Belief Behind Behavior | تواصلوا قبل أن تصحّحوا | تابعوني | مكتوب |
+| | الأربعاء | Carousel | PD Tools | المديح مقابل التشجيع: 6 بدائل | شاركوا | مكتوب |
+| | الجمعة | منشور | Kind to Yourself | التربية الإيجابية ليست تساهلًا | علّقوا | مكتوب |
 
-## Week 3: Routines and choices
-| Date | Day | Format | Pillar | Topic | CTA | Status |
+## Week 3: Routines and Choices
+| التاريخ | اليوم | الشكل | المحور | الموضوع | دعوة للتفاعل | الحالة |
 |---|---|---|---|---|---|---|
-| | Mon | Reel | Belief behind behavior | Bedtime power struggles and routine charts | Follow | Idea |
-| | Wed | Carousel | PD tools | Make a routine chart with your child | Save | Idea |
-| | Fri | Reel | Kind to yourself | Positive time-out for parents | Comment 💛 | Idea |
+| | الإثنين | Reel | Belief Behind Behavior | صراعات وقت النوم وجداول الروتين | تابعوني | فكرة |
+| | الأربعاء | Carousel | PD Tools | اصنعوا جدول روتين مع طفلكم | احفظوا | فكرة |
+| | الجمعة | Reel | Kind to Yourself | Positive Time-Out للأهل | علّقوا 💛 | فكرة |
 
-## Week 4: Solutions + course spotlight
-| Date | Day | Format | Pillar | Topic | CTA | Status |
+## Week 4: Solutions + Course Spotlight
+| التاريخ | اليوم | الشكل | المحور | الموضوع | دعوة للتفاعل | الحالة |
 |---|---|---|---|---|---|---|
-| | Mon | Reel | Belief behind behavior | Sibling fights: focus on solutions | Follow | Idea |
-| | Wed | Carousel | PD tools | 15-minute family meeting | Save | Idea |
-| | Fri | Reel | Course and credentials | Why I teach Positive Discipline + No Perfect Parents | Comment [KEYWORD] | Idea |
+| | الإثنين | Reel | Belief Behind Behavior | شجار الإخوة: ركّزوا على الحلول | تابعوني | فكرة |
+| | الأربعاء | Carousel | PD Tools | اجتماع عائلي في 15 دقيقة | احفظوا | فكرة |
+| | الجمعة | Reel | Course and Credentials | لماذا أعلّم Positive Discipline + No Perfect Parents | علّقوا [KEYWORD] | فكرة |
 
-## Notes / ideas parking lot
+## ملاحظات / أفكار مؤجّلة
 -

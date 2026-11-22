@@ -1,60 +1,60 @@
-# Weekly Content Calendar (DRAFT)
+# Weekly Content Calendar (مسودّة)
 
-**Approach: Positive Discipline.** Kind and firm at the same time, connection before correction, solutions instead of punishment, encouragement instead of praise, and mistakes as opportunities to learn.
+**الأسلوب: Positive Discipline.** لطف وحزم في الوقت نفسه، التواصل قبل التصحيح، حلول بدل العقاب، تشجيع بدل المديح، والأخطاء فرص للتعلّم.
 
-## Content pillars
+## Content Pillars (محاور المحتوى)
 
-Rotate these so the feed mixes reach, trust and sales instead of selling every post.
+نوّعوا بين هذه المحاور حتى يجمع الحساب بين الوصول والثقة والمبيعات، بدل البيع في كل منشور.
 
-| Pillar | What it is | Main goal | Share of posts |
+| المحور | ما هو | الهدف الأساسي | النسبة |
 |---|---|---|---|
-| **1. The belief behind the behavior** | Why kids misbehave: belonging, significance, and "a misbehaving child is a discouraged child" | Followers + shares | ~35% |
-| **2. Positive Discipline tools** | Kind-and-firm scripts, curiosity questions, routine charts, family meetings, encouragement | Saves + engagement | ~35% |
-| **3. Kind to yourself too** | Your own calm, positive time-out for parents, mistakes and repair, dropping guilt | Comments + connection | ~15% |
-| **4. Course and credentials** | No Perfect Parents, your Positive Discipline certification, your psych-training story | Sales + trust | ~15% |
+| **1. The Belief Behind the Behavior** | لماذا يسيء الأطفال التصرّف: الانتماء، الأهمية، و"الطفل الذي يسيء التصرّف هو طفل محبَط" | متابعون + مشاركات | ~35% |
+| **2. Positive Discipline Tools** | عبارات Kind and Firm، أسئلة الفضول، جداول الروتين، الاجتماعات العائلية، التشجيع | حفظ + تفاعل | ~35% |
+| **3. Kind to Yourself Too** | هدوء الأهل أنفسهم، Positive Time-Out للأهل، الأخطاء والإصلاح، التخلّص من الشعور بالذنب | تعليقات + قرب | ~15% |
+| **4. Course and Credentials** | دورة No Perfect Parents، الشهادة في Positive Discipline، رحلة دراسة علم النفس | مبيعات + ثقة | ~15% |
 
-## The weekly template (3 posts)
+## القالب الأسبوعي (3 منشورات)
 
-| Day | Format | Pillar | Why this slot |
+| اليوم | الشكل | المحور | لماذا هذا التوقيت |
 |---|---|---|---|
-| **Monday** | Reel (20–40s) | 1. The belief behind the behavior | Starts the week with your best reach format |
-| **Wednesday** | Carousel (6–8 slides) | 2. Positive Discipline tools | Carousels get saved, and saves keep a post showing up |
-| **Friday** | Reel or single post | Weeks 1–3: pillar 3. Week 4: pillar 4 (course) | Relatable end-of-week post; one soft sell a month |
+| **الإثنين** | Reel (‏20–40 ثانية) | 1. The Belief Behind the Behavior | بداية الأسبوع بأقوى صيغة للوصول |
+| **الأربعاء** | Carousel (‏6–8 شرائح) | 2. Positive Discipline Tools | الـCarousel يُحفظ كثيرًا، والحفظ يُبقي المنشور ظاهرًا |
+| **الجمعة** | Reel أو منشور واحد | الأسابيع 1–3: المحور 3. الأسبوع 4: المحور 4 (الدورة) | منشور قريب من القلب لنهاية الأسبوع، وبيع لطيف مرة في الشهر |
 
-**Suggested posting time:** 8:00–9:00 pm (after bedtime) or 6:30–7:30 am. After 3–4 weeks, check Insights → *Most active times* and adjust.
+**وقت النشر المقترح:** ‏8:00–9:00 مساءً (بعد نوم الأطفال) أو ‏6:30–7:30 صباحًا. بعد 3–4 أسابيع، افتحوا Insights ← *Most active times* وعدّلوا.
 
-**Stories (optional, 5 minutes a day):** reshare the day's post, add one poll or question sticker ("Which is harder: being kind or being firm?"), and reply to answers by DM yourself.
+**Stories (اختياري، 5 دقائق يوميًا):** أعيدوا نشر منشور اليوم، أضيفوا استطلاعًا أو سؤالًا ("ما الأصعب عليكم: اللطف أم الحزم؟")، وردّوا على الإجابات برسائل بأنفسكم.
 
-**Engagement (15 minutes, the day you post):** reply to every comment in the first hour, and leave 5–10 real comments on posts from other parenting accounts.
+**التفاعل (15 دقيقة يوم النشر):** ردّوا على كل تعليق في الساعة الأولى، واتركوا 5–10 تعليقات حقيقية على حسابات تربوية أخرى.
 
-## 4-week calendar
+## تقويم 4 أسابيع
 
-### Week 1: Kind and firm
-| Day | Format | Topic |
+### Week 1: Kind and Firm
+| اليوم | الشكل | الموضوع |
 |---|---|---|
-| Mon | Reel | "A misbehaving child is a discouraged child": what's really behind the behavior |
-| Wed | Carousel | Kind AND firm: 6 phrases that do both at once |
-| Fri | Reel | Mistakes are opportunities to learn (yours too): the 3 Rs of repair |
+| الإثنين | Reel | "الطفل الذي يسيء التصرّف هو طفل محبَط": ما الذي يكمن خلف السلوك |
+| الأربعاء | Carousel | Kind AND Firm: ‏6 عبارات تجمع الاثنين معًا |
+| الجمعة | Reel | الأخطاء فرص للتعلّم (أخطاؤنا أيضًا): 3 Rs of Recovery |
 
-### Week 2: Connection before correction
-| Day | Format | Topic |
+### Week 2: Connection Before Correction
+| اليوم | الشكل | الموضوع |
 |---|---|---|
-| Mon | Reel | Your kid isn't ignoring you: connect before you correct |
-| Wed | Carousel | Praise vs. encouragement: 6 swaps that build real confidence |
-| Fri | Single post / Reel | "Positive discipline isn't permissive": myth vs. reality |
+| الإثنين | Reel | طفلكم لا يتجاهلكم: تواصلوا قبل أن تصحّحوا |
+| الأربعاء | Carousel | المديح مقابل التشجيع: 6 بدائل تبني ثقة حقيقية |
+| الجمعة | منشور / Reel | "التربية الإيجابية ليست تساهلًا": خرافة أم حقيقة |
 
-### Week 3: Routines and choices
-| Day | Format | Topic |
+### Week 3: Routines and Choices
+| اليوم | الشكل | الموضوع |
 |---|---|---|
-| Mon | Reel | Why bedtime becomes a power struggle (and how a routine chart ends it) |
-| Wed | Carousel | Make a routine chart *with* your child in 5 steps |
-| Fri | Reel | Positive time-out for parents: it's okay to step away and calm down |
+| الإثنين | Reel | لماذا يتحوّل وقت النوم إلى صراع قوة (وكيف ينهيه جدول الروتين) |
+| الأربعاء | Carousel | اصنعوا جدول روتين *مع* طفلكم في 5 خطوات |
+| الجمعة | Reel | Positive Time-Out للأهل: لا بأس أن نبتعد قليلًا لنهدأ |
 
-### Week 4: Solutions + course spotlight
-| Day | Format | Topic |
+### Week 4: Solutions + Course Spotlight
+| اليوم | الشكل | الموضوع |
 |---|---|---|
-| Mon | Reel | Sibling fights: stop refereeing and focus on solutions |
-| Wed | Carousel | How to run a 15-minute family meeting |
-| Fri | Reel | Course spotlight: why I teach Positive Discipline, plus what's inside No Perfect Parents |
+| الإثنين | Reel | شجار الإخوة: توقّفوا عن دور الحَكَم وركّزوا على الحلول |
+| الأربعاء | Carousel | كيف تديرون اجتماعًا عائليًا في 15 دقيقة |
+| الجمعة | Reel | لماذا أعلّم Positive Discipline، وماذا تتضمّن دورة No Perfect Parents |
 
-Repeat the cycle with new topics from the idea bank in `02-post-and-reel-ideas.md`.
+كرّروا الدورة بمواضيع جديدة من بنك الأفكار في `02-post-and-reel-ideas.md`.

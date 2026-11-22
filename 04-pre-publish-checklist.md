@@ -1,49 +1,49 @@
-# Pre-Publish Checklist
+# Pre-Publish Checklist (قائمة المراجعة قبل النشر)
 
-Copy this list for each post and tick it off before you hit Share.
+انسخوا هذه القائمة لكل منشور وأشّروا عليها قبل الضغط على "مشاركة".
 
-## 1. Accuracy and professional responsibility
-*Most important for a parenting consultant who is still training as a psychologist.*
+## 1. الدقة والمسؤولية المهنية
+*الأهم لمن يقدّم استشارات تربوية وما زال يدرس علم النفس.*
 
-- [ ] **My title is accurate.** I describe myself as a parenting consultant and psychology student/trainee. I don't call myself a "psychologist" or "clinical psychologist" until I'm licensed (in many places that title is legally protected).
-- [ ] **No diagnosing.** The post doesn't suggest a child "has" ADHD, autism, anxiety, etc. based on a few signs.
-- [ ] **Advice is general, not individual.** Where it fits, I've added something like: *"General education, not a substitute for professional support."*
-- [ ] **Research claims are true and not overstated.** I can name the source if someone asks ("studies show" is backed by real studies).
-- [ ] **Safety topics point to real help.** If a post touches on abuse, self-harm, postpartum depression or a crisis, it includes a line encouraging people to contact a professional or local helpline.
-- [ ] **It matches Positive Discipline.** No punishment, shaming, threats, bribes or reward charts presented as the answer. It's kind *and* firm, not permissive.
-- [ ] **Positive Discipline credit is accurate.** I describe myself as a "Certified Positive Discipline Parent Educator" and follow the Positive Discipline Association's guidelines for using the name and logo. I don't suggest that the Association or Jane Nelsen endorses my course unless they do. Quotes are attributed (e.g. Dreikurs, Nelsen, Siegel).
-- [ ] **Nothing shames parents.** I'd be comfortable if a struggling parent read this on their worst day.
+- [ ] **لقبي صحيح.** أعرّف نفسي بأنني أقدّم استشارات تربوية، وأحمل شهادة "Certified Positive Discipline Parent Educator"، وأدرس علم النفس. لا أستخدم لقب "أخصائي/ة نفسي/ة" أو "أخصائي/ة نفسي/ة عيادي/ة" قبل الحصول على الترخيص (هذا اللقب محميّ قانونيًا في أماكن كثيرة).
+- [ ] **لا تشخيص.** المنشور لا يوحي بأن طفلًا "لديه" فرط حركة أو توحّد أو قلق بناءً على بضع علامات.
+- [ ] **النصيحة عامة وليست فردية.** عند الحاجة أضفت عبارة مثل: *"محتوى توعوي عام، ولا يغني عن الدعم المتخصص."*
+- [ ] **المعلومات العلمية صحيحة وغير مبالغ فيها.** أستطيع ذكر المصدر إذا سُئلت عنه.
+- [ ] **المواضيع الحساسة توجّه لمساعدة حقيقية.** إذا تناول المنشور الإساءة أو إيذاء النفس أو اكتئاب ما بعد الولادة أو أزمة ما، يتضمّن سطرًا يشجّع على التواصل مع مختص أو خط مساعدة محلي.
+- [ ] **يتوافق مع Positive Discipline.** لا عقاب ولا إذلال ولا تهديد ولا رشوة ولا جداول مكافآت كحلّ. لطيف *و*حازم، وليس متساهلًا.
+- [ ] **الإشارة إلى Positive Discipline دقيقة.** أعرّف نفسي بأنني "Certified Positive Discipline Parent Educator" وألتزم بإرشادات Positive Discipline Association لاستخدام الاسم والشعار. لا أوحي بأن الجمعية أو Jane Nelsen تتبنّى دورتي إلا إذا كان ذلك صحيحًا. أنسب الاقتباسات لأصحابها (مثل Dreikurs وNelsen وSiegel).
+- [ ] **لا شيء يُشعر الأهل بالذنب أو اللوم.** أرتاح لو قرأه أحد الأهل المتعَبين في أسوأ أيامه.
 
-## 2. Privacy and consent
-- [ ] **No identifiable children** (faces, names, schools, locations) without a parent's clear consent. My own kids' privacy counts too.
-- [ ] **Client and follower stories are anonymized,** with written permission for any testimonials or screenshots.
-- [ ] **No location details** in the background (house number, school logo, street signs).
-- [ ] **Music and images are licensed** (Instagram's music library, my own photos, or properly licensed stock).
+## 2. الخصوصية والموافقة
+- [ ] **لا أطفال يمكن التعرّف عليهم** (وجوه، أسماء، مدارس، أماكن) دون موافقة واضحة من الأهل. خصوصية أطفالي أنا أيضًا مهمّة.
+- [ ] **قصص العملاء والمتابعين مجهولة الهوية،** مع إذن مكتوب لأي شهادة أو لقطة شاشة.
+- [ ] **لا تفاصيل عن المكان** في الخلفية (رقم المنزل، شعار المدرسة، لافتات الشوارع).
+- [ ] **الموسيقى والصور مرخّصة** (مكتبة موسيقى Instagram، صوري الخاصة، أو صور مرخّصة).
 
-## 3. Content quality
-- [ ] **The hook works on its own.** The first 2 seconds (Reel) or slide 1 (carousel) make someone stop scrolling.
-- [ ] **One idea per post.** If it covers two things, split it into two posts.
-- [ ] **On-screen text or captions are added** to Reels, since most people watch muted.
-- [ ] **Readable on a phone.** Text is large, high-contrast, and away from the edges where Instagram buttons cover it.
-- [ ] **Correct size.** Reel 9:16 (1080×1920); carousel/post 4:5 (1080×1350).
-- [ ] **Sounds like me.** Friendly and casual, as if I'm talking to a friend over coffee.
+## 3. جودة المحتوى
+- [ ] **الـHook يعمل وحده.** أول ثانيتين (Reel) أو الشريحة الأولى (Carousel) توقف التمرير.
+- [ ] **فكرة واحدة في كل منشور.** إذا كان فيه فكرتان، قسّموه إلى منشورين.
+- [ ] **نص على الشاشة أو ترجمة** في الـReels، لأن معظم الناس يشاهدون دون صوت.
+- [ ] **سهل القراءة على الهاتف.** خط كبير وتباين واضح وبعيد عن أطراف الشاشة حيث أزرار Instagram.
+- [ ] **المقاس صحيح.** Reel ‏9:16 (‏1080×1920)؛ Carousel/منشور ‏4:5 (‏1080×1350).
+- [ ] **يشبهني.** ودود وبسيط، كأنني أتحدث مع صديق على فنجان قهوة.
 
-## 4. Caption
-- [ ] **First line is a hook** that makes sense before the "…more" cut (~125 characters).
-- [ ] **One clear call to action** (save, comment, share, follow or [KEYWORD]).
-- [ ] **Spelling and grammar checked,** and I read it out loud once.
-- [ ] **3–5 relevant hashtags,** rotated from the hashtag sets.
-- [ ] **Any link mentioned works** (link in bio is updated and tested).
+## 4. الـCaption
+- [ ] **السطر الأول Hook** مفهوم قبل "…المزيد" (حوالي 125 حرفًا).
+- [ ] **دعوة واحدة واضحة للتفاعل** (احفظوا، علّقوا، شاركوا، تابعوا، أو [KEYWORD]).
+- [ ] **الإملاء والقواعد مراجَعة،** وقرأته بصوت عالٍ مرة واحدة.
+- [ ] **‏3–5 هاشتاغات مناسبة** من المجموعات المتناوبة.
+- [ ] **أي رابط مذكور يعمل** (رابط البايو محدّث ومجرَّب).
 
-## 5. Sales posts only
-- [ ] **No guaranteed results** ("This will stop all tantrums" ❌ → "Tools that help reduce power struggles" ✅).
-- [ ] **Price, dates and what's included are correct.**
-- [ ] **I can actually follow through** on "Comment [KEYWORD]" or "DM me" promises today.
-- [ ] **Testimonials are real,** used with permission, and not edited to change their meaning.
-- [ ] **Paid partnerships are labelled** with the "Paid partnership" tag if I was paid or gifted anything.
+## 5. منشورات البيع فقط
+- [ ] **لا وعود بنتائج مضمونة** ("هذا سيوقف كل نوبات الغضب" ❌ ← "أدوات تساعد على تقليل صراعات القوة" ✅).
+- [ ] **السعر والتواريخ وما تتضمّنه الدورة صحيحة.**
+- [ ] **أستطيع فعلًا الوفاء** بوعد "علّقوا [KEYWORD]" أو "راسلوني" اليوم.
+- [ ] **الشهادات حقيقية،** مستخدمة بإذن، ولم تُعدَّل لتغيير معناها.
+- [ ] **الشراكات المدفوعة موسومة** بـ"Paid partnership" إذا حصلت على مال أو هدية.
 
-## 6. Final check
-- [ ] Cover image / Reel thumbnail chosen and looks good on the grid.
-- [ ] Alt text added (Advanced settings → Accessibility).
-- [ ] Posting at my chosen time (default 8–9 pm, adjust after checking Insights).
-- [ ] I've blocked 15 minutes after posting to reply to comments.
+## 6. الفحص الأخير
+- [ ] صورة الغلاف / صورة الـReel مختارة وتبدو جميلة على الصفحة.
+- [ ] نص بديل (Alt text) مضاف (الإعدادات المتقدّمة ← إمكانية الوصول).
+- [ ] النشر في الوقت المختار (افتراضيًا ‏8–9 مساءً، وعدّلوه بعد مراجعة Insights).
+- [ ] خصّصت 15 دقيقة بعد النشر للردّ على التعليقات.

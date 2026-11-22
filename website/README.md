@@ -1,58 +1,60 @@
-# No Perfect Parents: Course Website (DRAFT)
+# No Perfect Parents: Course Website (مسودّة)
 
-A single-page, mobile-friendly sales page for the 8-week **No Perfect Parents** program, built on Positive Discipline.
+صفحة بيع واحدة، مناسبة للهاتف، لبرنامج **No Perfect Parents** لمدة 8 أسابيع، مبنية على Positive Discipline. الصفحة بالعربية (من اليمين إلى اليسار)، والعناوين وأسماء الأدوات بالإنجليزية.
 
-- **Status:** draft. It's not published and checkout isn't connected, so no one can be charged.
-- **Preview:** open `index.html` in any browser.
-- **No card data:** the Enroll buttons only *link out* to your payment provider's hosted checkout page. The site has no payment form and stores nothing.
+- **الحالة:** مسودّة. غير منشورة والدفع غير مفعّل، لذلك لا يمكن تحصيل أي مبلغ من أحد.
+- **المعاينة:** افتحوا `index.html` في أي متصفح.
+- **لا بيانات بطاقات:** أزرار التسجيل *تنقل فقط* إلى صفحة الدفع التي يستضيفها مزوّد الدفع. لا يوجد في الموقع نموذج دفع ولا يحفظ أي شيء.
 
-## 1. Connect your Whish checkout
+## 1. ربط الدفع عبر Whish
 
-1. Log in to your **Whish business/merchant account** and look for **payment links** (or "request payment", or online checkout).
-2. Create two links:
-   - **Pay in full:** $297 USD, one-time
-   - **Payment plan:** $109 USD. See the note below.
-3. Open `index.html`, find `CHECKOUT_LINKS` near the bottom, and paste each link between the quotes:
+1. ادخلوا إلى **حساب Whish التجاري** وابحثوا عن **روابط الدفع** (أو "طلب دفعة" أو الدفع الإلكتروني).
+2. أنشئوا رابطين:
+   - **الدفع الكامل:** ‏297 دولارًا، دفعة واحدة
+   - **التقسيط:** ‏109 دولارات. راجعوا الملاحظة أدناه.
+3. افتحوا `index.html`، وابحثوا عن `CHECKOUT_LINKS` قرب نهاية الملف، والصقوا كل رابط بين علامتي التنصيص:
    ```js
    const CHECKOUT_LINKS = {
      full: "https://your-whish-link-for-297",
      plan: "https://your-whish-link-for-109"
    };
    ```
-4. Save and refresh. The grey buttons turn orange and go to Whish.
+4. احفظوا وحدّثوا الصفحة. تتحوّل الأزرار الرمادية إلى البرتقالي وتنقل إلى Whish.
 
-**Check with Whish before launching:**
-- [ ] Your account can accept payments **online through a link** (not only in-app transfers between Whish users).
-- [ ] Which payment methods buyers can use (Whish wallet only, or also Visa/Mastercard). If it's wallet only, buyers outside Lebanon may not be able to pay.
-- [ ] Whether Whish supports **automatic monthly instalments**. If it doesn't, the 3 × $109 plan becomes 3 separate links or invoices you send each month. In that case, update the plan wording on the page.
-- [ ] That the checkout page is **hosted by Whish** (`https://`), so the buyer types card details there, never on your site.
-- [ ] Fees, payout timing, and whether you receive the buyer's email so you can send course access.
+⚠️ **لا تضعوا رقم بطاقتكم أبدًا في الموقع أو في أي ملف.** المطلوب رابط دفع فقط.
 
-If Whish can't do card payments online, the page works the same with a **Stripe Payment Link**, **Gumroad**, **Lemon Squeezy**, or a course platform's checkout (Teachable, Thinkific, Podia). Just paste that link instead.
+**تأكّدوا من Whish قبل الإطلاق:**
+- [ ] أن حسابكم يستقبل دفعات **أونلاين عبر رابط** (وليس فقط تحويلات بين مستخدمي Whish).
+- [ ] طرق الدفع المتاحة للمشترين (محفظة Whish فقط، أم Visa/Mastercard أيضًا). إذا كانت المحفظة فقط، قد لا يتمكّن المشترون من خارج لبنان من الدفع.
+- [ ] هل يدعم Whish **الأقساط الشهرية التلقائية**. إذا لم يكن يدعمها، تصبح خطة 3 × ‏$109 ثلاثة روابط أو فواتير منفصلة ترسلونها كل شهر. في هذه الحالة عدّلوا نص الخطة في الصفحة.
+- [ ] أن صفحة الدفع **مستضافة لدى Whish** (`https://`)، بحيث يُدخل المشتري بيانات بطاقته هناك، وليس في موقعكم أبدًا.
+- [ ] الرسوم، وموعد تحويل الأموال، وهل تحصلون على بريد المشتري لإرسال رابط الدورة له.
 
-## 2. Fill in the placeholders
+إذا لم يدعم Whish الدفع بالبطاقة أونلاين، تعمل الصفحة بالطريقة نفسها مع **Stripe Payment Link** أو **Gumroad** أو **Lemon Squeezy** أو صفحة دفع منصّة دورات (Teachable، Thinkific، Podia). الصقوا ذلك الرابط بدلًا منه.
 
-Placeholders are highlighted in yellow on the page:
+## 2. تعبئة الخانات الفارغة
 
-- [ ] Your name, short bio and Instagram handle
-- [ ] Access length and any bonus (the pricing cards)
-- [ ] Weekly time commitment, how students get access after paying, co-parent policy, refund policy (the FAQ)
-- [ ] Privacy policy, terms & refund policy, contact email (footer). You need these before taking payments.
-- [ ] The Positive Discipline Association's guidelines for certified educators: how you may use the "Positive Discipline" name and logo, and any attribution notice they require (there's a placeholder for it in the footer)
-- [ ] Optional: add real testimonials, with written permission, once you have them
+الخانات الفارغة مظلّلة بالأصفر في الصفحة:
 
-## 3. Decide how students get the lessons
+- [ ] اسمكم ونبذة قصيرة وحساب Instagram
+- [ ] مدة الوصول وأي مكافأة (بطاقات الأسعار)
+- [ ] طريقة الوصول إلى الدروس بعد الدفع، وسياسة شريك التربية، وسياسة الاسترداد (الأسئلة الشائعة)
+- [ ] سياسة الخصوصية، والشروط وسياسة الاسترداد، وبريد التواصل (أسفل الصفحة). تحتاجونها قبل استقبال أي دفعة.
+- [ ] إرشادات Positive Discipline Association للمدرّبين المعتمدين: كيف يُسمح باستخدام اسم وشعار "Positive Discipline"، وأي إشعار تطلبه الجمعية (توجد خانة له أسفل الصفحة)
+- [ ] اختياري: أضيفوا شهادات حقيقية، بإذن مكتوب، عندما تتوفّر
 
-Payment and course delivery are separate. Choose one:
-- A course platform (Teachable, Thinkific, Podia, Kajabi) that hosts the videos and logins, or
-- Private video links plus a welcome email you send after each payment.
+## 3. قرّروا كيف يصل المشتركون إلى الدروس
 
-## 4. Before going live
+الدفع وتسليم الدورة أمران منفصلان. اختاروا واحدًا:
+- منصّة دورات (Teachable، Thinkific، Podia، Kajabi) تستضيف الفيديوهات وحسابات الدخول، أو
+- روابط فيديو خاصة مع رسالة ترحيب ترسلونها بعد كل دفعة.
 
-- [ ] Test each checkout link with a small or test payment, then refund it
-- [ ] Check the page on your phone
-- [ ] Remove the dark "DRAFT PREVIEW" bar at the top of `index.html`
-- [ ] Remove the `<meta name="robots" content="noindex, nofollow">` line so Google can find the page
-- [ ] Publish with a static host (Netlify, GitHub Pages, Cloudflare Pages, Carrd or similar) and add the link to your Instagram bio
+## 4. قبل الإطلاق
 
-Nothing here has been published, and no one has been charged.
+- [ ] جرّبوا كل رابط دفع بمبلغ صغير أو دفعة تجريبية، ثم استردّوها
+- [ ] افحصوا الصفحة على هاتفكم
+- [ ] احذفوا الشريط الداكن "نسخة تجريبية" أعلى `index.html`
+- [ ] احذفوا السطر `<meta name="robots" content="noindex, nofollow">` حتى يجد Google الصفحة
+- [ ] انشروها عبر استضافة ثابتة (Netlify، GitHub Pages، Cloudflare Pages، Carrd أو ما يشبهها) وضعوا الرابط في بايو Instagram
+
+لم يُنشر أي شيء، ولم يُحصَّل أي مبلغ من أحد.

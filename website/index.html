@@ -1,115 +1,108 @@
 <!doctype html>
-<html lang="en">
+<html lang="ar" dir="rtl">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- DRAFT: remove the next line when you're ready for search engines to find the site -->
+<!-- مسودّة: احذفوا السطر التالي عندما تريدون أن تظهر الصفحة في محركات البحث -->
 <meta name="robots" content="noindex, nofollow">
-<title>No Perfect Parents | 8-Week Parenting Program</title>
-<meta name="description" content="An 8-week, blame-free Positive Discipline program for parents of kids aged 1–12. Learn to be kind and firm, connect before you correct, and focus on solutions instead of punishment.">
+<title>No Perfect Parents | برنامج تربوي لمدة 8 أسابيع</title>
+<meta name="description" content="برنامج Positive Discipline لمدة 8 أسابيع، بلا لوم، لأهالي الأطفال من عمر 1 إلى 12 سنة. تعلّموا الجمع بين اللطف والحزم، والتواصل قبل التصحيح، والبحث عن حلول بدل العقاب.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Nunito+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
     --bg:#fffaf5; --surface:#ffffff; --soft:#fbefe4; --text:#2d2a32; --muted:#6b6470;
     --accent:#d9694a; --accent-dark:#b9502f; --sage:#5f8a74; --line:#eedfd2;
     --radius:18px; --max:1040px;
+    --head:"Tajawal","Fraunces",system-ui,sans-serif;
   }
   *{box-sizing:border-box}
   html{scroll-behavior:smooth}
-  body{margin:0;background:var(--bg);color:var(--text);font:17px/1.6 "Nunito Sans",system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
-  h1,h2,h3{font-family:Fraunces,Georgia,serif;line-height:1.15;margin:0 0 .5em;letter-spacing:-.01em}
-  h1{font-size:clamp(2.2rem,7vw,3.6rem)}
+  body{margin:0;background:var(--bg);color:var(--text);font:18px/1.8 "Tajawal",system-ui,-apple-system,"Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+  h1,h2,h3{font-family:var(--head);font-weight:800;line-height:1.3;margin:0 0 .5em}
+  h1{font-size:clamp(2.1rem,7vw,3.4rem)}
   h2{font-size:clamp(1.7rem,5vw,2.4rem)}
-  h3{font-size:1.2rem}
+  h3{font-size:1.25rem;font-weight:700}
   p{margin:0 0 1em}
   a{color:var(--accent-dark)}
+  .en{font-family:"Fraunces",Georgia,serif;font-weight:700}
   .wrap{max-width:var(--max);margin:0 auto;padding:0 16px}
   section{padding:64px 0}
   section[id]{scroll-margin-top:60px}
-  .eyebrow{display:inline-block;font-weight:700;font-size:.8rem;letter-spacing:.08em;text-transform:uppercase;color:var(--sage);margin-bottom:12px}
+  .eyebrow{display:inline-block;font-weight:700;font-size:.9rem;color:var(--sage);margin-bottom:10px}
   .center{text-align:center}
   .lead{font-size:1.15rem;color:var(--muted);max-width:640px}
   .center .lead{margin-left:auto;margin-right:auto}
 
-  /* draft banner */
-  .draft{background:#2d2a32;color:#fff;font-size:.85rem;text-align:center;padding:8px 16px}
+  .draft{background:#2d2a32;color:#fff;font-size:.9rem;text-align:center;padding:8px 16px}
 
-  /* nav */
   header.nav{position:sticky;top:0;z-index:10;background:rgba(255,250,245,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
   header.nav .wrap{display:flex;align-items:center;justify-content:space-between;height:60px}
-  .logo{font-family:Fraunces,Georgia,serif;font-weight:700;font-size:1.15rem;color:var(--text);text-decoration:none}
+  .logo{font-family:"Fraunces",Georgia,serif;font-weight:700;font-size:1.15rem;color:var(--text);text-decoration:none}
 
-  /* buttons */
-  .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:12px 24px;border-radius:999px;border:0;background:var(--accent);color:#fff;font:700 1rem/1 "Nunito Sans",sans-serif;text-decoration:none;cursor:pointer;transition:background .15s, transform .15s}
+  .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:48px;padding:10px 26px;border-radius:999px;border:0;background:var(--accent);color:#fff;font:700 1.05rem/1.2 "Tajawal",sans-serif;text-decoration:none;cursor:pointer;transition:background .15s, transform .15s}
   .btn:hover{background:var(--accent-dark)}
   .btn:active{transform:scale(.98)}
   .btn:focus-visible{outline:3px solid var(--sage);outline-offset:3px}
   .btn.ghost{background:transparent;color:var(--accent-dark);border:2px solid var(--accent)}
   .btn.ghost:hover{background:var(--soft)}
-  .btn.small{min-height:40px;padding:8px 18px;font-size:.9rem}
+  .btn.small{min-height:40px;padding:6px 20px;font-size:.95rem}
   .btn.block{width:100%}
   .btn.placeholder{background:#9a8f96;cursor:not-allowed}
   .btn.ghost.placeholder{background:transparent;color:#7d737a;border-color:#b9afb5}
 
-  /* hero */
-  .hero{padding:56px 0 64px;background:radial-gradient(1200px 500px at 85% -10%, #fde3d3 0%, transparent 60%)}
+  .hero{padding:56px 0 64px;background:radial-gradient(1200px 500px at 15% -10%, #fde3d3 0%, transparent 60%)}
   .hero-grid{display:grid;gap:40px;align-items:center}
+  .hero h1 .en{display:block;font-size:.55em;color:var(--accent-dark);margin-bottom:6px}
   .hero .lead{margin-bottom:28px}
   .hero-ctas{display:flex;flex-wrap:wrap;gap:12px;align-items:center}
-  .hero-note{font-size:.9rem;color:var(--muted);margin-top:14px}
+  .hero-note{font-size:.95rem;color:var(--muted);margin-top:14px}
   .hero-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:28px;box-shadow:0 20px 40px -24px rgba(120,60,30,.25)}
   .hero-card ul{list-style:none;padding:0;margin:0}
   .hero-card li{display:flex;gap:12px;padding:10px 0;border-bottom:1px dashed var(--line)}
   .hero-card li:last-child{border-bottom:0}
-  .tick{flex:none;width:26px;height:26px;border-radius:50%;background:#e4efe8;color:var(--sage);display:grid;place-items:center;font-weight:700;font-size:.85rem}
+  .tick{flex:none;width:26px;height:26px;border-radius:50%;background:#e4efe8;color:var(--sage);display:grid;place-items:center;font-weight:700;font-size:.85rem;margin-top:4px}
 
-  /* promise */
   .promise{background:var(--soft)}
-  .quote{font-family:Fraunces,Georgia,serif;font-size:clamp(1.35rem,4vw,1.8rem);line-height:1.35;max-width:760px;margin:0 auto}
+  .quote{font-size:clamp(1.3rem,4vw,1.7rem);font-weight:700;line-height:1.6;max-width:760px;margin:0 auto}
 
-  /* cards grid */
   .grid{display:grid;gap:16px;margin-top:32px}
   .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:24px}
   .card .icon{font-size:1.6rem;margin-bottom:8px}
+  .card h3 .en{display:block;font-size:.85rem;color:var(--sage);margin-bottom:2px}
   .card p{color:var(--muted);margin:0}
 
-  /* curriculum */
   .weeks{list-style:none;padding:0;margin:32px 0 0;display:grid;gap:12px}
   .week{display:flex;gap:16px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px}
-  .week-num{flex:none;width:52px;text-align:center;font-family:Fraunces,Georgia,serif;color:var(--accent-dark)}
-  .week-num small{display:block;font:700 .7rem/1 "Nunito Sans",sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:4px}
-  .week-num span{font-size:1.6rem;font-weight:700}
-  .week h3{margin-bottom:4px}
-  .week p{color:var(--muted);margin:0;font-size:.97rem}
+  .week-num{flex:none;width:60px;text-align:center;color:var(--accent-dark)}
+  .week-num small{display:block;font:700 .75rem/1 "Tajawal",sans-serif;color:var(--muted);margin-bottom:4px}
+  .week-num span{font-family:"Fraunces",Georgia,serif;font-size:1.7rem;font-weight:700}
+  .week h3{margin-bottom:2px;font-family:"Fraunces",Georgia,serif;direction:ltr;text-align:right}
+  .week p{color:var(--muted);margin:0;font-size:1rem}
 
-  /* for you */
   .two{display:grid;gap:16px;margin-top:32px}
   .list{list-style:none;padding:0;margin:0}
-  .list li{padding:8px 0 8px 32px;position:relative}
-  .list li::before{content:"✓";position:absolute;left:0;top:8px;color:var(--sage);font-weight:700}
+  .list li{padding:6px 32px 6px 0;position:relative}
+  .list li::before{content:"✓";position:absolute;right:0;top:6px;color:var(--sage);font-weight:700}
   .list.no li::before{content:"–";color:var(--muted)}
 
-  /* instructor */
   .about{display:grid;gap:28px;align-items:center}
-  .avatar{width:160px;height:160px;border-radius:50%;background:linear-gradient(135deg,#f6c9b2,#e4efe8);display:grid;place-items:center;font-family:Fraunces,Georgia,serif;font-size:2.6rem;color:var(--accent-dark);margin:0 auto}
+  .avatar{width:160px;height:160px;border-radius:50%;background:linear-gradient(135deg,#f6c9b2,#e4efe8);display:grid;place-items:center;font-family:"Fraunces",Georgia,serif;font-size:2.6rem;color:var(--accent-dark);margin:0 auto}
 
-  /* pricing */
   .pricing{background:var(--soft)}
   .plans{display:grid;gap:16px;margin-top:32px;max-width:760px;margin-left:auto;margin-right:auto}
   .plan{background:var(--surface);border:2px solid var(--line);border-radius:var(--radius);padding:28px;display:flex;flex-direction:column}
   .plan.featured{border-color:var(--accent);position:relative}
-  .badge{position:absolute;top:-13px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;font-size:.75rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:4px 12px;border-radius:999px;white-space:nowrap}
-  .price{font-family:Fraunces,Georgia,serif;font-size:2.8rem;font-weight:700;line-height:1;margin:8px 0 4px}
-  .price small{font:600 1rem "Nunito Sans",sans-serif;color:var(--muted)}
-  .plan .sub{color:var(--muted);font-size:.95rem;margin-bottom:20px}
+  .badge{position:absolute;top:-14px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;font-size:.85rem;font-weight:700;padding:3px 14px;border-radius:999px;white-space:nowrap}
+  .price{font-family:"Fraunces",Georgia,serif;font-size:2.8rem;font-weight:700;line-height:1;margin:8px 0 6px;direction:ltr;text-align:right}
+  .price small{font:500 1rem "Tajawal",sans-serif;color:var(--muted)}
+  .plan .sub{color:var(--muted);font-size:.98rem;margin-bottom:20px}
   .plan .list{margin-bottom:24px;flex:1}
-  .secure{display:flex;justify-content:center;align-items:center;gap:8px;color:var(--muted);font-size:.9rem;margin-top:20px;text-align:center}
-  .setup-note{display:none;max-width:760px;margin:20px auto 0;background:#fff;border:2px dashed var(--accent);border-radius:var(--radius);padding:16px 20px;font-size:.95rem}
+  .secure{display:flex;justify-content:center;align-items:center;gap:8px;color:var(--muted);font-size:.95rem;margin-top:20px;text-align:center}
+  .setup-note{display:none;max-width:760px;margin:20px auto 0;background:#fff;border:2px dashed var(--accent);border-radius:var(--radius);padding:16px 20px;font-size:1rem}
   .setup-note.show{display:block}
 
-  /* faq */
   .faq{max-width:760px;margin:32px auto 0}
   details{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:4px 20px;margin-bottom:10px}
   summary{cursor:pointer;font-weight:700;padding:14px 0;list-style:none;display:flex;justify-content:space-between;gap:12px}
@@ -118,14 +111,14 @@
   details[open] summary::after{content:"–"}
   details p{color:var(--muted)}
 
-  /* final cta */
   .final{background:#2d2a32;color:#fff}
   .final .lead{color:#d8d0d6}
 
-  footer{padding:32px 0;font-size:.85rem;color:var(--muted)}
+  footer{padding:32px 0;font-size:.9rem;color:var(--muted)}
   footer .links{display:flex;flex-wrap:wrap;gap:16px;margin-bottom:12px}
 
   .ph{background:#fff3c4;border-radius:4px;padding:0 4px}
+  bdi{unicode-bidi:isolate}
 
   @media (min-width:720px){
     section{padding:88px 0}
@@ -143,205 +136,205 @@
 </head>
 <body>
 
-<div class="draft" role="note">DRAFT PREVIEW: not published. Checkout is not connected yet, so no one can be charged.</div>
+<div class="draft" role="note">نسخة تجريبية (مسودّة): غير منشورة. الدفع غير مفعّل بعد، لذلك لا يمكن تحصيل أي مبلغ من أحد.</div>
 
 <header class="nav">
   <div class="wrap">
-    <a class="logo" href="#top">No Perfect Parents</a>
-    <a class="btn small" href="#pricing">Enroll</a>
+    <a class="logo" href="#top" dir="ltr">No Perfect Parents</a>
+    <a class="btn small" href="#pricing">سجّلوا الآن</a>
   </div>
 </header>
 
 <main id="top">
 
-  <!-- HERO -->
+  <!-- البداية -->
   <section class="hero">
     <div class="wrap hero-grid">
       <div>
-        <span class="eyebrow">8-week Positive Discipline program · ages 1–12</span>
-        <h1>You don't have to be perfect to be a great parent.</h1>
-        <p class="lead">No Perfect Parents is a warm, blame-free program built on <strong>Positive Discipline</strong>. Learn to be kind <em>and</em> firm, understand the belief behind your child's behavior, and swap punishment for solutions that actually last.</p>
+        <span class="eyebrow">برنامج <bdi>Positive Discipline</bdi> لمدة 8 أسابيع · للأعمار 1–12</span>
+        <h1><span class="en" dir="ltr">No Perfect Parents</span>لستم بحاجة لأن تكونوا مثاليين لتكونوا أهلًا رائعين.</h1>
+        <p class="lead">برنامج دافئ وخالٍ من اللوم، مبني على <strong><bdi>Positive Discipline</bdi></strong>. تعلّموا أن تكونوا لطفاء <em>و</em>حازمين في الوقت نفسه، وافهموا الاعتقاد الكامن خلف سلوك طفلكم، واستبدلوا العقاب بحلول تدوم فعلًا.</p>
         <div class="hero-ctas">
-          <a class="btn" href="#pricing">Enroll now</a>
-          <a class="btn ghost" href="#curriculum">See the 8 weeks</a>
+          <a class="btn" href="#pricing">سجّلوا الآن</a>
+          <a class="btn ghost" href="#curriculum">اطّلعوا على الأسابيع الثمانية</a>
         </div>
-        <p class="hero-note">From $109/month (3 payments), or $297 one-time.</p>
+        <p class="hero-note">ابتداءً من <bdi dir="ltr">$109</bdi> شهريًا (3 دفعات)، أو <bdi dir="ltr">$297</bdi> دفعة واحدة.</p>
       </div>
-      <div class="hero-card" aria-label="What you'll learn">
+      <div class="hero-card" aria-label="ماذا ستتعلّمون">
         <ul>
-          <li><span class="tick">✓</span><span>Understand what your child's behavior is really telling you</span></li>
-          <li><span class="tick">✓</span><span>Be kind and firm at the same time, with no yelling, threats or bribes</span></li>
-          <li><span class="tick">✓</span><span>Focus on solutions instead of punishment</span></li>
-          <li><span class="tick">✓</span><span>Turn mistakes (yours and theirs) into chances to learn</span></li>
+          <li><span class="tick">✓</span><span>افهموا ما الذي يحاول سلوك طفلكم قوله فعلًا</span></li>
+          <li><span class="tick">✓</span><span>كونوا لطفاء وحازمين معًا، بلا صراخ ولا تهديد ولا رشوة</span></li>
+          <li><span class="tick">✓</span><span>ركّزوا على الحلول بدل العقاب</span></li>
+          <li><span class="tick">✓</span><span>حوّلوا الأخطاء (أخطاءكم وأخطاءهم) إلى فرص للتعلّم</span></li>
         </ul>
       </div>
     </div>
   </section>
 
-  <!-- PROMISE -->
+  <!-- الوعد -->
   <section class="promise center">
     <div class="wrap">
-      <span class="eyebrow">No blame here</span>
-      <p class="quote">"Where did we ever get the crazy idea that in order to make children do better, first we have to make them feel worse?"</p>
-      <p style="margin-top:16px;color:var(--muted)">Jane Nelsen, author of <em>Positive Discipline</em></p>
-      <p class="lead" style="margin-top:20px">You're not doing it wrong, and nobody handed you a manual. This program is kind to your child <em>and</em> to you.</p>
+      <span class="eyebrow">لا لوم هنا</span>
+      <p class="quote">"من أين أتتنا الفكرة الغريبة بأنه لكي يتصرّف الأطفال بشكل أفضل، علينا أولًا أن نجعلهم يشعرون بشكل أسوأ؟"</p>
+      <p style="margin-top:12px;color:var(--muted)"><bdi>Jane Nelsen</bdi>، مؤلفة كتاب <em><bdi>Positive Discipline</bdi></em></p>
+      <p class="lead" style="margin-top:20px">أنتم لا تفعلون شيئًا خاطئًا، ولم يعطِكم أحد دليلًا للتربية. هذا البرنامج لطيف بطفلكم <em>و</em>بكم أنتم أيضًا.</p>
     </div>
   </section>
 
-  <!-- BENEFITS -->
+  <!-- الفوائد -->
   <section>
     <div class="wrap">
       <div class="center">
-        <span class="eyebrow">What changes</span>
-        <h2>Less battling. More connection.</h2>
-        <p class="lead">Practical Positive Discipline tools grounded in child psychology, explained the way a friend would explain them.</p>
+        <span class="eyebrow">ما الذي سيتغيّر</span>
+        <h2>صراعات أقل. قرب أكثر.</h2>
+        <p class="lead">أدوات عملية من <bdi>Positive Discipline</bdi> قائمة على علم نفس الطفل، مشروحة كما يشرحها صديق قريب.</p>
       </div>
       <div class="grid">
-        <div class="card"><div class="icon">🧠</div><h3>See the belief behind the behavior</h3><p>"A misbehaving child is a discouraged child." Learn to spot what your child needs to feel they belong and matter.</p></div>
-        <div class="card"><div class="icon">💬</div><h3>Know what to say</h3><p>Kind-and-firm scripts, curiosity questions and limited choices for meltdowns, bedtime, siblings, screens and more.</p></div>
-        <div class="card"><div class="icon">🌿</div><h3>Connect before you correct</h3><p>Stay calm with positive time-out (for you too!) so your child can borrow your calm, and listen.</p></div>
-        <div class="card"><div class="icon">🧱</div><h3>Kind and firm, together</h3><p>Not permissive, not punitive. Limits that hold, with respect for your child and for yourself.</p></div>
-        <div class="card"><div class="icon">🧩</div><h3>Solutions, not punishment</h3><p>Family meetings, routine charts and problem-solving together teach life skills that last long after a punishment would wear off.</p></div>
-        <div class="card"><div class="icon">💛</div><h3>Mistakes are for learning</h3><p>Use the 3 Rs of Recovery to repair after hard moments, and drop the guilt. Progress, not perfection.</p></div>
+        <div class="card"><div class="icon">🧠</div><h3><span class="en" dir="ltr">The Belief Behind the Behavior</span>انظروا إلى ما وراء السلوك</h3><p>"الطفل الذي يسيء التصرّف هو طفل محبَط." تعلّموا ملاحظة ما يحتاجه طفلكم ليشعر بالانتماء والأهمية.</p></div>
+        <div class="card"><div class="icon">💬</div><h3><span class="en" dir="ltr">Know What to Say</span>اعرفوا ماذا تقولون</h3><p>عبارات لطيفة وحازمة، وأسئلة فضول، وخيارات محدودة لنوبات الغضب ووقت النوم والإخوة والشاشات وغيرها.</p></div>
+        <div class="card"><div class="icon">🌿</div><h3><span class="en" dir="ltr">Connection Before Correction</span>التواصل قبل التصحيح</h3><p>حافظوا على هدوئكم مع <bdi>Positive Time-Out</bdi> (لكم أيضًا!) حتى يستعير طفلكم هدوءكم ويصغي إليكم.</p></div>
+        <div class="card"><div class="icon">🧱</div><h3><span class="en" dir="ltr">Kind and Firm</span>لطف وحزم معًا</h3><p>لا تساهل ولا عقاب. حدود ثابتة، مع احترام لطفلكم ولأنفسكم.</p></div>
+        <div class="card"><div class="icon">🧩</div><h3><span class="en" dir="ltr">Solutions, Not Punishment</span>حلول لا عقاب</h3><p>الاجتماعات العائلية وجداول الروتين وحلّ المشكلات معًا تعلّم مهارات حياتية تدوم بعد أن يُنسى أي عقاب.</p></div>
+        <div class="card"><div class="icon">💛</div><h3><span class="en" dir="ltr">Mistakes Are for Learning</span>الأخطاء للتعلّم</h3><p>استخدموا <bdi>3 Rs of Recovery</bdi> لإصلاح ما بعد اللحظات الصعبة، وتخلّصوا من الشعور بالذنب. تقدّم، لا كمال.</p></div>
       </div>
     </div>
   </section>
 
-  <!-- CURRICULUM -->
+  <!-- المنهج -->
   <section id="curriculum" style="background:var(--surface);border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
     <div class="wrap">
       <div class="center">
-        <span class="eyebrow">The program</span>
-        <h2>8 weeks, one step at a time</h2>
-        <p class="lead">One focused module a week, with short lessons you can fit around real family life.</p>
+        <span class="eyebrow">البرنامج</span>
+        <h2>8 أسابيع، خطوة بخطوة</h2>
+        <p class="lead">وحدة واحدة مركّزة كل أسبوع، بدروس قصيرة تناسب حياة العائلة الحقيقية.</p>
       </div>
       <ol class="weeks">
-        <li class="week"><div class="week-num"><small>Week</small><span>1</span></div><div><h3>Kind and firm: the Positive Discipline way</h3><p>Why punishment and permissiveness both backfire, and what long-term parenting looks like instead.</p></div></li>
-        <li class="week"><div class="week-num"><small>Week</small><span>2</span></div><div><h3>Your calm comes first</h3><p>"Flipping your lid", spotting your triggers, and positive time-out for parents and kids.</p></div></li>
-        <li class="week"><div class="week-num"><small>Week</small><span>3</span></div><div><h3>The belief behind the behavior</h3><p>Belonging and significance, the four mistaken goals, and what to do when you see each one.</p></div></li>
-        <li class="week"><div class="week-num"><small>Week</small><span>4</span></div><div><h3>Connection before correction</h3><p>Validating big feelings, special time, and encouragement instead of praise.</p></div></li>
-        <li class="week"><div class="week-num"><small>Week</small><span>5</span></div><div><h3>Focus on solutions</h3><p>Curiosity questions, logical consequences vs. punishment, and following through with kindness and firmness.</p></div></li>
-        <li class="week"><div class="week-num"><small>Week</small><span>6</span></div><div><h3>Routines, choices &amp; cooperation</h3><p>Routine charts, limited choices and ending power struggles at bedtime and in the morning.</p></div></li>
-        <li class="week"><div class="week-num"><small>Week</small><span>7</span></div><div><h3>Family meetings, siblings &amp; screens</h3><p>Solving problems together, stepping out of the referee role, and screens and school for growing kids.</p></div></li>
-        <li class="week"><div class="week-num"><small>Week</small><span>8</span></div><div><h3>Mistakes are opportunities to learn</h3><p>The 3 Rs of Recovery, building life skills, and your own long-term family plan.</p></div></li>
+        <li class="week"><div class="week-num"><small>الأسبوع</small><span>1</span></div><div><h3>Kind and Firm: the Positive Discipline Way</h3><p>لماذا يأتي العقاب والتساهل بنتائج عكسية، وكيف تبدو التربية على المدى البعيد.</p></div></li>
+        <li class="week"><div class="week-num"><small>الأسبوع</small><span>2</span></div><div><h3>Your Calm Comes First</h3><p>"<bdi>Flipping your lid</bdi>"، ومعرفة ما يستفزّكم، و<bdi>Positive Time-Out</bdi> للأهل والأطفال.</p></div></li>
+        <li class="week"><div class="week-num"><small>الأسبوع</small><span>3</span></div><div><h3>The Belief Behind the Behavior</h3><p>الانتماء والأهمية، والأهداف الخاطئة الأربعة، وما يجب فعله مع كل منها.</p></div></li>
+        <li class="week"><div class="week-num"><small>الأسبوع</small><span>4</span></div><div><h3>Connection Before Correction</h3><p>الاعتراف بالمشاعر، و<bdi>Special Time</bdi>، والتشجيع بدل المديح.</p></div></li>
+        <li class="week"><div class="week-num"><small>الأسبوع</small><span>5</span></div><div><h3>Focus on Solutions</h3><p>أسئلة الفضول، العواقب المنطقية مقابل العقاب، والمتابعة بلطف وحزم.</p></div></li>
+        <li class="week"><div class="week-num"><small>الأسبوع</small><span>6</span></div><div><h3>Routines, Choices &amp; Cooperation</h3><p>جداول الروتين، والخيارات المحدودة، وإنهاء صراعات القوة وقت النوم وفي الصباح.</p></div></li>
+        <li class="week"><div class="week-num"><small>الأسبوع</small><span>7</span></div><div><h3>Family Meetings, Siblings &amp; Screens</h3><p>حلّ المشكلات معًا، والخروج من دور الحَكَم، والشاشات والمدرسة مع الأطفال الأكبر.</p></div></li>
+        <li class="week"><div class="week-num"><small>الأسبوع</small><span>8</span></div><div><h3>Mistakes Are Opportunities to Learn</h3><p><bdi>3 Rs of Recovery</bdi>، وبناء المهارات الحياتية، وخطة عائلتكم على المدى البعيد.</p></div></li>
       </ol>
     </div>
   </section>
 
-  <!-- WHO IT'S FOR -->
+  <!-- لمن البرنامج -->
   <section>
     <div class="wrap">
       <div class="center">
-        <span class="eyebrow">Is this for you?</span>
-        <h2>Made for real, busy parents</h2>
+        <span class="eyebrow">هل هذا البرنامج لكم؟</span>
+        <h2>مصمَّم لأهل حقيقيين ومشغولين</h2>
       </div>
       <div class="two">
         <div class="card">
-          <h3>This is for you if…</h3>
+          <h3>هذا البرنامج لكم إذا…</h3>
           <ul class="list">
-            <li>You have a child aged 1–12</li>
-            <li>You're tired of yelling, then feeling guilty</li>
-            <li>You want discipline that teaches, not punishes</li>
-            <li>You want practical words you can use today</li>
-            <li>You're doing your best and want support, not judgment</li>
+            <li>كان لديكم طفل بين عمر 1 و12 سنة</li>
+            <li>تعبتم من الصراخ ثم الشعور بالذنب</li>
+            <li>تريدون تربية تعلّم ولا تعاقب</li>
+            <li>تريدون كلمات عملية تستخدمونها اليوم</li>
+            <li>تبذلون أقصى ما لديكم وتريدون دعمًا لا أحكامًا</li>
           </ul>
         </div>
         <div class="card">
-          <h3>It's not the right fit if…</h3>
+          <h3>ليس مناسبًا لكم إذا…</h3>
           <ul class="list no">
-            <li>You're looking for punishment-based methods (or no limits at all)</li>
-            <li>You want a quick fix with no practice</li>
-            <li>Your child needs a diagnosis or therapy. Please see a licensed professional for that (this program can sit alongside that support)</li>
+            <li>كنتم تبحثون عن أساليب قائمة على العقاب (أو بلا أي حدود)</li>
+            <li>كنتم تريدون حلًا سريعًا دون ممارسة</li>
+            <li>كان طفلكم بحاجة إلى تشخيص أو علاج. في هذه الحالة يُرجى مراجعة مختص مرخّص (ويمكن لهذا البرنامج أن يرافق ذلك الدعم)</li>
           </ul>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- INSTRUCTOR -->
+  <!-- عن المدرّب/ة -->
   <section style="background:var(--surface);border-top:1px solid var(--line);border-bottom:1px solid var(--line)">
     <div class="wrap about">
-      <div class="avatar" aria-hidden="true">NPP</div>
+      <div class="avatar" aria-hidden="true" dir="ltr">NPP</div>
       <div>
-        <span class="eyebrow">Your guide</span>
-        <h2>Hi, I'm <span class="ph">[Your name]</span></h2>
-        <p>I'm a <strong>Certified Positive Discipline Parent Educator</strong>, a parenting consultant, and a clinical psychology trainee. I created No Perfect Parents because so many parents I talk to feel blamed, overwhelmed and alone. Positive Discipline gave me a way to help parents that is kind <em>and</em> firm, and that's what you deserve too.</p>
-        <p><span class="ph">[Add 1–2 sentences about your experience, training and why this work matters to you.]</span></p>
-        <p>Follow along on Instagram: <a href="#" rel="noopener"><span class="ph">[@your-handle]</span></a></p>
+        <span class="eyebrow">من سيرافقكم</span>
+        <h2>مرحبًا، أنا <span class="ph">[اسمكم]</span></h2>
+        <p>أحمل شهادة <strong><bdi>Certified Positive Discipline Parent Educator</bdi></strong>، وأقدّم استشارات تربوية، وأدرس علم النفس العيادي. أنشأت <bdi>No Perfect Parents</bdi> لأن كثيرًا من الأهل الذين أتحدث معهم يشعرون باللوم والإرهاق والوحدة. <bdi>Positive Discipline</bdi> أعطتني طريقة لمساعدة الأهل تجمع بين اللطف <em>و</em>الحزم، وهذا ما تستحقّونه أنتم أيضًا.</p>
+        <p><span class="ph">[أضيفوا جملة أو جملتين عن خبرتكم وتدريبكم ولماذا يهمّكم هذا العمل.]</span></p>
+        <p>تابعوني على Instagram: <a href="#" rel="noopener"><span class="ph" dir="ltr">[@your-handle]</span></a></p>
       </div>
     </div>
   </section>
 
-  <!-- PRICING -->
+  <!-- الأسعار -->
   <section id="pricing" class="pricing">
     <div class="wrap">
       <div class="center">
-        <span class="eyebrow">Enroll</span>
-        <h2>Join No Perfect Parents</h2>
-        <p class="lead">Full 8-week program. Choose the option that works for your family.</p>
+        <span class="eyebrow">التسجيل</span>
+        <h2>انضمّوا إلى <bdi class="en">No Perfect Parents</bdi></h2>
+        <p class="lead">البرنامج الكامل لمدة 8 أسابيع. اختاروا ما يناسب عائلتكم.</p>
       </div>
 
       <div class="plans">
         <div class="plan featured">
-          <span class="badge">Best value</span>
-          <h3>Pay in full</h3>
+          <span class="badge">القيمة الأفضل</span>
+          <h3>الدفع الكامل</h3>
           <div class="price">$297</div>
-          <p class="sub">One-time payment. Save $30.</p>
+          <p class="sub">دفعة واحدة. وفّروا <bdi dir="ltr">$30</bdi>.</p>
           <ul class="list">
-            <li>All 8 weekly modules</li>
-            <li>Scripts &amp; worksheets</li>
-            <li><span class="ph">[Access length, e.g. lifetime access]</span></li>
-            <li><span class="ph">[Any bonus, e.g. live Q&amp;A]</span></li>
+            <li>الوحدات الأسبوعية الثماني كاملة</li>
+            <li>عبارات جاهزة وأوراق عمل</li>
+            <li><span class="ph">[مدة الوصول، مثلًا: وصول مدى الحياة]</span></li>
+            <li><span class="ph">[أي مكافأة، مثلًا: جلسة أسئلة وأجوبة مباشرة]</span></li>
           </ul>
-          <a class="btn block" data-checkout="full" href="#pricing">Enroll – $297</a>
+          <a class="btn block" data-checkout="full" href="#pricing">سجّلوا الآن · <bdi dir="ltr">$297</bdi></a>
         </div>
 
         <div class="plan">
-          <h3>Payment plan</h3>
-          <div class="price">$109 <small>× 3 months</small></div>
-          <p class="sub">$327 total, spread over 3 monthly payments.</p>
+          <h3>الدفع بالتقسيط</h3>
+          <div class="price">$109 <small>× 3 أشهر</small></div>
+          <p class="sub">المجموع <bdi dir="ltr">$327</bdi>، مقسّم على 3 دفعات شهرية.</p>
           <ul class="list">
-            <li>All 8 weekly modules</li>
-            <li>Scripts &amp; worksheets</li>
-            <li><span class="ph">[Access length]</span></li>
-            <li><span class="ph">[Any bonus]</span></li>
+            <li>الوحدات الأسبوعية الثماني كاملة</li>
+            <li>عبارات جاهزة وأوراق عمل</li>
+            <li><span class="ph">[مدة الوصول]</span></li>
+            <li><span class="ph">[أي مكافأة]</span></li>
           </ul>
-          <a class="btn ghost block" data-checkout="plan" href="#pricing">Enroll – 3 × $109</a>
+          <a class="btn ghost block" data-checkout="plan" href="#pricing">سجّلوا الآن · <bdi dir="ltr">3 × $109</bdi></a>
         </div>
       </div>
 
-      <p class="secure">🔒 Payments are handled securely by our checkout provider. This website never sees or stores your card details.</p>
+      <p class="secure">🔒 تتمّ عمليات الدفع بأمان عبر مزوّد خدمة الدفع. هذا الموقع لا يرى ولا يحفظ بيانات بطاقتكم أبدًا.</p>
       <div class="setup-note" id="setup-note" role="status" aria-live="polite">
-        <strong>Checkout isn't connected yet.</strong> This is a draft. Enrollment will open soon, and no payment was taken.
+        <strong>الدفع غير مفعّل بعد.</strong> هذه نسخة تجريبية. سيفتح التسجيل قريبًا، ولم يُحصَّل أي مبلغ.
       </div>
     </div>
   </section>
 
-  <!-- FAQ -->
+  <!-- الأسئلة الشائعة -->
   <section>
     <div class="wrap">
       <div class="center">
-        <span class="eyebrow">Questions</span>
-        <h2>Frequently asked</h2>
+        <span class="eyebrow">أسئلة</span>
+        <h2>الأسئلة الشائعة</h2>
       </div>
       <div class="faq">
-        <details><summary>What is Positive Discipline?</summary><p>Positive Discipline is a parenting approach based on the work of Alfred Adler and Rudolf Dreikurs, developed by Dr. Jane Nelsen. It's kind and firm at the same time: no punishment, shaming or permissiveness. It helps children feel a sense of belonging and learn life skills like responsibility, problem-solving and cooperation.</p></details>
-        <details><summary>What ages is this for?</summary><p>Parents and caregivers of children aged 1–12. Each module includes examples for little ones and for older kids.</p></details>
-        <details><summary>How much time does it take each week?</summary><p><span class="ph">[e.g. About 30–45 minutes of video lessons plus a short practice task.]</span> You can go at your own pace.</p></details>
-        <details><summary>How do I access the lessons after I pay?</summary><p><span class="ph">[Explain delivery, e.g. "You'll receive an email within 24 hours with your login / access link."]</span></p></details>
-        <details><summary>Can my partner or co-parent join too?</summary><p><span class="ph">[Yes/no, e.g. "Yes, one enrollment covers both caregivers in the same household."]</span></p></details>
-        <details><summary>What if it's not right for me?</summary><p><span class="ph">[Your refund policy, e.g. "Email us within 14 days for a full refund."]</span></p></details>
-        <details><summary>Is this therapy?</summary><p>No. No Perfect Parents is an educational program, not therapy, diagnosis or medical advice. If you're worried about your child's development, mental health or safety, please speak with a licensed professional.</p></details>
+        <details><summary>ما هي <bdi>Positive Discipline</bdi>؟</summary><p><bdi>Positive Discipline</bdi> أسلوب تربوي مبني على أعمال <bdi>Alfred Adler</bdi> و<bdi>Rudolf Dreikurs</bdi>، طوّرته الدكتورة <bdi>Jane Nelsen</bdi>. يجمع بين اللطف والحزم في الوقت نفسه: لا عقاب ولا إذلال ولا تساهل. يساعد الأطفال على الشعور بالانتماء وتعلّم مهارات حياتية مثل المسؤولية وحلّ المشكلات والتعاون.</p></details>
+        <details><summary>لأي أعمار هذا البرنامج؟</summary><p>لأهالي ومقدّمي رعاية الأطفال من عمر 1 إلى 12 سنة. كل وحدة تتضمّن أمثلة للأطفال الصغار وأخرى للأكبر سنًا.</p></details>
+        <details><summary>كم من الوقت يتطلّب كل أسبوع؟</summary><p>حوالي 45 دقيقة أسبوعيًا: نحو 30 دقيقة من الفيديوهات القصيرة، وورقة عمل، وتحدٍّ عملي بسيط. يمكنكم التقدّم بالسرعة التي تناسبكم.</p></details>
+        <details><summary>كيف أصل إلى الدروس بعد الدفع؟</summary><p><span class="ph">[اشرحوا طريقة التسليم، مثلًا: "ستصلكم رسالة خلال 24 ساعة فيها رابط الدخول."]</span></p></details>
+        <details><summary>هل يمكن لشريكي في التربية الانضمام أيضًا؟</summary><p><span class="ph">[نعم/لا، مثلًا: "نعم، التسجيل الواحد يشمل الأبوين في المنزل نفسه."]</span></p></details>
+        <details><summary>ماذا لو لم يناسبني البرنامج؟</summary><p><span class="ph">[سياسة الاسترداد، مثلًا: "راسلونا خلال 14 يومًا لاسترداد المبلغ كاملًا."]</span></p></details>
+        <details><summary>هل هذا علاج نفسي؟</summary><p>لا. <bdi>No Perfect Parents</bdi> برنامج تثقيفي، وليس علاجًا أو تشخيصًا أو استشارة طبية. إذا كنتم قلقين بشأن نموّ طفلكم أو صحته النفسية أو سلامته، يُرجى التحدث مع مختص مرخّص.</p></details>
       </div>
     </div>
   </section>
 
-  <!-- FINAL CTA -->
+  <!-- الدعوة الأخيرة -->
   <section class="final center">
     <div class="wrap">
-      <h2>Ready to parent with less guilt and more calm?</h2>
-      <p class="lead">You don't need to be perfect. You just need a place to start.</p>
-      <a class="btn" href="#pricing">Enroll in No Perfect Parents</a>
+      <h2>مستعدّون لتربية بذنب أقل وهدوء أكثر؟</h2>
+      <p class="lead">لستم بحاجة لأن تكونوا مثاليين. تحتاجون فقط إلى نقطة بداية.</p>
+      <a class="btn" href="#pricing">سجّلوا في <bdi dir="ltr">No Perfect Parents</bdi></a>
     </div>
   </section>
 
@@ -350,24 +343,24 @@
 <footer>
   <div class="wrap">
     <div class="links">
-      <a href="#"><span class="ph">[Privacy policy]</span></a>
-      <a href="#"><span class="ph">[Terms &amp; refund policy]</span></a>
-      <a href="#"><span class="ph">[Contact email]</span></a>
+      <a href="#"><span class="ph">[سياسة الخصوصية]</span></a>
+      <a href="#"><span class="ph">[الشروط وسياسة الاسترداد]</span></a>
+      <a href="#"><span class="ph">[البريد الإلكتروني للتواصل]</span></a>
     </div>
-    <p>No Perfect Parents is an educational program and does not provide therapy, diagnosis or medical advice. <span class="ph">[Add any attribution or trademark notice the Positive Discipline Association requires.]</span> © <span id="year"></span> <span class="ph">[Your name / business name]</span></p>
+    <p><bdi>No Perfect Parents</bdi> برنامج تثقيفي ولا يقدّم علاجًا نفسيًا أو تشخيصًا أو استشارة طبية. <span class="ph">[أضيفوا أي إشارة أو إشعار علامة تجارية تطلبه <bdi>Positive Discipline Association</bdi>.]</span> © <span id="year"></span> <span class="ph">[اسمكم / اسم النشاط]</span></p>
   </div>
 </footer>
 
 <script>
   /* ============================================================
-     CHECKOUT LINKS: paste your secure checkout URLs here.
-     Create these in your Whish (business/merchant) account.
-     While a value is empty, its button shows a "not connected" note
-     and goes nowhere. This page never handles card details.
+     روابط الدفع: الصقوا روابط الدفع الآمنة هنا.
+     أنشئوها من حساب Whish التجاري (أو أي مزوّد دفع آمن).
+     طالما القيمة فارغة، يبقى الزر رماديًا ويُظهر رسالة "غير مفعّل".
+     هذه الصفحة لا تتعامل أبدًا مع بيانات البطاقات.
      ============================================================ */
   const CHECKOUT_LINKS = {
-    full: "",   // e.g. "https://...your Whish payment link for $297..."
-    plan: ""    // e.g. "https://...your Whish link for the 3 × $109 plan..."
+    full: "",   // مثلًا: "https://...رابط Whish لمبلغ $297..."
+    plan: ""    // مثلًا: "https://...رابط Whish لخطة 3 × $109..."
   };
 
   document.querySelectorAll("[data-checkout]").forEach(btn => {

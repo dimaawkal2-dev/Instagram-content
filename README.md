@@ -1,41 +1,43 @@
-# Dimawkal: Instagram Content Plan (DRAFTS)
+# Dimawkal: Instagram Content Plan (مسودّات)
 
-Everything in this folder is a **draft for review**. Nothing here has been posted, scheduled, or sent.
+كل ما في هذا المجلد **مسودّات للمراجعة**. لم يُنشر أو يُجدول أو يُرسل أي شيء.
 
-## Account profile (from intake)
+> اللغة: المحتوى مكتوب بالعربية الفصحى المبسّطة. العناوين وأسماء الأدوات تبقى بالإنجليزية (مثل **Kind and Firm** و**Positive Discipline** و**No Perfect Parents**). النسخة الإنجليزية الأصلية محفوظة في سجلّ git.
+
+## ملف الحساب
 
 | | |
 |---|---|
-| **Niche** | Parenting consultant and Certified Positive Discipline Parent Educator, training to become a clinical psychologist |
-| **Approach** | Positive Discipline: kind and firm, connection before correction, solutions instead of punishment |
-| **Audience** | Parents aged 25–40 |
-| **Tone** | Friendly and casual, like a knowledgeable friend |
-| **Offer** | *No Perfect Parents*, an 8-week online program for parents of kids aged 1–12 ($297 or 3 × $109) |
-| **Goals** | Grow followers, boost engagement, drive course sales, build brand awareness |
-| **Capacity** | 3 feed posts/Reels per week |
+| **المجال** | استشارات تربوية، شهادة **Certified Positive Discipline Parent Educator**، ودراسة في علم النفس العيادي |
+| **الأسلوب التربوي** | **Positive Discipline**: لطف وحزم معًا، التواصل قبل التصحيح، البحث عن حلول بدل العقاب |
+| **الجمهور** | الأهل بعمر 25–40 سنة |
+| **النبرة** | ودودة وبسيطة، كصديق مقرّب يفهم في التربية |
+| **العرض** | ***No Perfect Parents***: برنامج أونلاين لمدة 8 أسابيع لأهالي الأطفال من عمر 1 إلى 12 سنة (‎$297 أو 3 × ‎$109) |
+| **الأهداف** | زيادة المتابعين، رفع التفاعل، بيع الدورة، بناء الحضور والثقة |
+| **القدرة** | 3 منشورات أو Reels أسبوعيًا |
 
-## Files
+## الملفات
 
-1. [`01-weekly-calendar.md`](01-weekly-calendar.md): weekly template, content pillars, 4-week calendar
-2. [`02-post-and-reel-ideas.md`](02-post-and-reel-ideas.md): Reel scripts, carousel outlines, extra idea bank
-3. [`03-caption-drafts.md`](03-caption-drafts.md): captions with hashtags for weeks 1–2
-4. [`04-pre-publish-checklist.md`](04-pre-publish-checklist.md): review this before every post
-5. [`content-calendar.md`](content-calendar.md): simple calendar tracker with a status column
-6. [`website/`](website/): draft course sales page (see `website/README.md`)
-7. [`course/`](course/): course content, with Week 1 drafted (see `course/README.md`)
+1. [`01-weekly-calendar.md`](01-weekly-calendar.md): القالب الأسبوعي، محاور المحتوى، تقويم 4 أسابيع
+2. [`02-post-and-reel-ideas.md`](02-post-and-reel-ideas.md): نصوص Reels، مخططات Carousel، بنك أفكار
+3. [`03-caption-drafts.md`](03-caption-drafts.md): تعليقات (Captions) مع هاشتاغات للأسبوعين 1–2
+4. [`04-pre-publish-checklist.md`](04-pre-publish-checklist.md): راجعوها قبل كل منشور
+5. [`content-calendar.md`](content-calendar.md): تقويم بسيط لمتابعة حالة كل منشور
+6. [`website/`](website/): مسودة صفحة بيع الدورة (انظروا `website/README.md`)
+7. [`course/`](course/): محتوى الدورة (انظروا `course/README.md`)
 
-## Specialist agents (`.claude/agents/`)
+## الوكلاء المتخصصون (`.claude/agents/`)
 
-| Agent | Use it to |
+| الوكيل | استخدموه من أجل |
 |---|---|
-| `instagram-strategist` | Plan themes and the weekly posting schedule, and update the calendar |
-| `caption-writer` | Draft captions in your voice with CTA options and hashtags |
-| `reels-ideas` | Brainstorm Reels with a hook, timed outline and on-screen text |
-| `content-reviewer` | Check a draft for clarity, tone, spelling and accuracy (report only) |
+| `instagram-strategist` | تخطيط المواضيع وجدول النشر الأسبوعي وتحديث التقويم |
+| `caption-writer` | كتابة Captions بنبرة الحساب مع خيارات دعوة للتفاعل وهاشتاغات |
+| `reels-ideas` | أفكار Reels مع Hook ومخطط زمني ونص على الشاشة |
+| `content-reviewer` | مراجعة المسودة من حيث الوضوح والنبرة والإملاء والدقة (تقرير فقط) |
 
-Example: *"Use the reels-ideas agent to give me 5 Reels about picky eating."*
-None of the agents post, schedule, message or change the account.
+مثال: *"استخدم reels-ideas وأعطني 5 أفكار Reels عن الأكل الانتقائي."*
+الوكلاء يكتبون بالعربية مع إبقاء العناوين بالإنجليزية. لا أحد منهم ينشر أو يجدول أو يراسل أو يغيّر الحساب.
 
-## Placeholders to fill in
+## خانات يجب تعبئتها
 
-- `[KEYWORD]`: the word people comment or DM to get the course link or a freebie
+- `[KEYWORD]`: الكلمة التي يكتبها الناس في التعليقات أو الرسائل للحصول على رابط الدورة

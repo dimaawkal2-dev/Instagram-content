@@ -1,154 +1,154 @@
-# Caption Drafts (DRAFT, NOT POSTED)
+# Caption Drafts (مسودّة، لم تُنشر)
 
-**Approach: Positive Discipline.** Kind and firm, encouraging, never shaming.
+**الأسلوب: Positive Discipline.** لطيف وحازم، مشجّع، ولا يلوم أبدًا.
 
-How these are built:
-- **First line = hook.** Only ~125 characters show before "…more", so the first line has to earn the tap.
-- **One clear ask** per post (save, comment, share or follow), not all four.
-- **3–5 focused hashtags** at the end. Rotate the sets so posts aren't identical.
-- Search keywords (like "positive discipline", "toddler tantrums") are written into the caption naturally, because Instagram search reads captions.
+طريقة البناء:
+- **السطر الأول = Hook.** يظهر حوالي 125 حرفًا فقط قبل "…المزيد"، لذلك يجب أن يشدّ السطر الأول القارئ.
+- **دعوة واحدة واضحة** في كل منشور (احفظوا، علّقوا، شاركوا، أو تابعوا)، وليس الأربعة معًا.
+- **‏3–5 هاشتاغات مركّزة** في النهاية، بالعربية والإنجليزية. بدّلوا المجموعات حتى لا تتكرّر المنشورات.
+- كلمات البحث (مثل "التربية الإيجابية" و"نوبات الغضب عند الأطفال") مكتوبة بشكل طبيعي في النص، لأن بحث Instagram يقرأ الـCaptions.
 
 ---
 
 ## Week 1
 
-### Mon Reel: "A misbehaving child is a discouraged child"
+### Reel الإثنين: "A misbehaving child is a discouraged child"
 
-> Your child isn't trying to make you mad. They're trying to belong. 💛
+> طفلكم لا يحاول إغضابكم. هو يحاول أن يشعر بالانتماء. 💛
 >
-> One idea from Positive Discipline changed how I see every tantrum and power struggle: "A misbehaving child is a discouraged child" (Rudolf Dreikurs).
+> فكرة واحدة من Positive Discipline غيّرت نظرتي لكل نوبة غضب وكل صراع قوة: "الطفل الذي يسيء التصرّف هو طفل محبَط" (Rudolf Dreikurs).
 >
-> Every child needs to feel two things: I belong, and I matter. When they don't, they go looking for it in mistaken ways, like whining, defiance, or "Watch me! Watch me!"
+> كل طفل يحتاج أن يشعر بأمرين: أنا أنتمي، وأنا مهم. وعندما لا يشعر بذلك، يبحث عنه بطرق خاطئة، مثل التذمّر أو العناد أو "شوفوني! شوفوني!"
 >
-> So next time, before you react, get curious:
-> → What is my child really trying to tell me?
-> → How can I help them feel connected right now?
+> في المرة القادمة، قبل أن تتفاعلوا، كونوا فضوليين:
+> ← ماذا يحاول طفلي أن يقول لي فعلًا؟
+> ← كيف أساعده ليشعر بالقرب مني الآن؟
 >
-> Connection first. Correction second.
+> التواصل أولًا. التصحيح ثانيًا.
 >
-> Follow along for more Positive Discipline tools ✨
+> تابعوني لمزيد من أدوات Positive Discipline ✨
 >
-> #positivediscipline #childbehavior #positiveparenting #parentingtips
+> #positivediscipline #التربية_الإيجابية #سلوك_الأطفال #نصائح_تربوية
 
-### Wed Carousel: "Kind AND firm"
+### Carousel الأربعاء: "Kind AND Firm"
 
-> You don't have to choose between kind and firm. You can be both. 👇
+> لستم مضطرين للاختيار بين اللطف والحزم. يمكنكم الجمع بينهما. 👇
 >
-> Kind shows respect for your child. Firm shows respect for yourself and for what the situation needs. Together, that's the heart of Positive Discipline.
+> اللطف يعني احترام طفلكم. الحزم يعني احترام أنفسكم وما يتطلّبه الموقف. وهذا معًا هو قلب Positive Discipline.
 >
-> A few of my favorites:
-> 1️⃣ "I love you, and the answer is no."
-> 2️⃣ "You're upset, and it's still time to go."
-> 3️⃣ "I won't let you hit. You can stomp instead."
-> 4️⃣ "What's your plan for homework tonight?"
-> 5️⃣ "I'll read when your pajamas are on."
+> بعض عباراتي المفضّلة:
+> 1️⃣ "أحبك، والجواب لا."
+> 2️⃣ "أنت منزعج، وحان وقت الذهاب."
+> 3️⃣ "لن أسمح لك بالضرب. يمكنك أن تدبك بقدميك."
+> 4️⃣ "ما خطتك للواجب الليلة؟"
+> 5️⃣ "سأقرأ القصة عندما تلبس البيجاما."
 >
-> Swipe for #6, then save this for the next hard moment 💛
+> اسحبوا لتروا العبارة السادسة، واحفظوا المنشور للّحظة الصعبة القادمة 💛
 >
-> #positivediscipline #kindandfirm #parentingtips #toddlerlife #raisingkids
+> #positivediscipline #kindandfirm #التربية_الإيجابية #تربية_الأطفال #نصائح_تربوية
 
-### Fri Reel: "Mistakes are opportunities to learn"
+### Reel الجمعة: "Mistakes are opportunities to learn"
 
-> I teach Positive Discipline, and I still lose my cool sometimes. Here's what I do next.
+> أنا أعلّم Positive Discipline، وما زلت أفقد أعصابي أحيانًا. هذا ما أفعله بعدها.
 >
-> In Positive Discipline, mistakes are wonderful opportunities to learn. That goes for parents too.
+> في Positive Discipline، الأخطاء فرص رائعة للتعلّم. وهذا ينطبق علينا كأهل أيضًا.
 >
-> When I mess up, I use the 3 Rs of Recovery:
-> 1. Recognize: "I yelled."
-> 2. Reconcile: "I'm sorry. That wasn't respectful."
-> 3. Resolve: "Let's figure out what we can both do next time."
+> عندما أخطئ، أستخدم 3 Rs of Recovery:
+> 1. الاعتراف: "صرخت."
+> 2. المصالحة: "أنا آسف/ة. لم يكن ذلك محترمًا."
+> 3. الحل: "لنفكّر معًا ماذا يمكن أن نفعل في المرة القادمة."
 >
-> Your kids don't need a perfect parent. They need one who shows them how to repair.
+> أطفالكم لا يحتاجون أهلًا مثاليين. يحتاجون أهلًا يُرونهم كيف يُصلحون.
 >
-> If you needed this today, drop a 💛 below.
+> إذا كنتم بحاجة لسماع هذا اليوم، اتركوا 💛 في التعليقات.
 >
-> #positivediscipline #momguilt #parentingsupport #noperfectparents
+> #positivediscipline #الشعور_بالذنب #دعم_الأهل #noperfectparents
 
 ---
 
 ## Week 2
 
-### Mon Reel: "Connect before you correct"
+### Reel الإثنين: "Connection Before Correction"
 
-> Your kid isn't ignoring you. They might just need connection first. 👀
+> طفلكم لا يتجاهلكم. ربما يحتاج إلى التواصل أولًا. 👀
 >
-> Shouting a request from the kitchen while they're deep in play rarely works. It's not always defiance. Kids cooperate best when they feel connected.
+> الصراخ بطلب من المطبخ وهو منغمس في اللعب نادرًا ما ينجح. هذا ليس عنادًا دائمًا. الأطفال يتعاونون أكثر عندما يشعرون بالقرب.
 >
-> Try this:
-> 1. Walk over
-> 2. Get down to their level
-> 3. Make eye contact, or put a hand on their shoulder
-> 4. Then make one short, respectful request
+> جرّبوا:
+> 1. اقتربوا منه
+> 2. انزلوا إلى مستواه
+> 3. تواصلوا بالعين، أو ضعوا يدكم على كتفه
+> 4. ثم قدّموا طلبًا واحدًا قصيرًا ومحترمًا
 >
-> 10 extra seconds of connection saves 10 minutes of repeating yourself.
+> ‏10 ثوانٍ إضافية من التواصل توفّر 10 دقائق من التكرار.
 >
-> Follow for more Positive Discipline tools ✨
+> تابعوني لمزيد من أدوات Positive Discipline ✨
 >
-> #positivediscipline #connectionbeforecorrection #parentingtips #childdevelopment
+> #positivediscipline #التواصل_قبل_التصحيح #نصائح_تربوية #نمو_الطفل
 
-### Wed Carousel: "Praise vs. encouragement"
+### Carousel الأربعاء: "Praise vs. Encouragement"
 
-> Stop saying "Good job!" (sort of). Here's what builds real confidence 👇
+> توقّفوا عن قول "شاطر!" (تقريبًا). إليكم ما يبني ثقة حقيقية 👇
 >
-> Praise teaches kids to look for our approval. Encouragement helps them notice their own effort and feel capable from the inside.
+> المديح يعلّم الأطفال البحث عن رضانا. التشجيع يساعدهم على ملاحظة جهدهم والشعور بقدرتهم من الداخل.
 >
-> A few swaps:
-> 🌟 "Good job!" → "You worked really hard on that."
-> 🌟 "I'm so proud of you." → "You must be proud of yourself."
-> 🌟 "Good girl/boy." → "Thank you for helping. That made a difference."
-> …and 3 more inside.
+> بعض البدائل:
+> 🌟 "شاطر!" ← "تعبت كثيرًا على هذا."
+> 🌟 "أنا فخور/ة بك." ← "لا بدّ أنك فخور بنفسك."
+> 🌟 "ولد مطيع / بنت مطيعة." ← "شكرًا لمساعدتك. لقد فرقت كثيرًا."
+> …و3 بدائل أخرى في الشرائح.
 >
-> Send this to your co-parent so you're both trying it this week 📲
+> أرسلوا هذا المنشور لشريك التربية لتجرّبوه معًا هذا الأسبوع 📲
 >
-> #positivediscipline #encouragement #positiveparenting #raisingconfidentkids #parentinghacks
+> #positivediscipline #التشجيع #التربية_الإيجابية #ثقة_الطفل_بنفسه #نصائح_تربوية
 
-### Fri Post: "Positive discipline isn't permissive"
+### منشور الجمعة: "Positive Discipline isn't permissive"
 
-> Positive discipline doesn't mean no rules. Let's clear this up.
+> التربية الإيجابية لا تعني غياب القواعد. لنوضّح هذه النقطة.
 >
-> Positive Discipline is kind AND firm, both at once:
+> Positive Discipline هي لطف *و*حزم في الوقت نفسه:
 >
-> Permissive = kind, but not firm
-> Punitive = firm, but not kind
-> Positive Discipline = kind AND firm 💛
+> التساهل = لطف بلا حزم
+> العقاب = حزم بلا لطف
+> Positive Discipline = لطف وحزم معًا 💛
 >
-> It's not about letting kids do whatever they want. It's about teaching skills, finding solutions together, and holding limits with respect instead of punishment or shame.
+> الأمر ليس أن نترك الأطفال يفعلون ما يشاؤون. بل أن نعلّمهم المهارات، ونجد الحلول معهم، ونحافظ على الحدود باحترام بدل العقاب أو الإذلال.
 >
-> Did you think "positive" meant "no limits"? Be honest in the comments, no judgment 😄
+> هل كنتم تظنون أن "إيجابية" تعني "بلا حدود"؟ كونوا صادقين في التعليقات، بلا أحكام 😄
 >
-> #positivediscipline #kindandfirm #parentingmyths #raisingkids
-
----
-
-## Week 4 Fri: course spotlight (template for sales posts)
-
-> Why I teach Positive Discipline (and what I built for you)
->
-> As a Certified Positive Discipline Parent Educator, I've seen how three ideas change families:
-> 1. A misbehaving child is a discouraged child.
-> 2. You can be kind and firm at the same time.
-> 3. Mistakes are opportunities to learn, for parents too.
->
-> That's what No Perfect Parents is built on: an 8-week program for parents of kids aged 1–12 who want fewer power struggles and more connection, without blame.
->
-> Inside: [3 bullet points of what's included].
->
-> Comment [KEYWORD] and I'll send you the details. 💛
->
-> #positivediscipline #parentingcourse #noperfectparents #parentingsupport
-
-> ⚠️ If you use "Comment [KEYWORD]", you'll need to send the link yourself or set up an automation tool. Only promise what you can deliver.
+> #positivediscipline #kindandfirm #خرافات_تربوية #تربية_الأطفال
 
 ---
 
-## Hashtag sets to rotate
+## Week 4 الجمعة: Course Spotlight (قالب لمنشورات البيع)
 
-| Set | Tags |
+> لماذا أعلّم Positive Discipline (وماذا صنعت لكم)
+>
+> بصفتي Certified Positive Discipline Parent Educator، رأيت كيف تغيّر ثلاث أفكار حياة العائلات:
+> 1. الطفل الذي يسيء التصرّف هو طفل محبَط.
+> 2. يمكنكم أن تكونوا لطفاء وحازمين في الوقت نفسه.
+> 3. الأخطاء فرص للتعلّم، للأهل أيضًا.
+>
+> على هذه الأفكار بُنيت No Perfect Parents: برنامج من 8 أسابيع لأهالي الأطفال من عمر 1 إلى 12 سنة، لمن يريد صراعات أقل وقربًا أكثر، دون لوم.
+>
+> في الداخل: [3 نقاط عمّا تتضمّنه الدورة].
+>
+> علّقوا [KEYWORD] وسأرسل لكم التفاصيل. 💛
+>
+> #positivediscipline #دورة_تربوية #noperfectparents #دعم_الأهل
+
+> ⚠️ إذا استخدمتم "علّقوا [KEYWORD]"، ستحتاجون لإرسال الرابط بأنفسكم أو استخدام أداة رسائل تلقائية. لا تعِدوا إلا بما تستطيعون تنفيذه.
+
+---
+
+## مجموعات الهاشتاغات المتناوبة
+
+| المجموعة | الهاشتاغات |
 |---|---|
-| **Positive Discipline** | #positivediscipline #kindandfirm #positivedisciplineparenting #encouragement #connectionbeforecorrection |
-| **Behavior** | #childbehavior #toddlertantrums #bigfeelings #emotionalregulation #childdevelopment |
-| **Tips** | #parentingtips #parentinghacks #positiveparenting #raisingkids #respectfulparenting |
-| **Support** | #momguilt #parentingsupport #parentingishard #noperfectparents |
-| **Course** | #parentingcourse #parentingeducator #parentingclass #parentingjourney |
+| **Positive Discipline** | #positivediscipline #kindandfirm #التربية_الإيجابية #الانضباط_الإيجابي #التواصل_قبل_التصحيح |
+| **السلوك** | #سلوك_الأطفال #نوبات_الغضب #مشاعر_الأطفال #تنظيم_المشاعر #نمو_الطفل |
+| **نصائح** | #نصائح_تربوية #تربية_الأطفال #التربية_الواعية #positiveparenting #parentingtips |
+| **دعم** | #الشعور_بالذنب #دعم_الأهل #الأمومة #الأبوة #noperfectparents |
+| **الدورة** | #دورة_تربوية #استشارات_تربوية #ورشة_تربوية #parentingcourse |
 
-> Note: search `#noperfectparents` on Instagram before using it as your branded hashtag, to check that no one else is already using it.
+> ملاحظة: ابحثوا عن `#noperfectparents` في Instagram قبل استخدامه كهاشتاغ خاص بكم، للتأكد من أن أحدًا لا يستخدمه.
