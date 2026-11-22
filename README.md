@@ -1,5 +1,7 @@
 # Dimawkal: Instagram Content Plan (مسودّات)
 
+**الحساب:** [‎@dimawkal](https://www.instagram.com/dimawkal/) · ديما عوكل
+
 كل ما في هذا المجلد **مسودّات للمراجعة**. لم يُنشر أو يُجدول أو يُرسل أي شيء.
 
 > اللغة: المحتوى مكتوب بالعربية الفصحى المبسّطة. العناوين وأسماء الأدوات تبقى بالإنجليزية (مثل **Kind and Firm** و**Positive Discipline** و**No Perfect Parents**). النسخة الإنجليزية الأصلية محفوظة في سجلّ git.
