@@ -21,20 +21,20 @@
 | الأسبوع | العنوان | الحالة |
 |---|---|---|
 | 1 | Kind and Firm: the Positive Discipline Way | ✅ النص، الشرائح، ملاحظات التصوير، ورقة العمل، ورقة الملخّص ([المجلد](week-01-kind-and-firm/)) |
-| 2 | Your Calm Comes First | ✏️ النص ([المجلد](week-02-your-calm/)). باقي المواد لم تُكتب بعد |
-| 3 | The Belief Behind the Behavior | ✏️ النص ([المجلد](week-03-belief-behind-behavior/)). باقي المواد لم تُكتب بعد |
-| 4 | Connection Before Correction | ✏️ النص ([المجلد](week-04-connection-before-correction/)). باقي المواد لم تُكتب بعد |
-| 5 | Focus on Solutions | ✏️ النص ([المجلد](week-05-focus-on-solutions/)). باقي المواد لم تُكتب بعد |
-| 6 | Routines, Choices & Cooperation | ✏️ النص ([المجلد](week-06-routines-and-choices/)). باقي المواد لم تُكتب بعد |
-| 7 | Family Meetings, Siblings & Screens | ✏️ النص ([المجلد](week-07-family-meetings-siblings-screens/)). باقي المواد لم تُكتب بعد |
-| 8 | Mistakes Are Opportunities to Learn | ✏️ النص ([المجلد](week-08-mistakes-are-for-learning/)). باقي المواد لم تُكتب بعد |
+| 2 | Your Calm Comes First | ✅ النص، ورقة العمل، ورقة الملخّص ([المجلد](week-02-your-calm/)). الشرائح لم تُكتب بعد |
+| 3 | The Belief Behind the Behavior | ✅ النص، ورقة العمل، ورقة الملخّص ([المجلد](week-03-belief-behind-behavior/)). الشرائح لم تُكتب بعد |
+| 4 | Connection Before Correction | ✅ النص، ورقة العمل، ورقة الملخّص ([المجلد](week-04-connection-before-correction/)). الشرائح لم تُكتب بعد |
+| 5 | Focus on Solutions | ✅ النص، ورقة العمل، ورقة الملخّص ([المجلد](week-05-focus-on-solutions/)). الشرائح لم تُكتب بعد |
+| 6 | Routines, Choices & Cooperation | ✅ النص، ورقة العمل، ورقة الملخّص ([المجلد](week-06-routines-and-choices/)). الشرائح لم تُكتب بعد |
+| 7 | Family Meetings, Siblings & Screens | ✅ النص، ورقة العمل، ورقة الملخّص ([المجلد](week-07-family-meetings-siblings-screens/)). الشرائح لم تُكتب بعد |
+| 8 | Mistakes Are Opportunities to Learn | ✅ النص، ورقة العمل، ورقة الملخّص ([المجلد](week-08-mistakes-are-for-learning/)). الشرائح لم تُكتب بعد |
 
 ## تسليم الدورة للمشتركين
 
 كيف يحصل المشترك على الدورة بعد الدفع (Google Classroom، الخطوات، رسائل جاهزة): [`delivery-guide.md`](delivery-guide.md)
 
 نصوص Google Classroom جاهزة للنسخ واللصق لكل الأسابيع: [`classroom/classroom-setup.md`](classroom/classroom-setup.md)
-ملفات PDF جاهزة للرفع: [`classroom/pdf/`](classroom/pdf/) (دليل البداية، وورقة عمل وورقة ملخّص Week 1)
+ملفات PDF جاهزة للرفع: [`classroom/pdf/`](classroom/pdf/) (دليل البداية، وأوراق العمل والملخّص للأسابيع 1–8)
 
 ## ملاحظات قبل التسجيل
 
