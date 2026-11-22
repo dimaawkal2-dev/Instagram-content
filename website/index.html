@@ -98,6 +98,7 @@
   .plans.single{max-width:440px}
   .badge{position:absolute;top:-14px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;font-size:.85rem;font-weight:700;padding:3px 14px;border-radius:999px;white-space:nowrap}
   .price{font-family:"Fraunces",Georgia,serif;font-size:2.8rem;font-weight:700;line-height:1;margin:8px 0 6px;direction:ltr;text-align:right}
+  .price .was{font-size:1.4rem;color:var(--muted);font-weight:600;margin-inline-start:8px}
   .price small{font:500 1rem "Tajawal",sans-serif;color:var(--muted)}
   .plan .sub{color:var(--muted);font-size:.98rem;margin-bottom:20px}
   .plan .list{margin-bottom:24px;flex:1}
@@ -160,7 +161,7 @@
           <a class="btn" href="#pricing">سجّلوا الآن</a>
           <a class="btn ghost" href="#curriculum">اطّلعوا على الأسابيع الثمانية</a>
         </div>
-        <p class="hero-note"><bdi dir="ltr">$297</bdi> دفعة واحدة · وصول مدى الحياة.</p>
+        <p class="hero-note">سعر الإطلاق <strong><bdi dir="ltr">$99</bdi></strong> بدل <s><bdi dir="ltr">$149</bdi></s> لأول 30 مشتركًا · دفعة واحدة · وصول مدى الحياة.</p>
       </div>
       <div class="hero-card" aria-label="ماذا ستتعلّمون">
         <ul>
@@ -278,10 +279,10 @@
 
       <div class="plans single">
         <div class="plan featured">
-          <span class="badge">دفعة واحدة · وصول مدى الحياة</span>
+          <span class="badge">سعر الإطلاق لأول 30 مشتركًا</span>
           <h3>البرنامج الكامل</h3>
-          <div class="price">$297</div>
-          <p class="sub">دفعة واحدة فقط، بلا اشتراك شهري.</p>
+          <div class="price">$99 <s class="was">$149</s></div>
+          <p class="sub">دفعة واحدة فقط، بلا اشتراك شهري. بعد أول 30 مشتركًا يصبح السعر <bdi dir="ltr">$149</bdi>.</p>
           <ul class="list">
             <li>الوحدات الأسبوعية الثماني كاملة</li>
             <li>عبارات جاهزة وأوراق عمل وأوراق ملخّص</li>
@@ -289,7 +290,7 @@
             <li>كل التحديثات المستقبلية للدورة مجانًا</li>
             <li><span class="ph">[أي مكافأة، مثلًا: جلسة أسئلة وأجوبة مباشرة]</span></li>
           </ul>
-          <a class="btn block" data-checkout="full" href="#pricing">سجّلوا الآن · <bdi dir="ltr">$297</bdi></a>
+          <a class="btn block" data-checkout="full" href="#pricing">سجّلوا الآن · <bdi dir="ltr">$99</bdi></a>
         </div>
       </div>
 
@@ -350,7 +351,7 @@
      هذه الصفحة لا تتعامل أبدًا مع بيانات البطاقات.
      ============================================================ */
   const CHECKOUT_LINKS = {
-    full: ""    // مثلًا: "https://...رابط Whish لمبلغ $297..."
+    full: ""    // مثلًا: "https://...رابط Whish لمبلغ $99 (سعر الإطلاق)..."
   };
 
   document.querySelectorAll("[data-checkout]").forEach(btn => {
