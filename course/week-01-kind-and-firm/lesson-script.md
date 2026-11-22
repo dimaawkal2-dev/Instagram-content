@@ -1,172 +1,172 @@
 # Week 1: Kind and Firm, the Positive Discipline Way
-## Video lesson script (DRAFT)
+## نص الفيديو (مسودّة)
 
-**Total length:** ~30 minutes, split into 4 videos
-**Goal for the week:** parents understand why punishment and permissiveness both backfire, and start practicing "kind AND firm."
+**المدة الإجمالية:** حوالي 30 دقيقة، مقسّمة على 4 فيديوهات
+**هدف الأسبوع:** أن يفهم الأهل لماذا يأتي العقاب والتساهل بنتائج عكسية، وأن يبدؤوا بممارسة "Kind AND Firm".
 
-> Formatting: **[SLIDE]** = what appears on screen. *Italics* = stage directions. Everything else is spoken. Say it in your own words; don't read it word for word.
+> التنسيق: **[SLIDE]** = ما يظهر على الشاشة. *الخط المائل* = توجيهات. كل ما عدا ذلك يُقال. قولوه بكلماتكم، ولا تقرؤوه حرفيًا.
 
 ---
 
-## Video 1.1: Welcome to No Perfect Parents (~5 min)
+## Video 1.1: Welcome to No Perfect Parents (~5 دقائق)
 
 **[SLIDE: No Perfect Parents · Week 1]**
 
-Hi, and welcome. I'm so glad you're here.
+مرحبًا بكم، يسعدني جدًا وجودكم هنا.
 
-Before we start, I want to say something important: **you are not here because you're a bad parent.** You're here because you care. Parents who don't care don't sign up for parenting courses on a Tuesday night after bedtime.
+قبل أن نبدأ، أريد أن أقول شيئًا مهمًا: **أنتم لستم هنا لأنكم أهل سيّئون.** أنتم هنا لأنكم تهتمّون. الأهل الذين لا يهتمّون لا يسجّلون في دورة تربوية مساء يوم ثلاثاء بعد نوم الأطفال.
 
 **[SLIDE: There are no perfect parents. (Including me.)]**
 
-That's why this program is called No Perfect Parents. Not one of us gets it right all the time. I'm a Certified Positive Discipline Parent Educator, and I still have days where I raise my voice or say something I wish I hadn't. You'll make mistakes during these 8 weeks. That's not failing. In Positive Discipline, mistakes are opportunities to learn, and we'll spend a whole week on that.
+لهذا السبب اسم البرنامج No Perfect Parents. لا أحد منّا يصيب في كل مرة. أحمل شهادة Certified Positive Discipline Parent Educator، وما زالت تمرّ عليّ أيام أرفع فيها صوتي أو أقول شيئًا أتمنّى لو لم أقله. ستخطئون خلال هذه الأسابيع الثمانية، وهذا ليس فشلًا. في Positive Discipline، الأخطاء فرص للتعلّم، وسنخصّص لها أسبوعًا كاملًا.
 
 **[SLIDE: How this course works]**
 
-Here's how each week works:
-- A few short videos like this one
-- A worksheet to help you think about your own family
-- A cheat sheet for the fridge
-- And one small practice challenge
+هكذا يعمل كل أسبوع:
+- بضعة فيديوهات قصيرة مثل هذا
+- ورقة عمل تساعدكم على التفكير في عائلتكم
+- ورقة ملخّص للبرّاد
+- وتحدٍّ عملي صغير واحد
 
-You don't have to do everything perfectly (see what I did there?). If you only watch the videos and try one thing, that's progress.
+لستم مضطرين لفعل كل شيء بشكل مثالي (لاحظتم ما فعلت؟). إذا شاهدتم الفيديوهات فقط وجرّبتم أمرًا واحدًا، فهذا تقدّم.
 
-**[SLIDE: This week: Kind AND firm]**
+**[SLIDE: This week: Kind AND Firm]**
 
-This week is the foundation for everything else: what Positive Discipline is, and the idea at the heart of it, being kind and firm at the same time.
+هذا الأسبوع هو الأساس لكل ما سيأتي: ما هي Positive Discipline، والفكرة التي في قلبها: أن نكون لطفاء وحازمين في الوقت نفسه.
 
-*Smile.* Grab a cup of tea, and let's start.
+*ابتسموا.* حضّروا كوبًا من الشاي، ولنبدأ.
 
 ---
 
-## Video 1.2: Why punishment and permissiveness both backfire (~9 min)
+## Video 1.2: Why Punishment and Permissiveness Both Backfire (~9 دقائق)
 
 **[SLIDE: What do we usually do?]**
 
-Most of us parent the way we were parented, or the exact opposite. And it usually lands in one of two places.
+معظمنا يربّي كما تربّى، أو عكس ذلك تمامًا. وغالبًا ننتهي في أحد مكانين.
 
 **[SLIDE: Too firm (punitive) ←→ Too kind (permissive)]**
 
-### Option 1: Firm, but not kind
-This is the "because I said so" style: yelling, threats, taking things away, time-outs used as punishment, sometimes spanking.
+### الخيار الأول: حزم بلا لطف
+هذا أسلوب "لأنني قلت ذلك": صراخ، تهديد، حرمان من الأشياء، العزل كعقاب، وأحيانًا الضرب.
 
-And here's the thing: **it often works in the moment.** The child stops. That's why so many of us use it.
+والحقيقة: **غالبًا ينجح في اللحظة نفسها.** الطفل يتوقّف. ولهذا يستخدمه كثيرون منّا.
 
-But let's look at the long term.
+لكن لننظر إلى المدى البعيد.
 
 **[SLIDE: The 4 Rs of Punishment (Jane Nelsen)]**
 
-Jane Nelsen, who developed Positive Discipline, describes what children often decide when they're punished. She calls them the 4 Rs:
+تصف Jane Nelsen، التي طوّرت Positive Discipline، ما يقرّره الأطفال غالبًا عندما يُعاقَبون. تسمّيها 4 Rs:
 
-1. **Resentment:** "This isn't fair. I can't trust adults."
-2. **Revenge:** "They're winning now, but I'll get even."
-3. **Rebellion:** "I'll do the opposite to prove I don't have to do what they say."
-4. **Retreat**, which can look like:
-   - *sneakiness:* "I just won't get caught next time," or
-   - *low self-esteem:* "I'm a bad person."
+1. **Resentment (الاستياء):** "هذا ليس عدلًا. لا أستطيع الوثوق بالكبار."
+2. **Revenge (الانتقام):** "هم يربحون الآن، لكنني سأردّ لهم."
+3. **Rebellion (التمرّد):** "سأفعل العكس لأثبت أنني لست مجبرًا على طاعتهم."
+4. **Retreat (الانسحاب)**، وقد يظهر على شكل:
+   - *التخفّي:* "في المرة القادمة لن يمسكوني"، أو
+   - *تدنّي تقدير الذات:* "أنا شخص سيّئ."
 
-*Pause.* None of those are what we want our kids to learn.
+*توقّفوا لحظة.* لا شيء من هذا نريد أن يتعلّمه أطفالنا.
 
-**Little kid example:** A 3-year-old hits her brother, so she gets sent to her room. What does she learn? Maybe "Mom is mad at me." Probably not "Next time I'm frustrated, I can use my words."
+**مثال لطفل صغير:** طفلة عمرها 3 سنوات تضرب أخاها، فتُرسَل إلى غرفتها. ماذا تتعلّم؟ ربما "ماما غاضبة مني". على الأغلب ليس "في المرة القادمة عندما أنزعج، أستخدم الكلمات."
 
-**Older kid example:** A 10-year-old loses his phone for a week because of a bad grade. What does he learn? Maybe to hide his next test. Probably not how to plan his studying.
+**مثال لطفل أكبر:** ولد عمره 10 سنوات يُحرَم من هاتفه أسبوعًا بسبب علامة سيّئة. ماذا يتعلّم؟ ربما أن يُخفي الامتحان القادم. على الأغلب ليس كيف ينظّم دراسته.
 
-### Option 2: Kind, but not firm
-So some of us swing the other way. We want our kids to be happy, so we give in, rescue, repeat ourselves ten times, or skip limits altogether.
+### الخيار الثاني: لطف بلا حزم
+فيذهب بعضنا إلى الاتجاه المعاكس. نريد أطفالنا سعداء، فنستسلم وننقذهم ونكرّر الطلب عشر مرات، أو نتخلّى عن الحدود تمامًا.
 
-That comes from love. But when kids don't have limits, they can learn:
-- "Love means getting my way."
-- "Other people should solve my problems."
-- "I'm not capable of handling disappointment."
+هذا نابع من الحب. لكن عندما لا تكون هناك حدود، قد يتعلّم الأطفال:
+- "الحب يعني أن أحصل على ما أريد."
+- "على الآخرين أن يحلّوا مشكلاتي."
+- "لا أستطيع تحمّل خيبة الأمل."
 
 **[SLIDE: Neither one teaches the skills we want]**
 
-So one style isn't kind enough, and the other isn't firm enough. Positive Discipline is the third way.
+أسلوب ينقصه اللطف، والآخر ينقصه الحزم. Positive Discipline هي الطريق الثالث.
 
 ---
 
-## Video 1.3: Kind AND firm at the same time (~9 min)
+## Video 1.3: Kind AND Firm at the Same Time (~9 دقائق)
 
-**[SLIDE: Kind AND firm]**
+**[SLIDE: Kind AND Firm]**
 
-Here's the heart of Positive Discipline: **kind and firm at the same time.**
+هذا قلب Positive Discipline: **اللطف والحزم في الوقت نفسه.**
 
-- **Kind** means respect for your child: their feelings, their needs, their dignity.
-- **Firm** means respect for yourself and for what the situation needs.
+- **اللطف** يعني احترام طفلكم: مشاعره واحتياجاته وكرامته.
+- **الحزم** يعني احترام أنفسكم واحترام ما يتطلّبه الموقف.
 
-Not one, then the other. Both, in the same moment.
+ليس واحدًا ثم الآخر. الاثنان معًا، في اللحظة نفسها.
 
 **[SLIDE: Swap "but" for "and"]**
 
-One tiny trick makes this easier: **use "and" instead of "but."**
+حيلة صغيرة تسهّل الأمر: **استخدموا "و" بدل "لكن".**
 
-"I know you're sad, *but* we're leaving" quietly erases the first half.
-"I know you're sad, *and* we're leaving" holds both.
+"أعرف أنك حزين، *لكن* سنغادر" تمحو النصف الأول بهدوء.
+"أعرف أنك حزين، *و*حان وقت المغادرة" تحتفظ بالاثنين.
 
-**[SLIDE: Kind AND firm phrases]**
+**[SLIDE: Kind AND Firm phrases]**
 
-Let me give you some examples.
+إليكم بعض الأمثلة.
 
-**Little kids (1–5):**
-- "You really want another cookie. And cookies are done for today."
-- "You're so mad! And I won't let you hit. You can stomp your feet."
-- "It's hard to leave the park. And it's time to go. Do you want to hop or walk like a bear to the car?"
+**الأطفال الصغار (1–5):**
+- "تريد قطعة بسكويت أخرى. والبسكويت انتهى لليوم."
+- "أنت غاضب جدًا! ولن أسمح لك بالضرب. يمكنك أن تدبك بقدميك."
+- "صعب أن نترك الحديقة. وحان وقت الذهاب. تريد أن تقفز كالأرنب أم تمشي كالدبّ إلى السيارة؟"
 
-**Older kids (6–12):**
-- "I can see you really want to keep playing. And screens are off at 7. What's your plan for the last 5 minutes?"
-- "I love you, and the answer is no."
-- "You're frustrated with your homework. And I trust you to figure it out. Do you want to start with the easy part or the hard part?"
+**الأطفال الأكبر (6–12):**
+- "أرى أنك تريد أن تكمل اللعب. والشاشات تُطفأ الساعة 7. ما خطتك للدقائق الخمس الأخيرة؟"
+- "أحبك، والجواب لا."
+- "الواجب يزعجك. وأنا أثق أنك ستجد حلًا. تريد أن تبدأ بالجزء السهل أم الصعب؟"
 
-Notice what's missing: threats, lectures, shame and giving in.
+لاحظوا ما الذي غاب: التهديد والمحاضرات والإذلال والاستسلام.
 
 **[SLIDE: Decide what YOU will do]**
 
-Another kind-and-firm tool: **decide what you will do, rather than trying to make your child do something.**
+أداة أخرى للطف والحزم: **قرّروا ما ستفعلونه أنتم، بدل محاولة إجبار طفلكم على فعل شيء.**
 
-You can't actually *make* a child eat, sleep or stop whining. But you can decide what you'll do:
-- "I'll read stories to kids who are in pajamas."
-- "I'll drive when everyone's seatbelt is on." *(Then sit calmly and wait.)*
-- "I'll listen when you speak in a calm voice."
+لا يمكنكم فعلًا *إجبار* طفل على الأكل أو النوم أو التوقّف عن التذمّر. لكن يمكنكم أن تقرّروا ما ستفعلونه:
+- "أقرأ القصص للأطفال الذين لبسوا البيجاما."
+- "أقود السيارة عندما يربط الجميع أحزمة الأمان." *(ثم انتظروا بهدوء.)*
+- "أستمع عندما تتكلّم بصوت هادئ."
 
-Then follow through, kindly and without a speech. That's where the firmness lives: in what you *do*, not how loudly you say it.
+ثم تابعوا التنفيذ، بلطف ودون خطاب. هنا يكمن الحزم: في ما *تفعلونه*، لا في ارتفاع صوتكم.
 
 ---
 
-## Video 1.4: Thinking long-term + your challenge (~7 min)
+## Video 1.4: Thinking Long-Term + Your Challenge (~7 دقائق)
 
 **[SLIDE: Who do you want your child to be at 25?]**
 
-I want to try something with you. *(This is on your worksheet.)*
+أريد أن أجرّب معكم شيئًا. *(هذا موجود في ورقة العمل.)*
 
-First, think about the challenges you face with your child right now. Things like whining, not listening, sibling fights, screen battles or bedtime.
+أولًا، فكّروا في التحديات التي تواجهونها مع طفلكم الآن. أشياء مثل التذمّر، عدم الاستماع، شجار الإخوة، معارك الشاشات، أو وقت النوم.
 
-Now picture your child at 25. What qualities and life skills do you hope they'll have? Maybe kindness, responsibility, confidence, problem-solving, honesty, or being able to handle disappointment.
+الآن تخيّلوا طفلكم في عمر 25. ما الصفات والمهارات الحياتية التي تتمنّونها له؟ ربما اللطف، المسؤولية، الثقة بالنفس، حلّ المشكلات، الصدق، أو القدرة على تحمّل خيبة الأمل.
 
 **[SLIDE: Challenges today → Life skills later]**
 
-Here's the twist. **The challenges are the chances to teach the life skills.** Every meltdown is a chance to practice calming down. Every sibling fight is a chance to practice problem-solving.
+وهنا المفاجأة. **التحديات هي الفرص لتعليم المهارات الحياتية.** كل نوبة غضب فرصة لممارسة التهدئة. كل شجار بين الإخوة فرصة لممارسة حلّ المشكلات.
 
-Punishment might stop the challenge. Positive Discipline uses it to build the skill.
+العقاب قد يوقف التحدّي. Positive Discipline تستخدمه لبناء المهارة.
 
 **[SLIDE: 5 Criteria for Positive Discipline]**
 
-When you're not sure what to do, Positive Discipline offers five questions to check your response. Does it:
-1. Help my child feel a sense of connection, that they **belong and matter**?
-2. Feel **mutually respectful**, kind and firm at the same time?
-3. Work **long-term**, not just right now?
-4. Teach valuable **social and life skills**?
-5. Help my child discover **how capable** they are?
+عندما لا تعرفون ماذا تفعلون، تقدّم Positive Discipline خمسة أسئلة لفحص تصرّفكم. هل هذا التصرّف:
+1. يساعد طفلي على الشعور بالقرب، وبأنه **ينتمي ومهم**؟
+2. **محترم للطرفين**، لطيف وحازم في الوقت نفسه؟
+3. فعّال **على المدى البعيد**، وليس الآن فقط؟
+4. يعلّم **مهارات اجتماعية وحياتية** قيّمة؟
+5. يساعد طفلي على اكتشاف **مدى قدرته**؟
 
-You don't need all five every time. They're a compass, not a test.
+لا تحتاجون الخمسة في كل مرة. إنها بوصلة، وليست امتحانًا.
 
 **[SLIDE: This week's challenge]**
 
-### Your practice challenge
-**Once a day, use one "kind AND firm" sentence.** Use "and," not "but." Notice what happens, in your child *and* in you.
+### تحدّي الأسبوع
+**مرة واحدة يوميًا، استخدموا جملة واحدة لطيفة وحازمة.** استخدموا "و" وليس "لكن". لاحظوا ما يحدث، في طفلكم *و*فيكم.
 
-If you forget, or it comes out wrong, that's fine. Just notice and try again tomorrow. No perfect parents, remember?
+إذا نسيتم، أو خرجت الجملة بشكل خاطئ، لا بأس. لاحظوا فقط وجرّبوا غدًا. No perfect parents، تذكّرون؟
 
-**[SLIDE: Next week: Your calm comes first]**
+**[SLIDE: Next week: Your Calm Comes First]**
 
-Next week, we'll talk about *your* calm, because it's really hard to be kind and firm when you've flipped your lid. Download your worksheet and cheat sheet below, and I'll see you next week. 💛
+الأسبوع القادم سنتحدّث عن هدوئكم *أنتم*، لأنه من الصعب جدًا أن تكونوا لطفاء وحازمين عندما "يطير غطاء دماغكم". حمّلوا ورقة العمل وورقة الملخّص من الأسفل، وأراكم الأسبوع القادم. 💛
 
-**[SLIDE (small print): This course is educational and is not therapy or medical advice. If you're worried about your child's development, mental health or safety, please talk with a licensed professional.]**
+**[SLIDE (خط صغير): هذه الدورة تثقيفية وليست علاجًا نفسيًا أو استشارة طبية. إذا كنتم قلقين بشأن نموّ طفلكم أو صحته النفسية أو سلامته، يُرجى التحدّث مع مختص مرخّص.]**

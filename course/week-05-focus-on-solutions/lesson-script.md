@@ -1,122 +1,122 @@
 # Week 5: Focus on Solutions
-## Video lesson script (DRAFT)
+## نص الفيديو (مسودّة)
 
-**Total length:** ~32 minutes, 4 videos
-**Goal for the week:** parents use curiosity questions, understand natural and logical consequences vs. punishment, and focus on solutions together with their children.
+**المدة الإجمالية:** حوالي 32 دقيقة، 4 فيديوهات
+**هدف الأسبوع:** أن يستخدم الأهل أسئلة الفضول، ويفهموا العواقب الطبيعية والمنطقية مقابل العقاب، ويركّزوا على الحلول مع أطفالهم.
 
-> **[SLIDE]** = on screen. *Italics* = stage directions. Say it in your own words.
+> **[SLIDE]** = على الشاشة. *الخط المائل* = توجيهات. قولوه بكلماتكم.
 
 ---
 
-## Video 5.1: If not punishment, then what? (~6 min)
+## Video 5.1: If Not Punishment, Then What? (~6 دقائق)
 
 **[SLIDE: Week 5 · Focus on Solutions]**
 
-Welcome back! I hope special time was a highlight of your week.
+أهلًا بعودتكم! أتمنّى أن يكون Special Time من أجمل لحظات أسبوعكم.
 
-This is the week many parents have been waiting for, because by now you might be thinking: "Okay, no punishment… but then what do I *do* when my kid does something wrong?"
+هذا الأسبوع ينتظره كثير من الأهل، لأنكم ربما تفكّرون الآن: "حسنًا، لا عقاب… لكن ماذا *أفعل* عندما يخطئ طفلي؟"
 
 **[SLIDE: "Where did we ever get the crazy idea that in order to make children do better, first we have to make them feel worse?" Jane Nelsen]**
 
-Jane Nelsen asks this famous question. Think about your own life. When your boss shames you, do you do better? Or do you feel resentful and stressed?
+تطرح Jane Nelsen هذا السؤال الشهير: "من أين أتتنا الفكرة الغريبة بأنه لكي يتصرّف الأطفال بشكل أفضل، علينا أولًا أن نجعلهم يشعرون بشكل أسوأ؟" فكّروا في حياتكم أنتم. عندما يحرجكم مديركم، هل تعملون بشكل أفضل؟ أم تشعرون بالاستياء والتوتّر؟
 
 **[SLIDE: Punishment asks "How do I make them pay?" Solutions ask "How do we fix this, and what can we learn?"]**
 
-Positive Discipline isn't about letting things slide. It's about changing the question:
-- Punishment asks: *"How do I make them pay for what they did?"*
-- Solutions ask: *"What happened, how can we fix it, and what can we learn for next time?"*
+Positive Discipline لا تعني التغاضي عن الأمور. بل تعني تغيير السؤال:
+- العقاب يسأل: *"كيف أجعله يدفع ثمن ما فعل؟"*
+- الحلول تسأل: *"ماذا حدث، كيف نصلحه، وماذا نتعلّم للمرة القادمة؟"*
 
 ---
 
-## Video 5.2: Curiosity questions (~8 min)
+## Video 5.2: Curiosity Questions (~8 دقائق)
 
-**[SLIDE: Ask, don't tell]**
+**[SLIDE: Ask, Don't Tell]**
 
-The first tool is **curiosity questions.** Instead of telling kids what to do or lecturing them, we ask questions that help them think for themselves.
+الأداة الأولى هي **أسئلة الفضول (Curiosity Questions).** بدل أن نقول للأطفال ماذا يفعلون أو نحاضرهم، نسأل أسئلة تساعدهم على التفكير بأنفسهم.
 
 **[SLIDE: Ask "what" and "how," not "why"]**
 
-The secret: ask **"what"** and **"how."** Avoid "why." "Why did you do that?!" usually feels like an attack, and kids often honestly don't know.
+السرّ: اسألوا **"ماذا"** و**"كيف"**. تجنّبوا "لماذا". "لماذا فعلت ذلك؟!" تبدو غالبًا كهجوم، والأطفال في الغالب لا يعرفون الجواب فعلًا.
 
-**[SLIDE: Curiosity questions]**
-- "What happened?"
-- "How do you feel about what happened?"
-- "What do you think caused it?"
-- "What could you do to fix it?"
-- "What can you do differently next time?"
-- "What do you need to take to school today?" *(instead of a list of orders)*
+**[SLIDE: Curiosity Questions]**
+- "ماذا حدث؟"
+- "كيف تشعر حيال ما حدث؟"
+- "ما الذي تظنّ أنه سبّب ذلك؟"
+- "ماذا يمكنك أن تفعل لإصلاحه؟"
+- "ماذا يمكنك أن تفعل بشكل مختلف في المرة القادمة؟"
+- "ماذا تحتاج أن تأخذ معك إلى المدرسة اليوم؟" *(بدل قائمة أوامر)*
 
-**Little kid example:** Your 4-year-old spilled juice. Instead of "Why weren't you careful?!", try: "Uh oh! What do we need to clean it up?" Then hand them a cloth.
+**مثال لطفل صغير:** طفلكم ذو الأربع سنوات أوقع العصير. بدل "لماذا لم تنتبه؟!"، جرّبوا: "أوه! ماذا نحتاج لننظّفه؟" ثم أعطوه قطعة قماش.
 
-**Older kid example:** Your 9-year-old forgot their homework again. Instead of a lecture, ask: "What's your plan to remember it tomorrow?"
+**مثال لطفل أكبر:** طفلكم ذو التسع سنوات نسي واجبه مرة أخرى. بدل المحاضرة، اسألوا: "ما خطتك لتتذكّره غدًا؟"
 
 **[SLIDE: Only ask when everyone is calm]**
 
-Remember the hand model: curiosity questions only work when everyone's lid is back on. If anyone's upset, calm down first.
+تذكّروا نموذج اليد: أسئلة الفضول لا تنجح إلا عندما يعود غطاء الجميع إلى مكانه. إذا كان أحد منزعجًا، اهدؤوا أولًا.
 
 ---
 
-## Video 5.3: Consequences vs. punishment (~11 min)
+## Video 5.3: Consequences vs. Punishment (~11 دقيقة)
 
-**[SLIDE: Natural consequences]**
+**[SLIDE: Natural Consequences]**
 
-### Natural consequences
-These happen without any adult stepping in. If you forget your jacket, you feel cold. If you don't eat dinner, you feel hungry later.
+### Natural Consequences (العواقب الطبيعية)
+تحدث دون تدخّل أي شخص بالغ. إذا نسيت معطفك، تشعر بالبرد. إذا لم تأكل العشاء، تجوع لاحقًا.
 
-Letting natural consequences happen can be a powerful teacher, if you:
-- **Make sure it's safe.** Never let a child experience a dangerous consequence.
-- **Show empathy, without "I told you so."** "Oh no, you're cold. That's uncomfortable."
-- **Avoid rescuing *and* lecturing.** Let the experience teach.
+ترك العواقب الطبيعية تحدث قد يكون معلّمًا قويًا، بشرط أن:
+- **تتأكّدوا أنها آمنة.** لا تتركوا طفلًا يواجه عاقبة خطيرة أبدًا.
+- **تُظهروا التعاطف، دون "ألم أقل لك؟".** "أوه، تشعر بالبرد. هذا مزعج."
+- **تتجنّبوا الإنقاذ *و*المحاضرة.** دعوا التجربة تعلّمه.
 
-**[SLIDE: Logical consequences: the 3 Rs and an H]**
+**[SLIDE: Logical Consequences: the 3 Rs and an H]**
 
-### Logical consequences
-These are set up by an adult. Many "logical consequences" are really punishment in disguise. Positive Discipline offers a test: **the 3 Rs and an H.** A logical consequence should be:
-1. **Related** to the behavior
-2. **Respectful:** no blame, shame or pain
-3. **Reasonable** from the child's point of view, too
-4. **Helpful:** it helps the child learn
+### Logical Consequences (العواقب المنطقية)
+يضعها شخص بالغ. وكثير من "العواقب المنطقية" هي في الحقيقة عقاب متنكّر. تقدّم Positive Discipline اختبارًا: **the 3 Rs and an H.** يجب أن تكون العاقبة المنطقية:
+1. **Related:** مرتبطة بالسلوك
+2. **Respectful:** محترمة، بلا لوم أو إذلال أو ألم
+3. **Reasonable:** معقولة، من وجهة نظر الطفل أيضًا
+4. **Helpful:** مفيدة، تساعد الطفل على التعلّم
 
-If it fails even one, it's probably punishment.
+إذا فشلت في واحد منها فقط، فهي على الأرجح عقاب.
 
-**[SLIDE: Punishment vs. logical consequence]**
+**[SLIDE: Punishment vs. Logical Consequence]**
 
-| Situation | Punishment | Logical consequence |
+| الموقف | العقاب | العاقبة المنطقية |
 |---|---|---|
-| Draws on the wall | No TV for a week | Helps scrub the wall |
-| Leaves bike out in the rain | "You're grounded!" | Bike stays in the garage for a day, then try again |
-| Throws food | "Go to your room!" | "Looks like you're done eating," and the plate is calmly removed |
+| رسم على الحائط | لا تلفاز لمدة أسبوع | يساعد في تنظيف الحائط |
+| ترك الدراجة تحت المطر | "أنت معاقب!" | تبقى الدراجة في المرآب يومًا واحدًا، ثم نحاول مجددًا |
+| رمى الطعام | "اذهب إلى غرفتك!" | "يبدو أنك انتهيت من الأكل"، ويُرفع الصحن بهدوء |
 
 **[SLIDE: Even better, focus on solutions]**
 
-Here's the twist: Jane Nelsen notes that **logical consequences are overused.** Often the most helpful thing is to skip consequences altogether and **focus on solutions together.**
+وهنا المفاجأة: تشير Jane Nelsen إلى أن **العواقب المنطقية تُستخدم أكثر من اللازم.** غالبًا يكون الأفضل تجاوز العواقب تمامًا و**التركيز على الحلول معًا.**
 
 ---
 
-## Video 5.4: Solving problems together + your challenge (~7 min)
+## Video 5.4: Solving Problems Together + Your Challenge (~7 دقائق)
 
-**[SLIDE: Focus on solutions in 4 steps]**
+**[SLIDE: Focus on Solutions in 4 Steps]**
 
-When a problem keeps happening, sit down together when everyone's calm:
-1. **Describe the problem** without blame: "I've noticed mornings have been really stressful."
-2. **Listen** to their side: "What do you think is making them hard?"
-3. **Brainstorm solutions together.** Write down every idea, even the silly ones.
-4. **Choose one to try** that works for everyone, then check in after a few days.
+عندما تتكرّر مشكلة، اجلسوا معًا عندما يكون الجميع هادئًا:
+1. **صِفوا المشكلة** دون لوم: "لاحظت أن الصباحات صارت متوتّرة جدًا."
+2. **استمعوا** إلى وجهة نظره: "ما الذي تظنّ أنه يجعلها صعبة؟"
+3. **فكّروا بالحلول معًا.** اكتبوا كل فكرة، حتى المضحكة منها.
+4. **اختاروا حلًا واحدًا للتجربة** يناسب الجميع، ثم راجعوا بعد بضعة أيام.
 
-**Example:** Your 7- and 10-year-olds keep fighting over the TV. Together they come up with: a schedule on the fridge, taking turns choosing, and a timer. Kids are much more likely to follow a solution *they* helped create.
+**مثال:** ابناكم في عمر 7 و10 يتشاجران باستمرار على التلفاز. معًا يتوصّلان إلى: جدول على البرّاد، وتبادل الأدوار في الاختيار، ومؤقّت. الأطفال أكثر استعدادًا بكثير لاتباع حلّ *شاركوا* في صنعه.
 
-**[SLIDE: Follow-through]**
+**[SLIDE: Follow-Through]**
 
-And when you agree on something, follow through kindly and firmly, with few words: "What was our agreement about screens?"
+وعندما تتّفقون على شيء، تابعوا التنفيذ بلطف وحزم، وبكلمات قليلة: "ماذا كان اتفاقنا بخصوص الشاشات؟"
 
 **[SLIDE: This week's challenge 🎯]**
 
-### Your practice challenge
-1. **Swap one "why" for a "what" or "how"** each day.
-2. **Pick one recurring problem** and solve it *together* with your child using the 4 steps.
+### تحدّي الأسبوع
+1. **استبدلوا "لماذا" واحدة بـ"ماذا" أو "كيف"** كل يوم.
+2. **اختاروا مشكلة متكرّرة واحدة** وحلّوها *مع* طفلكم باستخدام الخطوات الأربع.
 
-**[SLIDE: Next week: Routines, choices & cooperation]**
+**[SLIDE: Next week: Routines, Choices & Cooperation]**
 
-Next week we'll tackle the daily battle zones: bedtime, mornings and getting out the door. See you then 💛
+الأسبوع القادم سنتعامل مع مناطق المعارك اليومية: وقت النوم، والصباح، والخروج من البيت. أراكم 💛
 
-**[SLIDE (small print): Educational content only, not therapy or medical advice. Never allow a natural consequence that could put a child's health or safety at risk.]**
+**[SLIDE (خط صغير): محتوى تثقيفي فقط، وليس علاجًا نفسيًا أو استشارة طبية. لا تسمحوا أبدًا بعاقبة طبيعية قد تعرّض صحة الطفل أو سلامته للخطر.]**

@@ -1,135 +1,135 @@
 # Week 2: Your Calm Comes First
-## Video lesson script (DRAFT)
+## نص الفيديو (مسودّة)
 
-**Total length:** ~30 minutes, 4 videos
-**Goal for the week:** parents understand what happens in the brain when anyone "flips their lid," notice their own triggers, and start using positive time-out for themselves and their kids.
+**المدة الإجمالية:** حوالي 30 دقيقة، 4 فيديوهات
+**هدف الأسبوع:** أن يفهم الأهل ما يحدث في الدماغ عندما "يطير الغطاء" (Flipping Your Lid)، وأن يلاحظوا ما يستفزّهم، وأن يبدؤوا باستخدام Positive Time-Out لأنفسهم ولأطفالهم.
 
-> **[SLIDE]** = on screen. *Italics* = stage directions. Say it in your own words.
+> **[SLIDE]** = على الشاشة. *الخط المائل* = توجيهات. قولوه بكلماتكم.
 
 ---
 
-## Video 2.1: How did last week go? (~5 min)
+## Video 2.1: How Did Last Week Go? (~5 دقائق)
 
 **[SLIDE: Week 2 · Your Calm Comes First]**
 
-Welcome back! Let's start with last week's challenge: one kind-and-firm sentence a day.
+أهلًا بعودتكم! لنبدأ بتحدّي الأسبوع الماضي: جملة لطيفة وحازمة واحدة يوميًا.
 
-Maybe it went well. Maybe you said "but" every single time. Maybe you got halfway through "I know you're sad, and…" and then yelled anyway. *(Laugh.)* All of that counts. Noticing is the first step.
+ربما سار الأمر جيدًا. ربما قلتم "لكن" في كل مرة. ربما وصلتم إلى منتصف "أعرف أنك حزين، و…" ثم صرختم على أي حال. *(اضحكوا.)* كل هذا يُحتسب. الملاحظة هي الخطوة الأولى.
 
 **[SLIDE: It's hard to be kind and firm when you're not calm]**
 
-If you found it hard, I bet there was a moment when you just… lost it. Your patience was gone, and the words came out before you could stop them.
+إذا وجدتم الأمر صعبًا، أراهن أنه مرّت لحظة فقدتم فيها السيطرة تمامًا. نفد صبركم، وخرجت الكلمات قبل أن تستطيعوا إيقافها.
 
-That's what this week is about. **We can't teach our kids to calm down if we haven't calmed down first.** Children borrow our calm, and they borrow our chaos too.
+هذا ما يدور حوله هذا الأسبوع. **لا يمكننا أن نعلّم أطفالنا الهدوء إذا لم نهدأ نحن أولًا.** الأطفال يستعيرون هدوءنا، ويستعيرون فوضانا أيضًا.
 
-So this week isn't about fixing your child. It's about taking care of you.
+لذلك هذا الأسبوع ليس عن إصلاح طفلكم. إنه عن الاهتمام بأنفسكم.
 
 ---
 
-## Video 2.2: Flipping your lid (~9 min)
+## Video 2.2: Flipping Your Lid (~9 دقائق)
 
-**[SLIDE: Your brain in the palm of your hand · Dr. Dan Siegel]**
+**[SLIDE: Your Brain in the Palm of Your Hand · Dr. Dan Siegel]**
 
-I want to show you something. Positive Discipline uses a model from psychiatrist Dr. Dan Siegel. It's called the hand model of the brain. Hold up your hand with me.
+أريد أن أريكم شيئًا. تستخدم Positive Discipline نموذجًا من الطبيب النفسي Dr. Dan Siegel يُسمّى نموذج الدماغ في راحة اليد. ارفعوا يدكم معي.
 
-*(Demonstrate with your hand.)*
+*(اشرحوا بيدكم.)*
 
 **[SLIDE: Hand model, labelled]**
 
-- Your **wrist and palm** are the brain stem, which handles basic survival: fight, flight or freeze.
-- Fold your **thumb** across your palm. That's roughly the emotional part of the brain, which stores memories and big feelings and senses danger.
-- Now fold your **fingers** over the top. That's the prefrontal cortex, the thinking brain. It handles calm, problem-solving, empathy and self-control.
+- **المعصم وراحة اليد** هما جذع الدماغ، المسؤول عن البقاء: القتال أو الهروب أو التجمّد.
+- اطووا **الإبهام** فوق راحة اليد. هذا تقريبًا الجزء العاطفي من الدماغ، الذي يخزّن الذكريات والمشاعر الكبيرة ويستشعر الخطر.
+- الآن اطووا **الأصابع** فوقه. هذه قشرة الفص الجبهي، أي الدماغ المفكّر. هي مسؤولة عن الهدوء وحلّ المشكلات والتعاطف وضبط النفس.
 
-When we're calm, the thinking brain is "on top" and connected.
+عندما نكون هادئين، يكون الدماغ المفكّر "في الأعلى" ومتّصلًا.
 
-**[SLIDE: Flipping your lid]**
+**[SLIDE: Flipping Your Lid]**
 
-But when we feel threatened, overwhelmed or exhausted, *(lift your fingers up)* we **flip our lid**. The thinking brain goes offline, and we react from the emotional, survival brain.
+لكن عندما نشعر بالتهديد أو الإرهاق أو التعب، *(ارفعوا أصابعكم)* **يطير الغطاء**. يتوقّف الدماغ المفكّر، ونتصرّف من دماغ المشاعر والبقاء.
 
-That's when we yell, say things we regret, or freeze.
+عندها نصرخ، أو نقول أشياء نندم عليها، أو نتجمّد.
 
 **[SLIDE: Kids flip their lids too, and more often]**
 
-Here's the important part: **a child's thinking brain is still developing, for many years.** So kids flip their lids a lot. That's not bad behavior. It's brain development.
+وهذا هو المهم: **الدماغ المفكّر عند الطفل ما زال في طور النمو، ولسنوات طويلة.** لذلك يطير الغطاء عند الأطفال كثيرًا. هذا ليس سوء سلوك، بل جزء من نموّ الدماغ.
 
-**Little kid example:** A 2-year-old whose banana broke in half isn't being dramatic. Their lid really has flipped.
+**مثال لطفل صغير:** طفل عمره سنتان انكسرت موزته إلى نصفين ليس "دراميًا". غطاؤه طار فعلًا.
 
-**Older kid example:** An 11-year-old who slams the door after an argument with a friend isn't being disrespectful on purpose. They're overwhelmed.
+**مثال لطفل أكبر:** طفل عمره 11 سنة يصفق الباب بعد خلاف مع صديقه لا يقصد قلّة الاحترام. هو مُرهَق عاطفيًا.
 
 **[SLIDE: Two flipped lids can't connect]**
 
-And when your child flips their lid and you flip yours? Two survival brains, and nobody's thinking. That's why lecturing a screaming child never works. **No one learns anything while their lid is flipped.**
+وعندما يطير غطاء طفلكم وغطاؤكم معًا؟ دماغان في وضع البقاء، ولا أحد يفكّر. لهذا لا تنجح المحاضرة مع طفل يصرخ أبدًا. **لا أحد يتعلّم شيئًا وغطاؤه طائر.**
 
-So the first job is always the same: calm down first, then solve the problem.
+لذلك المهمة الأولى دائمًا واحدة: اهدؤوا أولًا، ثم حلّوا المشكلة.
 
-*(Tip: teach your kids the hand model too. Even 4-year-olds love it. "I think my lid is flipping!")*
+*(نصيحة: علّموا أطفالكم نموذج اليد أيضًا. حتى أطفال الرابعة يحبّونه: "أظن أن غطائي سيطير!")*
 
 ---
 
-## Video 2.3: Know your triggers + positive time-out (~9 min)
+## Video 2.3: Know Your Triggers + Positive Time-Out (~9 دقائق)
 
 **[SLIDE: What flips YOUR lid?]**
 
-Let's get honest. What flips your lid? For a lot of parents, it's things like:
-- Being ignored
-- Whining
-- Running late
-- Siblings fighting
-- Being tired, hungry or touched-out
-- Feeling judged by other people
+لنكن صادقين. ما الذي يطيّر غطاءكم *أنتم*؟ عند كثير من الأهل:
+- التجاهل
+- التذمّر
+- التأخّر
+- شجار الإخوة
+- التعب أو الجوع أو الإرهاق من كثرة اللمس والطلبات
+- الشعور بأحكام الآخرين
 
 **[SLIDE: Notice → Name → Pause]**
 
-You don't have to never get upset. That's impossible. Just try to catch it a little earlier:
-1. **Notice** the signs in your body: tight jaw, hot face, louder voice.
-2. **Name** it, out loud if you can: "I'm starting to feel really frustrated."
-3. **Pause:** step back, breathe, or take a positive time-out.
+لستم مطالبين بألّا تنزعجوا أبدًا، فهذا مستحيل. فقط حاولوا الانتباه مبكرًا قليلًا:
+1. **لاحظوا** العلامات في جسمكم: فكّ مشدود، وجه ساخن، صوت يرتفع.
+2. **سمّوا** ما تشعرون به، بصوت عالٍ إن أمكن: "بدأت أشعر بانزعاج شديد."
+3. **توقّفوا:** ابتعدوا خطوة، تنفّسوا، أو خذوا Positive Time-Out.
 
-**[SLIDE: Positive time-out ≠ punishment]**
+**[SLIDE: Positive Time-Out ≠ Punishment]**
 
-Now let's talk about time-out. Most of us know the punitive kind: "Go to your room and think about what you did!" Positive Discipline does it differently.
+لنتحدّث عن العزل (Time-Out). معظمنا يعرف النوع العقابي: "اذهب إلى غرفتك وفكّر في ما فعلت!" أما Positive Discipline فتفعل ذلك بشكل مختلف.
 
-**Positive time-out** is a chance to calm down so your thinking brain can come back online. It's never a punishment, and it works best when:
-- **Your child helps create the space.** Let them name it ("the cozy corner," "space station") and choose what goes in it, like pillows, books, a stuffed animal or headphones.
-- **It's a choice, not a banishment.** "Would it help to go to your cozy corner?" or "Do you want me to come with you?"
-- **You use it first.** Model it.
+**Positive Time-Out** فرصة للتهدئة حتى يعود الدماغ المفكّر للعمل. ليس عقابًا أبدًا، وينجح أكثر عندما:
+- **يشارك طفلكم في صنع المكان.** دعوه يسمّيه ("الركن الدافئ"، "محطة الفضاء") ويختار ما يوضع فيه: وسائد، كتب، دمية، سماعات.
+- **يكون خيارًا، لا إبعادًا.** "هل يساعدك أن تذهب إلى ركنك الدافئ؟" أو "تريدني أن آتي معك؟"
+- **تستخدمونه أنتم أولًا.** كونوا القدوة.
 
 **[SLIDE: Model it out loud]**
 
-Try saying: "I'm feeling really upset right now, so I'm going to take a few minutes to calm down. When I feel better, we'll figure this out together."
+جرّبوا أن تقولوا: "أنا منزعج/ة جدًا الآن، لذلك سآخذ بضع دقائق لأهدأ. عندما أشعر بتحسّن، سنحلّ هذا معًا."
 
-*(Pause.)* You've just taught your child that big feelings are okay, that there's a healthy way to handle them, and that a problem can wait until everyone is calm.
+*(توقّفوا لحظة.)* لقد علّمتم طفلكم للتوّ أن المشاعر الكبيرة مقبولة، وأن هناك طريقة صحية للتعامل معها، وأن المشكلة يمكن أن تنتظر حتى يهدأ الجميع.
 
-For toddlers, positive time-out usually means **time-in**: you stay close, sit with them, and help them calm down. Little ones need your body nearby to regulate.
+مع الأطفال الصغار جدًا، يكون Positive Time-Out غالبًا **Time-In**: تبقون قريبين، تجلسون معهم، وتساعدونهم على الهدوء. الصغار يحتاجون إلى قرب أجسادكم لينظّموا مشاعرهم.
 
 ---
 
-## Video 2.4: Filling your cup + your challenge (~7 min)
+## Video 2.4: Filling Your Cup + Your Challenge (~7 دقائق)
 
 **[SLIDE: You can't pour from an empty cup]**
 
-Let's be real: it's much easier to flip your lid when you haven't slept, haven't eaten, and haven't had a minute to yourself since 6 a.m.
+لنكن واقعيين: يطير الغطاء بسهولة أكبر بكثير عندما لم تناموا، ولم تأكلوا، ولم تحصلوا على دقيقة لأنفسكم منذ السادسة صباحًا.
 
-Taking care of yourself isn't selfish. It's part of parenting. Your calm is the most powerful tool you have.
+الاهتمام بأنفسكم ليس أنانية. إنه جزء من التربية. هدوؤكم هو أقوى أداة تملكونها.
 
 **[SLIDE: Small cup-fillers]**
 
-You don't need a spa weekend. Think small:
-- 5 minutes of quiet coffee before the kids wake up
-- A walk around the block
-- Texting a friend who gets it
-- Asking for help, or saying no to one extra thing
-- Going to bed 20 minutes earlier
+لا تحتاجون عطلة في منتجع. فكّروا بأشياء صغيرة:
+- ‏5 دقائق من القهوة بهدوء قبل استيقاظ الأطفال
+- مشي قصير حول الحيّ
+- رسالة لصديق يفهمكم
+- طلب المساعدة، أو قول "لا" لالتزام إضافي واحد
+- النوم مبكرًا بعشرين دقيقة
 
 **[SLIDE: This week's challenge 🎯]**
 
-### Your practice challenge
-1. **Teach your family the hand model** of the brain.
-2. **Model one positive time-out yourself,** out loud: "I'm flipping my lid. I'm going to take a few minutes."
-3. **Optional:** create a calm-down space *with* your child.
+### تحدّي الأسبوع
+1. **علّموا عائلتكم نموذج الدماغ في اليد.**
+2. **كونوا القدوة في Positive Time-Out مرة واحدة،** بصوت عالٍ: "غطائي سيطير. سآخذ بضع دقائق."
+3. **اختياري:** اصنعوا ركن هدوء *مع* طفلكم.
 
-**[SLIDE: Next week: The belief behind the behavior]**
+**[SLIDE: Next week: The Belief Behind the Behavior]**
 
-Next week we'll look underneath the behavior: what your child is *really* trying to tell you. It's one of my favorite weeks. See you then 💛
+الأسبوع القادم سننظر إلى ما تحت السلوك: ما الذي يحاول طفلكم قوله *فعلًا*. إنه من أسابيعي المفضّلة. أراكم 💛
 
-**[SLIDE (small print): Educational content only, not therapy or medical advice. If you're struggling with ongoing anger, anxiety or depression, please reach out to a licensed professional. You deserve support too.]**
+**[SLIDE (خط صغير): محتوى تثقيفي فقط، وليس علاجًا نفسيًا أو استشارة طبية. إذا كنتم تعانون من غضب أو قلق أو اكتئاب مستمر، يُرجى التواصل مع مختص مرخّص. أنتم أيضًا تستحقّون الدعم.]**

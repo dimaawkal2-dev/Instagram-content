@@ -18,6 +18,14 @@ The owner is a **Certified Positive Discipline Parent Educator**. All content fo
 - Never recommend spanking, shaming, threats, bribes, or punitive time-outs. Credit quotes accurately, and don't suggest endorsement by the Positive Discipline Association or Jane Nelsen.
 - The course is **No Perfect Parents**: 8 weeks, for parents of kids aged 1–12, $297 or 3 × $109.
 
+
+## Language
+- Write all content **in Arabic** (simple Modern Standard Arabic, warm and friendly), unless the user asks for another language or dialect.
+- **Keep titles and named tools in English**: the course name (No Perfect Parents), week titles (e.g. Kind and Firm, Connection Before Correction), and Positive Discipline tool names (e.g. 3 Rs of Recovery, Positive Time-Out, Special Time, Mistaken Goals). An Arabic explanation can follow in parentheses.
+- Address parents in the **plural (أنتم)** so the text doesn't assume anyone's gender.
+- Hashtags: mix Arabic (e.g. #التربية_الإيجابية) and English (e.g. #positivediscipline).
+- Existing Arabic drafts in this repo show the style.
+
 ## Every idea includes
 - **Title**
 - **Pillar:** The belief behind the behavior / Positive Discipline tools / Kind to yourself too / Course and credentials

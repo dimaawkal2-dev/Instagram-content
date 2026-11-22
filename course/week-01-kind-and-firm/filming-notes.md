@@ -1,81 +1,81 @@
-# Week 1 Filming Notes: Kind and Firm (DRAFT)
+# Week 1 Filming Notes: Kind and Firm (مسودّة)
 
-Short bullet points to read while filming. Prop your phone up beside the camera or use a teleprompter app. Say each point in your own words, and film one bullet group per take if that's easier.
-
----
-
-## 🎬 Video 1.1: Welcome (~5 min)
-- Hi, welcome, so glad you're here
-- **You're not a bad parent.** You care, or you wouldn't be here.
-- Why it's called **No Perfect Parents**: I still mess up too
-- Mistakes = chances to learn (a whole week on this later)
-- How it works: videos, worksheet, cheat sheet, one challenge
-- You don't have to do it all perfectly 😉
-- This week: **kind AND firm**. Grab a tea, let's go.
+نقاط قصيرة للقراءة أثناء التصوير. ضعوا الهاتف بجانب الكاميرا أو استخدموا تطبيق Teleprompter. قولوا كل نقطة بكلماتكم، ويمكنكم تصوير كل مجموعة نقاط في لقطة منفصلة.
 
 ---
 
-## 🎬 Video 1.2: Why punishment and permissiveness backfire (~9 min)
-- Most of us parent how we were raised, or the opposite
-- Two places we land: **too firm** or **too kind**
-
-**Too firm**
-- Yelling, threats, taking things away, punitive time-outs
-- It *works* in the moment. That's why we do it.
-- Long term: **the 4 Rs** (Jane Nelsen)
-  - Resentment
-  - Revenge
-  - Rebellion
-  - Retreat: sneaky, or "I'm bad"
-- Example: age 3, hits brother → room. Learns "Mom's mad," not "use words."
-- Example: age 10, bad grade → no phone. Learns to hide the test.
-
-**Too kind**
-- Giving in, rescuing, repeating, no limits
-- Comes from love
-- But kids may learn: "Love = my way," "Others fix my problems"
-
-**Wrap-up:** neither one teaches the skills we want. There's a third way.
+## 🎬 Video 1.1: Welcome (~5 دقائق)
+- مرحبًا، أهلًا بكم، يسعدني وجودكم
+- **لستم أهلًا سيّئين.** أنتم تهتمّون، وإلا لما كنتم هنا.
+- لماذا اسمه **No Perfect Parents**: أنا أيضًا ما زلت أخطئ
+- الأخطاء = فرص للتعلّم (أسبوع كامل عنها لاحقًا)
+- كيف يعمل البرنامج: فيديوهات، ورقة عمل، ورقة ملخّص، تحدٍّ واحد
+- لستم مضطرين لفعل كل شيء بشكل مثالي 😉
+- هذا الأسبوع: **Kind AND Firm**. حضّروا الشاي، ولنبدأ.
 
 ---
 
-## 🎬 Video 1.3: Kind AND firm (~9 min)
-- The heart of Positive Discipline: **kind AND firm, at the same time**
-- Kind = respect for my child
-- Firm = respect for me and the situation
-- **Trick: "and," not "but"**
-  - "Sad, *but* leaving" erases the first half
-  - "Sad, *and* leaving" holds both
-- Little kid phrases: cookie / hitting / leaving the park (read from the slide)
-- Big kid phrases: screens / "I love you, and no" / homework
-- Notice what's missing: threats, lectures, shame, giving in
-- **Decide what YOU will do**
-  - You can't *make* them eat, sleep or stop whining
-  - "I'll read to kids in pajamas" / "I'll drive when seatbelts are on"
-- **Follow through:** kindly, calmly, no speech
-- The firmness is in what you *do*, not how loud you are
+## 🎬 Video 1.2: Why Punishment and Permissiveness Backfire (~9 دقائق)
+- معظمنا يربّي كما تربّى، أو العكس
+- مكانان ننتهي فيهما: **حزم زائد** أو **لطف زائد**
+
+**حزم زائد**
+- صراخ، تهديد، حرمان، عزل كعقاب
+- *ينجح* في اللحظة، ولهذا نستخدمه
+- على المدى البعيد: **4 Rs** (Jane Nelsen)
+  - Resentment (الاستياء)
+  - Revenge (الانتقام)
+  - Rebellion (التمرّد)
+  - Retreat (الانسحاب): التخفّي، أو "أنا سيّئ"
+- مثال: عمر 3، تضرب أخاها ← الغرفة. تتعلّم "ماما غاضبة"، لا "أستخدم الكلمات".
+- مثال: عمر 10، علامة سيّئة ← بلا هاتف. يتعلّم إخفاء الامتحان.
+
+**لطف زائد**
+- استسلام، إنقاذ، تكرار، لا حدود
+- نابع من الحب
+- لكن قد يتعلّم الطفل: "الحب = ما أريده"، "الآخرون يحلّون مشكلاتي"
+
+**الخلاصة:** لا أحد منهما يعلّم المهارات التي نريدها. هناك طريق ثالث.
 
 ---
 
-## 🎬 Video 1.4: Thinking long-term (~7 min)
-- Picture your child at **25**. What qualities do you hope for?
-- Now: what challenges do you face today? (on the worksheet)
-- **The challenges ARE the chances to teach the skills**
-  - Meltdown → practice calming down
-  - Sibling fight → practice problem-solving
-- Punishment stops it. Positive Discipline builds the skill.
-- **5-question compass** (read from the slide)
-  - It's a compass, not a test
-- **Challenge:** one kind-and-firm sentence a day
-- Forgot? Came out wrong? Totally fine. No perfect parents.
-- Next week: **your calm comes first**
-- Download the worksheet and cheat sheet. See you next week 💛
+## 🎬 Video 1.3: Kind AND Firm (~9 دقائق)
+- قلب Positive Discipline: **Kind AND Firm، في الوقت نفسه**
+- اللطف = احترام طفلي
+- الحزم = احترام نفسي واحترام الموقف
+- **الحيلة: "و" وليس "لكن"**
+  - "حزين، *لكن* سنغادر" تمحو النصف الأول
+  - "حزين، *و*سنغادر" تحتفظ بالاثنين
+- عبارات للصغار: البسكويت / الضرب / مغادرة الحديقة (اقرؤوها من الشريحة)
+- عبارات للكبار: الشاشات / "أحبك، والجواب لا" / الواجب
+- لاحظوا ما غاب: التهديد، المحاضرات، الإذلال، الاستسلام
+- **Decide What YOU Will Do**
+  - لا يمكنكم *إجبارهم* على الأكل أو النوم أو التوقّف عن التذمّر
+  - "أقرأ للأطفال الذين لبسوا البيجاما" / "أقود عندما تُربط الأحزمة"
+- **تابعوا التنفيذ:** بلطف، بهدوء، بلا خطاب
+- الحزم في ما *تفعلونه*، لا في ارتفاع الصوت
 
 ---
 
-### Quick filming checklist
-- [ ] Phone sideways, at eye level
-- [ ] Facing a window for light
-- [ ] Quiet room, notifications off
-- [ ] Glass of water nearby
-- [ ] Record a 10-second test and check the sound first
+## 🎬 Video 1.4: Thinking Long-Term (~7 دقائق)
+- تخيّلوا طفلكم في عمر **25**. ما الصفات التي تتمنّونها؟
+- الآن: ما التحديات التي تواجهونها اليوم؟ (في ورقة العمل)
+- **التحديات هي الفرص لتعليم المهارات**
+  - نوبة غضب ← تمرين على التهدئة
+  - شجار إخوة ← تمرين على حلّ المشكلات
+- العقاب يوقف السلوك. Positive Discipline تبني المهارة.
+- **بوصلة الأسئلة الخمسة** (اقرؤوها من الشريحة)
+  - إنها بوصلة، لا امتحان
+- **التحدّي:** جملة لطيفة وحازمة واحدة يوميًا
+- نسيتم؟ خرجت بشكل خاطئ؟ لا بأس أبدًا. No perfect parents.
+- الأسبوع القادم: **Your Calm Comes First**
+- حمّلوا ورقة العمل وورقة الملخّص. أراكم الأسبوع القادم 💛
+
+---
+
+### قائمة التصوير السريعة
+- [ ] الهاتف أفقي، بمستوى العين
+- [ ] الوجه باتجاه النافذة للإضاءة
+- [ ] غرفة هادئة، والإشعارات مطفأة
+- [ ] كوب ماء قريب
+- [ ] صوّروا 10 ثوانٍ للتجربة وافحصوا الصوت أولًا

@@ -1,105 +1,105 @@
 # Week 1 Worksheet: Kind and Firm
-### No Perfect Parents (DRAFT)
+### No Perfect Parents (مسودّة)
 
-*There are no wrong answers here, and no one will grade this. It's just for you.*
+*لا توجد إجابات خاطئة هنا، ولن يقيّمها أحد. إنها لكم فقط.*
 
 ---
 
-## Part 1: Where do I usually land?
+## Part 1: أين أقف عادةً؟
 
-When things get hard, I tend to lean toward… *(circle where you are most days)*
+عندما تصعب الأمور، أميل إلى… *(ضعوا دائرة حول مكانكم في معظم الأيام)*
 
 ```
-Too firm  ●───────●───────●───────●───────●  Too kind
-(punitive)                                  (permissive)
+حزم زائد  ●───────●───────●───────●───────●  لطف زائد
+(عقاب)                                       (تساهل)
 ```
 
-**How was I parented?** Was it more firm, more kind, or a mix?
+**كيف تربّيت أنا؟** هل كانت التربية أكثر حزمًا، أم أكثر لطفًا، أم مزيجًا؟
 
 ____________________________________________________________
 
-**One thing I want to keep from how I was raised:**
+**أمر واحد أريد الاحتفاظ به من طريقة تربيتي:**
 
 ____________________________________________________________
 
-**One thing I want to do differently:**
+**أمر واحد أريد أن أفعله بشكل مختلف:**
 
 ____________________________________________________________
 
 ---
 
-## Part 2: Challenges today → Life skills later
+## Part 2: Challenges Today → Life Skills Later
 
-| Challenges I face with my child right now | Life skills and qualities I hope they'll have at 25 |
+| التحديات التي أواجهها مع طفلي الآن | المهارات والصفات التي أتمنّاها له في عمر 25 |
 |---|---|
-| e.g. Won't listen when I ask them to stop playing | e.g. Can manage their time, cooperates with others |
+| مثلًا: لا يستمع عندما أطلب منه التوقّف عن اللعب | مثلًا: يُحسن إدارة وقته، ويتعاون مع الآخرين |
 | | |
 | | |
 | | |
 | | |
 
-**Pick one challenge.** Which life skill could I help my child build through it?
+**اختاروا تحدّيًا واحدًا.** ما المهارة الحياتية التي يمكنني مساعدة طفلي على بنائها من خلاله؟
 
-Challenge: ______________________ → Life skill: ______________________
+التحدّي: ______________________ ← المهارة الحياتية: ______________________
 
 ---
 
-## Part 3: Rewrite it kind AND firm
+## Part 3: أعيدوا صياغتها Kind AND Firm
 
-Think of something you often say in a hard moment. Rewrite it so it's kind *and* firm. Remember: "and," not "but."
+فكّروا في جملة تقولونها كثيرًا في لحظة صعبة. أعيدوا صياغتها لتكون لطيفة *و*حازمة. تذكّروا: "و" وليس "لكن".
 
-| What I usually say | Kind AND firm version |
+| ما أقوله عادةً | النسخة اللطيفة والحازمة |
 |---|---|
-| *e.g. "Stop crying, we're leaving NOW!"* | *e.g. "You're sad to leave, and it's time to go. Want to carry the keys?"* |
+| *مثلًا: "توقّف عن البكاء، سنغادر الآن!"* | *مثلًا: "أنت حزين لأننا سنغادر، وحان وقت الذهاب. تريد أن تحمل المفاتيح؟"* |
 | | |
 | | |
 
 ---
 
-## Part 4: Decide what I will do
+## Part 4: Decide What I Will Do
 
-A situation I can't control (eating, sleeping, getting dressed, whining):
+موقف لا أستطيع التحكّم به (الأكل، النوم، اللبس، التذمّر):
 
 ____________________________________________________________
 
-What *I* will do instead of trying to force it:
-"I will ________________________________________________________."
+ما سأفعله *أنا* بدل محاولة الإجبار:
+"سوف ________________________________________________________."
 
-How I'll follow through, kindly and without a speech:
+كيف سأتابع التنفيذ، بلطف ودون خطاب:
 
 ____________________________________________________________
 
 ---
 
-## Part 5: Check it against the 5 criteria
+## Part 5: افحصوها بالمعايير الخمسة
 
-Think of something you tried this week. Did it…
+فكّروا في شيء جرّبتموه هذا الأسبوع. هل…
 
-- [ ] Help my child feel they **belong and matter**?
-- [ ] Feel **mutually respectful** (kind and firm)?
-- [ ] Work **long-term**, not just in the moment?
-- [ ] Teach a **social or life skill**?
-- [ ] Help my child feel **capable**?
+- [ ] ساعد طفلي على الشعور بأنه **ينتمي ومهم**؟
+- [ ] كان **محترمًا للطرفين** (لطيفًا وحازمًا)؟
+- [ ] فعّالًا **على المدى البعيد**، وليس في اللحظة فقط؟
+- [ ] علّم **مهارة اجتماعية أو حياتية**؟
+- [ ] ساعد طفلي على الشعور بأنه **قادر**؟
 
 ---
 
-## Practice log: one kind-and-firm sentence a day
+## سجلّ الممارسة: جملة لطيفة وحازمة واحدة يوميًا
 
-| Day | What I said | What happened (my child and me) |
+| اليوم | ماذا قلت | ماذا حدث (طفلي وأنا) |
 |---|---|---|
-| Mon | | |
-| Tue | | |
-| Wed | | |
-| Thu | | |
-| Fri | | |
-| Sat | | |
-| Sun | | |
+| الإثنين | | |
+| الثلاثاء | | |
+| الأربعاء | | |
+| الخميس | | |
+| الجمعة | | |
+| السبت | | |
+| الأحد | | |
 
-**One thing I noticed this week:**
+**أمر واحد لاحظته هذا الأسبوع:**
 
 ____________________________________________________________
 
-💛 *Missed a day? Said "but"? Yelled? You're still doing it. No perfect parents.*
+💛 *فاتكم يوم؟ قلتم "لكن"؟ صرختم؟ ما زلتم تحاولون، وهذا ما يهم. No perfect parents.*
 
 ---
-<sub>No Perfect Parents is an educational program, not therapy, diagnosis or medical advice. Concepts adapted from Positive Discipline by Jane Nelsen.</sub>
+<sub>No Perfect Parents برنامج تثقيفي، وليس علاجًا أو تشخيصًا أو استشارة طبية. المفاهيم مقتبسة من Positive Discipline لـJane Nelsen.</sub>

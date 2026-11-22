@@ -1,120 +1,120 @@
 # Week 4: Connection Before Correction
-## Video lesson script (DRAFT)
+## نص الفيديو (مسودّة)
 
-**Total length:** ~30 minutes, 4 videos
-**Goal for the week:** parents learn to connect before correcting, validate feelings, schedule special time, and replace praise with encouragement.
+**المدة الإجمالية:** حوالي 30 دقيقة، 4 فيديوهات
+**هدف الأسبوع:** أن يتعلّم الأهل التواصل قبل التصحيح، والاعتراف بالمشاعر، وتخصيص Special Time، واستبدال المديح بالتشجيع.
 
-> **[SLIDE]** = on screen. *Italics* = stage directions. Say it in your own words.
+> **[SLIDE]** = على الشاشة. *الخط المائل* = توجيهات. قولوه بكلماتكم.
 
 ---
 
-## Video 4.1: Why connection comes first (~6 min)
+## Video 4.1: Why Connection Comes First (~6 دقائق)
 
 **[SLIDE: Week 4 · Connection Before Correction]**
 
-Welcome back, detective! How did it go noticing your feelings and guessing the belief behind the behavior? Did anything surprise you?
+أهلًا بعودتكم أيها المحقّقون! كيف كانت ملاحظة مشاعركم وتخمين الاعتقاد خلف السلوك؟ هل فاجأكم شيء؟
 
-Here's what's interesting: whichever mistaken goal you spotted, the remedy usually starts in the same place, which is **connection.**
+والمثير للاهتمام: أيًّا كان الهدف الخاطئ الذي لاحظتموه، فالعلاج غالبًا يبدأ من المكان نفسه، وهو **التواصل.**
 
 **[SLIDE: Children do better when they feel better]**
 
-Positive Discipline has a simple idea: **children do better when they feel better.** When kids feel connected, they're far more likely to cooperate and listen.
+لدى Positive Discipline فكرة بسيطة: **الأطفال يتصرّفون بشكل أفضل عندما يشعرون بشكل أفضل.** عندما يشعر الأطفال بالقرب، يصبحون أكثر استعدادًا بكثير للتعاون والاستماع.
 
-**[SLIDE: Connection before correction]**
+**[SLIDE: Connection Before Correction]**
 
-That's why we connect *before* we correct. It doesn't replace correction. It comes first.
+لهذا نتواصل *قبل* أن نصحّح. التواصل لا يحلّ محلّ التصحيح، بل يأتي قبله.
 
-**Little kid example:** Your 3-year-old is throwing blocks. Instead of shouting from across the room, you go over, kneel down, and say: "Wow, you have so much energy! Blocks are for building. Let's throw these soft balls into the basket instead."
+**مثال لطفل صغير:** طفلكم ذو الثلاث سنوات يرمي المكعّبات. بدل الصراخ من الطرف الآخر للغرفة، تقتربون، تجلسون على ركبتيكم، وتقولون: "واو، عندك طاقة كبيرة! المكعّبات للبناء. لنرمِ هذه الكرات الطرية في السلة بدلًا منها."
 
-**Older kid example:** Your 12-year-old comes home and snaps at you. Instead of "Don't talk to me like that!", you try: "Sounds like a rough day. Want to tell me about it, or do you need some space first?" (You can talk about respectful words later, once things are calm.)
+**مثال لطفل أكبر:** طفلكم ذو الاثنتي عشرة سنة يعود إلى البيت ويردّ عليكم بحدّة. بدل "لا تكلّمني بهذه الطريقة!"، جرّبوا: "يبدو أن يومك كان صعبًا. تريد أن تخبرني عنه، أم تحتاج بعض الوقت أولًا؟" (يمكنكم التحدّث عن الكلام المحترم لاحقًا، عندما يهدأ الجوّ.)
 
 ---
 
-## Video 4.2: Validate feelings (~8 min)
+## Video 4.2: Validate Feelings (~8 دقائق)
 
 **[SLIDE: All feelings are okay. Not all behavior is.]**
 
-One of the fastest ways to connect is to **validate feelings.**
+من أسرع طرق التواصل **الاعتراف بالمشاعر.**
 
-Validating doesn't mean agreeing or giving in. It means letting your child know their feelings make sense.
+الاعتراف لا يعني الموافقة أو الاستسلام. يعني أن تُفهموا طفلكم أن مشاعره مفهومة.
 
 **[SLIDE: Instead of → Try]**
 
-| Instead of… | Try… |
+| بدل… | جرّبوا… |
 |---|---|
-| "You're fine." | "That really hurt." |
-| "Stop crying, it's just a toy." | "You're so sad it broke. You loved that toy." |
-| "Don't be so dramatic." | "This feels really big right now." |
-| "There's nothing to be scared of." | "That felt scary. I'm right here." |
+| "أنت بخير." | "هذا آلمك فعلًا." |
+| "توقّف عن البكاء، إنها مجرّد لعبة." | "أنت حزين جدًا لأنها انكسرت. كنت تحبّ هذه اللعبة." |
+| "لا تبالغ." | "هذا يبدو كبيرًا جدًا الآن." |
+| "لا يوجد شيء مخيف." | "كان ذلك مخيفًا. أنا هنا بجانبك." |
 
 **[SLIDE: Name it to tame it]**
 
-Psychiatrist Dr. Dan Siegel calls this "name it to tame it." When we put words to a feeling, it often helps calm the emotional brain.
+يسمّي الطبيب النفسي Dr. Dan Siegel ذلك "Name it to tame it" (سمِّه لتهدّئه). عندما نضع كلمات للشعور، غالبًا ما يساعد ذلك على تهدئة الدماغ العاطفي.
 
 **[SLIDE: Validate AND hold the limit]**
 
-And remember kind *and* firm. You can validate and still hold the limit:
-- "You're so angry your brother took your car. And I won't let you hit him."
-- "You really wish you could stay up. And it's bedtime."
+وتذكّروا Kind AND Firm. يمكنكم الاعتراف بالشعور مع الحفاظ على الحدّ:
+- "أنت غاضب جدًا لأن أخاك أخذ سيارتك. ولن أسمح لك بضربه."
+- "تتمنّى لو تسهر أكثر. وحان وقت النوم."
 
 **[SLIDE: Sometimes just listen]**
 
-Especially with older kids, sometimes the best connection is just **listening**, without fixing, lecturing or "When I was your age…" Try: "Mm. Tell me more."
+خاصة مع الأطفال الأكبر، أحيانًا يكون أفضل تواصل هو **الاستماع فقط**، دون إصلاح أو محاضرة أو "عندما كنت في عمرك…". جرّبوا: "ممم. أخبرني أكثر."
 
 ---
 
-## Video 4.3: Special time + encouragement (~10 min)
+## Video 4.3: Special Time + Encouragement (~10 دقائق)
 
-**[SLIDE: Special time]**
+**[SLIDE: Special Time]**
 
-The next tool is my favorite: **special time.** It's regular, scheduled one-on-one time with each child, doing something they choose.
+الأداة التالية هي المفضّلة عندي: **Special Time.** وقت منتظم ومخصّص، فردي مع كل طفل، يفعل فيه شيئًا يختاره هو.
 
-- **Little kids:** about 10 minutes a day.
-- **Older kids:** about 30 minutes a week, or more often if you can.
-- **Give it a name** ("Mommy-and-Maya time") and put it on the calendar.
-- **Phone away.** Your full attention is the gift.
-- **Your child picks the activity** (within reason).
+- **الأطفال الصغار:** حوالي 10 دقائق يوميًا.
+- **الأطفال الأكبر:** حوالي 30 دقيقة أسبوعيًا، أو أكثر إن استطعتم.
+- **أعطوه اسمًا** ("وقت ماما ومايا") وضعوه على التقويم.
+- **الهاتف بعيدًا.** انتباهكم الكامل هو الهدية.
+- **طفلكم يختار النشاط** (ضمن المعقول).
 
-**[SLIDE: Why special time works]**
+**[SLIDE: Why Special Time works]**
 
-Special time fills the "belonging" tank before it runs empty. Kids who know they'll get your full attention later often need to seek it less in mistaken ways. It also gives you something kind to say in the moment: "I can't play right now, *and* I'm looking forward to our special time at 4!"
+يملأ Special Time "خزّان الانتماء" قبل أن يفرغ. الأطفال الذين يعرفون أنهم سيحصلون على انتباهكم الكامل لاحقًا يحتاجون غالبًا إلى طلبه بطرق خاطئة بشكل أقل. ويعطيكم أيضًا شيئًا لطيفًا تقولونه في اللحظة: "لا أستطيع اللعب الآن، *و*أنا متشوّق/ة لوقتنا الخاص الساعة 4!"
 
-**[SLIDE: Praise vs. encouragement]**
+**[SLIDE: Praise vs. Encouragement]**
 
-Now let's talk about encouragement. You might be surprised: **Positive Discipline suggests using less praise.**
+لنتحدّث الآن عن التشجيع. قد تتفاجؤون: **Positive Discipline تقترح التقليل من المديح.**
 
-- **Praise** focuses on the result and on *your* approval: "Good job!", "I'm so proud of you!", "Good girl!"
-- **Encouragement** focuses on effort, improvement and how *they* feel: "You worked so hard on that!", "You must be proud of yourself."
+- **المديح** يركّز على النتيجة وعلى رضاكم *أنتم*: "شاطر!"، "أنا فخور/ة بك!"، "ولد مطيع!"
+- **التشجيع** يركّز على الجهد والتحسّن وعلى شعور *الطفل*: "تعبت كثيرًا على هذا!"، "لا بدّ أنك فخور بنفسك."
 
-Praise can teach kids to depend on outside approval. Encouragement helps them build confidence that comes from inside.
+المديح قد يعلّم الأطفال الاعتماد على رضا الآخرين. التشجيع يساعدهم على بناء ثقة تأتي من الداخل.
 
 **[SLIDE: Encouraging phrases]**
-- "You worked hard on that."
-- "You figured it out!"
-- "How do *you* feel about it?"
-- "Thank you for helping. That made a big difference."
-- "I have faith in you."
-- "Look how much you've improved!"
+- "تعبت كثيرًا على هذا."
+- "وجدت الحلّ بنفسك!"
+- "ما رأيك *أنت* فيه؟"
+- "شكرًا لمساعدتك. لقد فرقت كثيرًا."
+- "أنا أثق بك."
+- "انظر كم تحسّنت!"
 
-*(You don't have to ban "Good job!" forever. Just try to sprinkle in more encouragement.)*
+*(لستم مضطرين لمنع كلمة "شاطر!" إلى الأبد. فقط أضيفوا المزيد من التشجيع.)*
 
 ---
 
-## Video 4.4: Your challenge (~6 min)
+## Video 4.4: Your Challenge (~6 دقائق)
 
 **[SLIDE: Connection doesn't take long]**
 
-Connection doesn't have to take hours. A hug, eye contact, a "tell me more," a 10-minute special time. Small things, done often, build a strong connection.
+التواصل لا يحتاج ساعات. عناق، نظرة في العين، "أخبرني أكثر"، عشر دقائق من Special Time. أشياء صغيرة، تتكرّر كثيرًا، تبني علاقة قوية.
 
 **[SLIDE: This week's challenge 🎯]**
 
-### Your practice challenge
-1. **Schedule special time** with each child this week, and put it on the calendar.
-2. **Validate one feeling a day** before you correct anything.
-3. **Swap one "Good job!"** for an encouraging phrase each day.
+### تحدّي الأسبوع
+1. **خصّصوا Special Time** مع كل طفل هذا الأسبوع، وضعوه على التقويم.
+2. **اعترفوا بشعور واحد يوميًا** قبل أن تصحّحوا أي شيء.
+3. **استبدلوا "شاطر!" واحدة** بعبارة تشجيع كل يوم.
 
-**[SLIDE: Next week: Focus on solutions]**
+**[SLIDE: Next week: Focus on Solutions]**
 
-Next week we'll talk about what to do *instead* of punishment: focusing on solutions. See you then 💛
+الأسبوع القادم سنتحدّث عمّا نفعله *بدل* العقاب: التركيز على الحلول. أراكم 💛
 
-**[SLIDE (small print): Educational content only, not therapy or medical advice.]**
+**[SLIDE (خط صغير): محتوى تثقيفي فقط، وليس علاجًا نفسيًا أو استشارة طبية.]**

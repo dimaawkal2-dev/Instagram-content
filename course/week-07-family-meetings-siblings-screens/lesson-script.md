@@ -1,120 +1,120 @@
 # Week 7: Family Meetings, Siblings & Screens
-## Video lesson script (DRAFT)
+## نص الفيديو (مسودّة)
 
-**Total length:** ~33 minutes, 4 videos
-**Goal for the week:** parents learn to run simple family meetings, step out of the referee role in sibling conflict, and create screen-time agreements with their kids.
+**المدة الإجمالية:** حوالي 33 دقيقة، 4 فيديوهات
+**هدف الأسبوع:** أن يتعلّم الأهل إدارة اجتماعات عائلية بسيطة، والخروج من دور الحَكَم في خلافات الإخوة، وصنع اتفاقيات للشاشات مع أطفالهم.
 
-> **[SLIDE]** = on screen. *Italics* = stage directions. Say it in your own words.
+> **[SLIDE]** = على الشاشة. *الخط المائل* = توجيهات. قولوه بكلماتكم.
 
 ---
 
-## Video 7.1: Family meetings (~11 min)
+## Video 7.1: Family Meetings (~11 دقيقة)
 
 **[SLIDE: Week 7 · Family Meetings, Siblings & Screens]**
 
-Welcome back! Did your routine chart make a difference? I'd love to hear how it went.
+أهلًا بعودتكم! هل أحدث جدول الروتين فرقًا؟ يسعدني أن أسمع كيف سار الأمر.
 
-This week brings together everything we've learned: connection, solutions and involving kids. And it starts with one of Positive Discipline's most powerful tools: **the family meeting.**
+هذا الأسبوع يجمع كل ما تعلّمناه: التواصل، والحلول، وإشراك الأطفال. ونبدأ بواحدة من أقوى أدوات Positive Discipline: **الاجتماع العائلي (Family Meeting).**
 
 **[SLIDE: Why family meetings?]**
 
-A family meeting is a short, regular time where the whole family:
-- Appreciates each other
-- Solves problems together
-- Makes plans
-- Has fun
+الاجتماع العائلي وقت قصير ومنتظم تقوم فيه العائلة كلها بـ:
+- تقدير بعضها البعض
+- حلّ المشكلات معًا
+- وضع الخطط
+- الاستمتاع
 
-Kids learn listening, problem-solving, respect and cooperation, all by practicing them.
+يتعلّم الأطفال الاستماع وحلّ المشكلات والاحترام والتعاون، كلها من خلال الممارسة.
 
-**[SLIDE: A simple family meeting (15–20 min)]**
-1. **Compliments/appreciations:** everyone says something they appreciate about someone else. "I appreciate that Leo shared his Legos."
-2. **Review last week's solutions:** "How did our plan for the TV work?"
-3. **Agenda item:** one problem from the agenda (more on that below).
-4. **Brainstorm solutions:** every idea gets written down, no judging.
-5. **Choose one solution** that works for everyone, and try it for a week.
-6. **Plan something fun:** a family activity, or end with a game or dessert.
+**[SLIDE: A Simple Family Meeting (15–20 min)]**
+1. **كلمات التقدير:** كل شخص يقول شيئًا يقدّره في شخص آخر. "أقدّر أن ليو شاركني الليغو."
+2. **مراجعة حلول الأسبوع الماضي:** "كيف نجحت خطتنا بخصوص التلفاز؟"
+3. **بند من جدول الأعمال:** مشكلة واحدة من الجدول (المزيد أدناه).
+4. **عصف ذهني للحلول:** كل فكرة تُكتب، بلا أحكام.
+5. **اختيار حلّ واحد** يناسب الجميع، وتجربته لمدة أسبوع.
+6. **التخطيط لشيء ممتع:** نشاط عائلي، أو الختام بلعبة أو حلوى.
 
-**[SLIDE: The agenda]**
+**[SLIDE: The Agenda]**
 
-Keep a sheet of paper on the fridge. When a problem comes up during the week, anyone can write it down, or ask a grown-up to write it. "Let's put it on the agenda" is also a great way to calm things down in the moment.
+ضعوا ورقة على البرّاد. عندما تظهر مشكلة خلال الأسبوع، يمكن لأي شخص أن يكتبها، أو يطلب من شخص كبير أن يكتبها. وعبارة "لنضعها على جدول الأعمال" طريقة رائعة لتهدئة الأمور في اللحظة.
 
-**[SLIDE: Tips for success]**
-- **Keep it short,** about 15 minutes for younger kids.
-- **Same time every week,** like Sunday after dinner.
-- **Rotate jobs:** leader, note-taker and timekeeper. Even 5-year-olds can do some.
-- **Little ones (under 4)** can join for compliments and the fun part.
-- **It's not a lecture.** If it turns into parents complaining, kids will check out.
+**[SLIDE: Tips for Success]**
+- **اجعلوه قصيرًا،** حوالي 15 دقيقة مع الأطفال الأصغر.
+- **في الوقت نفسه كل أسبوع،** مثل الأحد بعد العشاء.
+- **تبادلوا الأدوار:** القائد، كاتب الملاحظات، ضابط الوقت. حتى أطفال الخامسة يستطيعون القيام ببعضها.
+- **الصغار (تحت 4 سنوات)** يمكنهم المشاركة في كلمات التقدير والجزء الممتع.
+- **ليس محاضرة.** إذا تحوّل إلى شكاوى من الأهل، سينسحب الأطفال.
 
 ---
 
-## Video 7.2: Siblings (~9 min)
+## Video 7.2: Siblings (~9 دقائق)
 
 **[SLIDE: Stop being the referee]**
 
-Sibling fights! If you have more than one child, you've probably spent a lot of time playing judge: "Who started it?"
+شجار الإخوة! إذا كان لديكم أكثر من طفل، فقد قضيتم على الأرجح وقتًا طويلًا في دور القاضي: "من بدأ؟"
 
-Here's the problem: when we take sides, we often reinforce the mistaken goals. One child learns "I get attention as the victim," and the other learns "I'm the bad one."
+المشكلة: عندما ننحاز لطرف، نعزّز غالبًا الأهداف الخاطئة. طفل يتعلّم "أحصل على الانتباه عندما أكون الضحية"، والآخر يتعلّم "أنا السيّئ".
 
 **[SLIDE: Treat them the same: "put them in the same boat"]**
 
-Positive Discipline suggests treating children the same in a conflict. Jane Nelsen calls it "putting them in the same boat." No investigating, no blaming:
-- "Looks like you two are having a hard time. What can you figure out together?"
-- "You can both take a break, and then try again."
-- "I trust you two to find a solution."
+تقترح Positive Discipline معاملة الأطفال بالمثل في الخلاف. تسمّيه Jane Nelsen "Putting Them in the Same Boat" (وضعهم في القارب نفسه). لا تحقيق ولا لوم:
+- "يبدو أنكما تمرّان بوقت صعب. ماذا يمكنكما أن تتّفقا عليه معًا؟"
+- "يمكنكما أن تأخذا استراحة، ثم تحاولا من جديد."
+- "أثق أنكما ستجدان حلًا."
 
 **[SLIDE: Show faith, and stay close when needed]**
 
-Show faith that they can solve it. That doesn't mean walking away from danger:
-- **If anyone is getting hurt,** step in calmly and separate them kindly: "I won't let anyone get hurt. Let's take a break and calm down."
-- **With little ones,** coach them: "Sam, tell Mia: 'I'm still using it.' Mia, what could you play with while you wait?"
-- **Once everyone is calm,** use curiosity questions or put it on the family meeting agenda.
+أظهروا ثقتكم بقدرتهم على الحل. وهذا لا يعني الابتعاد عن الخطر:
+- **إذا كان أحد يتأذّى،** تدخّلوا بهدوء وافصلوا بينهما بلطف: "لن أسمح لأحد بأن يتأذّى. لنأخذ استراحة ونهدأ."
+- **مع الصغار،** درّبوهم: "سامي، قل لميا: ما زلت ألعب بها. ميا، بماذا يمكنك أن تلعبي وأنت تنتظرين؟"
+- **عندما يهدأ الجميع،** استخدموا أسئلة الفضول أو ضعوا الأمر على جدول أعمال الاجتماع العائلي.
 
 **[SLIDE: Fewer fights start with connection]**
 
-Special time with each child, from Week 4, helps a lot here. Siblings often fight over our attention. One-on-one time fills each child's tank separately.
+Special Time مع كل طفل، من الأسبوع الرابع، يساعد كثيرًا هنا. الإخوة غالبًا يتشاجرون على انتباهنا. الوقت الفردي يملأ خزّان كل طفل على حدة.
 
 ---
 
-## Video 7.3: Screens (~8 min)
+## Video 7.3: Screens (~8 دقائق)
 
 **[SLIDE: Screens: the modern battle]**
 
-Screens are one of the biggest sources of conflict in families today. You may notice how many Positive Discipline tools apply.
+الشاشات من أكبر مصادر الخلاف في العائلات اليوم. ستلاحظون كم من أدوات Positive Discipline تنطبق هنا.
 
 **[SLIDE: Create a screen agreement together]**
 
-Instead of rules handed down from above, create a **screen agreement** together, perhaps at a family meeting:
-- **When** are screens okay? After homework? Weekends?
-- **How long?** Agree on a limit everyone can live with.
-- **Where?** For example, devices stay out of bedrooms at night.
-- **What happens when time's up?**
-- **Write it down** and have everyone sign it, grown-ups included.
+بدل قواعد مفروضة من الأعلى، اصنعوا **اتفاقية للشاشات** معًا، ربما في اجتماع عائلي:
+- **متى** تُسمح الشاشات؟ بعد الواجبات؟ في عطلة نهاية الأسبوع؟
+- **كم من الوقت؟** اتّفقوا على حدّ يقبله الجميع.
+- **أين؟** مثلًا: لا أجهزة في غرف النوم ليلًا.
+- **ماذا يحدث عندما ينتهي الوقت؟**
+- **اكتبوها** ودعوا الجميع يوقّع عليها، والكبار أيضًا.
 
 **[SLIDE: Transitions are the hard part]**
 
-Turning off screens often flips kids' lids. Help with:
-- **Warnings:** "5 more minutes. Do you want to finish this level or this episode?" *(limited choice)*
-- **Validation:** "It's so hard to stop when it's fun." *(kind)*
-- **Follow-through:** "What was our agreement?" *(firm)*
-- **A routine chart** with a clear "screens off" step
+إطفاء الشاشات كثيرًا ما يطيّر غطاء الأطفال. ساعدوهم بـ:
+- **التنبيه المسبق:** "‏5 دقائق أخرى. تريد أن تُنهي هذه المرحلة أم هذه الحلقة؟" *(خيار محدود)*
+- **الاعتراف بالمشاعر:** "صعب جدًا أن تتوقّف وأنت تستمتع." *(لطف)*
+- **المتابعة:** "ماذا كان اتفاقنا؟" *(حزم)*
+- **جدول روتين** فيه خطوة واضحة: "إطفاء الشاشات"
 
 **[SLIDE: Model it]**
 
-And yes, the hard part: **modeling.** Kids notice our screen habits. Consider grown-up screen-free times too, like at meals or during special time.
+ونعم، الجزء الصعب: **القدوة.** الأطفال يلاحظون عاداتنا مع الشاشات. فكّروا في أوقات بلا شاشات للكبار أيضًا، مثل وقت الطعام أو أثناء Special Time.
 
 ---
 
-## Video 7.4: Your challenge (~5 min)
+## Video 7.4: Your Challenge (~5 دقائق)
 
 **[SLIDE: This week's challenge 🎯]**
 
-### Your practice challenge
-1. **Hold your first family meeting.** Keep it short and end with something fun.
-2. **Next sibling fight:** try "putting them in the same boat" instead of investigating.
-3. **Optional:** put "screen time" on the family meeting agenda and create an agreement together.
+### تحدّي الأسبوع
+1. **اعقدوا أول اجتماع عائلي.** اجعلوه قصيرًا واختموه بشيء ممتع.
+2. **في الشجار القادم بين الإخوة:** جرّبوا "وضعهم في القارب نفسه" بدل التحقيق.
+3. **اختياري:** ضعوا "الشاشات" على جدول أعمال الاجتماع العائلي واصنعوا اتفاقية معًا.
 
-**[SLIDE: Next week: Mistakes are opportunities to learn]**
+**[SLIDE: Next week: Mistakes Are Opportunities to Learn]**
 
-Next week is our final week, and it might be the most important one. See you then 💛
+الأسبوع القادم هو أسبوعنا الأخير، وربما الأهم. أراكم 💛
 
-**[SLIDE (small print): Educational content only, not therapy or medical advice. If sibling conflict involves ongoing aggression or anyone is unsafe, seek support from a licensed professional.]**
+**[SLIDE (خط صغير): محتوى تثقيفي فقط، وليس علاجًا نفسيًا أو استشارة طبية. إذا تضمّن خلاف الإخوة عدوانية مستمرة أو كان أحد غير آمن، اطلبوا الدعم من مختص مرخّص.]**

@@ -1,142 +1,144 @@
-# Week 1 Slides: Kind and Firm (DRAFT)
+# Week 1 Slides: Kind and Firm (مسودّة)
 
-Copy each slide into Canva, Google Slides or PowerPoint. Use **16:9 landscape**, big text and one idea per slide.
-**Suggested style:** cream background `#FFFAF5`, coral headings `#D9694A`, sage accents `#5F8A74`. These match the website.
+انسخوا كل شريحة إلى Canva أو Google Slides أو PowerPoint. استخدموا **‏16:9 أفقي**، وخطًّا كبيرًا، وفكرة واحدة في كل شريحة. اضبطوا اتجاه النص من اليمين إلى اليسار.
+**الأسلوب المقترح:** خلفية كريمية `#FFFAF5`، عناوين مرجانية `#D9694A`، لمسات خضراء `#5F8A74`. هذه ألوان الموقع نفسها. خط عربي مقترح: **Tajawal** أو **Cairo**.
 
 ---
 
 ## Video 1.1: Welcome
 
-**Slide 1**
-- Title: **No Perfect Parents**
-- Subtitle: Week 1 · Kind and Firm
-- Visual: your photo or a warm family illustration
+**الشريحة 1**
+- العنوان: **No Perfect Parents**
+- العنوان الفرعي: Week 1 · Kind and Firm
+- الصورة: صورتكم أو رسم دافئ لعائلة
 
-**Slide 2**
-- Title: **There are no perfect parents.**
-- Small text: (Including me.)
+**الشريحة 2**
+- العنوان: **There are no perfect parents.**
+- نص صغير: لا يوجد أهل مثاليون. (وأنا منهم.)
 
-**Slide 3**
-- Title: **How this course works**
-- 🎥 Short videos
-- 📝 A worksheet
-- 🧲 A fridge cheat sheet
-- 🎯 One small practice challenge
+**الشريحة 3**
+- العنوان: **How This Course Works**
+- 🎥 فيديوهات قصيرة
+- 📝 ورقة عمل
+- 🧲 ورقة ملخّص للبرّاد
+- 🎯 تحدٍّ عملي صغير
 
-**Slide 4**
-- Title: **This week**
-- Big text: Kind AND firm
-
----
-
-## Video 1.2: Why punishment and permissiveness backfire
-
-**Slide 5**
-- Title: **What do we usually do?**
-
-**Slide 6**
-- Visual: a horizontal line
-- Left end: **Too firm** (punitive)
-- Right end: **Too kind** (permissive)
-
-**Slide 7**
-- Title: **Firm, but not kind**
-- Yelling · Threats · Taking things away · Punitive time-outs
-- Small text: Works in the moment… but what about later?
-
-**Slide 8**
-- Title: **The 4 Rs of Punishment**
-- 1. Resentment: "This isn't fair."
-- 2. Revenge: "I'll get even."
-- 3. Rebellion: "I'll do the opposite."
-- 4. Retreat: sneakiness or "I'm bad."
-- Footer: Jane Nelsen, *Positive Discipline*
-
-**Slide 9**
-- Title: **What did they learn?**
-- 👧 Age 3: hits her brother → sent to her room
-- 👦 Age 10: bad grade → loses phone for a week
-
-**Slide 10**
-- Title: **Kind, but not firm**
-- Giving in · Rescuing · Repeating 10 times · No limits
-- Small text: Comes from love, but kids may learn "Love means getting my way."
-
-**Slide 11**
-- Big text: **Neither one teaches the skills we want.**
+**الشريحة 4**
+- العنوان: **This Week**
+- نص كبير: Kind AND Firm
 
 ---
 
-## Video 1.3: Kind AND firm
+## Video 1.2: Why Punishment and Permissiveness Backfire
 
-**Slide 12**
-- Big text: **Kind AND firm**
-- Small text: at the same time
+**الشريحة 5**
+- العنوان: **What Do We Usually Do?**
+- نص: ماذا نفعل عادةً؟
 
-**Slide 13**
-- Two columns:
-  - **Kind** = respect for my child
-  - **Firm** = respect for me and the situation
+**الشريحة 6**
+- الصورة: خط أفقي
+- طرف: **Too Firm** (عقاب)
+- الطرف الآخر: **Too Kind** (تساهل)
 
-**Slide 14**
-- Title: **Swap "but" for "and"**
-- ~~"I know you're sad, **but** we're leaving."~~
-- "I know you're sad, **and** we're leaving." ✓
+**الشريحة 7**
+- العنوان: **Firm, but Not Kind**
+- صراخ · تهديد · حرمان · عزل كعقاب
+- نص صغير: ينجح في اللحظة… لكن ماذا عن لاحقًا؟
 
-**Slide 15**
-- Title: **Little kids (1–5)**
-- "You want another cookie. And cookies are done for today."
-- "You're so mad! And I won't let you hit. You can stomp."
-- "It's hard to leave. And it's time to go. Hop or bear-walk?"
+**الشريحة 8**
+- العنوان: **The 4 Rs of Punishment**
+- 1. Resentment: "هذا ليس عدلًا."
+- 2. Revenge: "سأردّ لهم."
+- 3. Rebellion: "سأفعل العكس."
+- 4. Retreat: التخفّي أو "أنا سيّئ."
+- التذييل: Jane Nelsen, *Positive Discipline*
 
-**Slide 16**
-- Title: **Bigger kids (6–12)**
-- "Screens are off at 7. What's your plan for the last 5 minutes?"
-- "I love you, and the answer is no."
-- "Homework is frustrating. And I trust you. Easy part or hard part first?"
+**الشريحة 9**
+- العنوان: **What Did They Learn?**
+- 👧 عمر 3: تضرب أخاها ← تُرسَل إلى غرفتها
+- 👦 عمر 10: علامة سيّئة ← يُحرَم من الهاتف أسبوعًا
 
-**Slide 17**
-- Title: **Decide what YOU will do**
-- "I'll read stories to kids in pajamas."
-- "I'll drive when seatbelts are on."
-- "I'll listen when you use a calm voice."
+**الشريحة 10**
+- العنوان: **Kind, but Not Firm**
+- استسلام · إنقاذ · تكرار 10 مرات · لا حدود
+- نص صغير: نابع من الحب، لكن قد يتعلّم الطفل أن "الحب يعني أن أحصل على ما أريد."
 
-**Slide 18**
-- Big text: **Then follow through.**
-- Small text: Kindly. Calmly. No lecture.
+**الشريحة 11**
+- نص كبير: **لا أحد منهما يعلّم المهارات التي نريدها.**
 
 ---
 
-## Video 1.4: Thinking long-term
+## Video 1.3: Kind AND Firm
 
-**Slide 19**
-- Big text: **Who do you want your child to be at 25?**
+**الشريحة 12**
+- نص كبير: **Kind AND Firm**
+- نص صغير: في الوقت نفسه
 
-**Slide 20**
-- Two columns:
-  - **Challenges today:** whining · not listening · sibling fights · screens · bedtime
-  - **Life skills later:** kindness · responsibility · confidence · problem-solving · resilience
+**الشريحة 13**
+- عمودان:
+  - **Kind** = احترام طفلي
+  - **Firm** = احترام نفسي واحترام الموقف
 
-**Slide 21**
-- Big text: **The challenges are the chances to teach the skills.**
+**الشريحة 14**
+- العنوان: **Swap "but" for "and"**
+- ~~"أعرف أنك حزين، **لكن** سنغادر."~~
+- "أعرف أنك حزين، **و**حان وقت المغادرة." ✓
 
-**Slide 22**
-- Title: **The 5-question compass**
-- 1. Does it help them feel they **belong**?
-- 2. Is it **kind AND firm**?
-- 3. Does it work **long-term**?
-- 4. Does it teach a **life skill**?
-- 5. Does it help them feel **capable**?
+**الشريحة 15**
+- العنوان: **Little Kids (1–5)**
+- "تريد بسكويتة أخرى. والبسكويت انتهى لليوم."
+- "أنت غاضب جدًا! ولن أسمح لك بالضرب. يمكنك أن تدبك بقدميك."
+- "صعب أن نغادر. وحان وقت الذهاب. نقفز كالأرنب أم نمشي كالدبّ؟"
 
-**Slide 23**
-- Title: **This week's challenge 🎯**
-- One kind-and-firm sentence a day.
-- Small text: Use "and," not "but."
+**الشريحة 16**
+- العنوان: **Bigger Kids (6–12)**
+- "الشاشات تُطفأ الساعة 7. ما خطتك للدقائق الخمس الأخيرة؟"
+- "أحبك، والجواب لا."
+- "الواجب مزعج. وأنا أثق بك. تبدأ بالسهل أم بالصعب؟"
 
-**Slide 24**
-- Title: **Next week**
-- Your calm comes first
+**الشريحة 17**
+- العنوان: **Decide What YOU Will Do**
+- "أقرأ القصص للأطفال الذين لبسوا البيجاما."
+- "أقود عندما تُربط الأحزمة."
+- "أستمع عندما تتكلّم بصوت هادئ."
+
+**الشريحة 18**
+- نص كبير: **ثم تابعوا التنفيذ.**
+- نص صغير: بلطف. بهدوء. بلا محاضرة.
+
+---
+
+## Video 1.4: Thinking Long-Term
+
+**الشريحة 19**
+- نص كبير: **Who Do You Want Your Child to Be at 25?**
+- نص: من تريدون أن يكون طفلكم في عمر 25؟
+
+**الشريحة 20**
+- عمودان:
+  - **Challenges Today:** التذمّر · عدم الاستماع · شجار الإخوة · الشاشات · وقت النوم
+  - **Life Skills Later:** اللطف · المسؤولية · الثقة بالنفس · حلّ المشكلات · المرونة
+
+**الشريحة 21**
+- نص كبير: **التحديات هي الفرص لتعليم المهارات.**
+
+**الشريحة 22**
+- العنوان: **The 5-Question Compass**
+- 1. هل يساعده على الشعور بأنه **ينتمي**؟
+- 2. هل هو **لطيف وحازم**؟
+- 3. هل ينجح **على المدى البعيد**؟
+- 4. هل يعلّم **مهارة حياتية**؟
+- 5. هل يساعده على الشعور بأنه **قادر**؟
+
+**الشريحة 23**
+- العنوان: **This Week's Challenge 🎯**
+- جملة لطيفة وحازمة واحدة يوميًا.
+- نص صغير: استخدموا "و"، وليس "لكن".
+
+**الشريحة 24**
+- العنوان: **Next Week**
+- Your Calm Comes First
 - 💛
 
-**Slide 25 (end card)**
-- Small text: No Perfect Parents is an educational program, not therapy or medical advice. If you're worried about your child's development, mental health or safety, please talk with a licensed professional.
+**الشريحة 25 (الختام)**
+- نص صغير: No Perfect Parents برنامج تثقيفي، وليس علاجًا نفسيًا أو استشارة طبية. إذا كنتم قلقين بشأن نموّ طفلكم أو صحته النفسية أو سلامته، يُرجى التحدّث مع مختص مرخّص.

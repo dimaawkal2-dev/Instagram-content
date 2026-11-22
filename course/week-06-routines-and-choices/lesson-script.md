@@ -1,115 +1,115 @@
 # Week 6: Routines, Choices & Cooperation
-## Video lesson script (DRAFT)
+## نص الفيديو (مسودّة)
 
-**Total length:** ~30 minutes, 4 videos
-**Goal for the week:** parents create routine charts with their children, use limited choices, and invite cooperation by involving kids in family contributions.
+**المدة الإجمالية:** حوالي 30 دقيقة، 4 فيديوهات
+**هدف الأسبوع:** أن يصنع الأهل جداول روتين مع أطفالهم، ويستخدموا الخيارات المحدودة، ويدعوا إلى التعاون من خلال إشراك الأطفال في المساهمة في شؤون العائلة.
 
-> **[SLIDE]** = on screen. *Italics* = stage directions. Say it in your own words.
+> **[SLIDE]** = على الشاشة. *الخط المائل* = توجيهات. قولوه بكلماتكم.
 
 ---
 
-## Video 6.1: Why daily battles happen (~6 min)
+## Video 6.1: Why Daily Battles Happen (~6 دقائق)
 
 **[SLIDE: Week 6 · Routines, Choices & Cooperation]**
 
-Welcome back! How did solving problems together go? Did your kids surprise you with their ideas? They often do.
+أهلًا بعودتكم! كيف كان حلّ المشكلات معًا؟ هل فاجأكم أطفالكم بأفكارهم؟ غالبًا يفعلون.
 
-This week we're tackling the daily battle zones: **mornings, bedtime, and getting out the door.**
+هذا الأسبوع سنتعامل مع مناطق المعارك اليومية: **الصباح، ووقت النوم، والخروج من البيت.**
 
 **[SLIDE: Why are these times so hard?]**
 
-These moments are hard for a few reasons:
-- Everyone is rushed or tired, so lids flip easily.
-- Kids get *told* what to do over and over, which invites power struggles.
-- Kids have very little control, and that often brings out the mistaken goal of power.
+هذه اللحظات صعبة لعدّة أسباب:
+- الجميع مستعجل أو متعب، فيطير الغطاء بسهولة.
+- الأطفال *يُؤمَرون* بما يفعلونه مرارًا وتكرارًا، وهذا يدعو إلى صراعات القوة.
+- يملك الأطفال سيطرة قليلة جدًا، وهذا غالبًا يُظهر هدف القوة الخاطئ.
 
 **[SLIDE: The fix: involve them]**
 
-The Positive Discipline approach: **involve children** in creating the routine, and offer them real, limited choices. When kids help make the plan, they're much more likely to follow it.
+أسلوب Positive Discipline: **إشراك الأطفال** في صنع الروتين، وتقديم خيارات حقيقية ومحدودة لهم. عندما يساعد الأطفال في وضع الخطة، يصبحون أكثر استعدادًا بكثير لاتّباعها.
 
 ---
 
-## Video 6.2: Routine charts (~10 min)
+## Video 6.2: Routine Charts (~10 دقائق)
 
 **[SLIDE: Let the routine be the boss]**
 
-One of the most effective tools in Positive Discipline is the **routine chart.** It's not a reward chart, with no stickers or prizes. It's a chart your child helps create that shows the steps of a routine.
+من أكثر أدوات Positive Discipline فعالية **جدول الروتين (Routine Chart).** ليس جدول مكافآت، فلا ملصقات ولا جوائز. إنه جدول يساعد طفلكم في صنعه، ويُظهر خطوات الروتين.
 
-Once it's made, **the routine becomes the boss, not you.** Instead of nagging, you can ask: "What's next on your chart?"
+بمجرّد صنعه، **يصبح الروتين هو "المدير"، لا أنتم.** بدل الإلحاح، يمكنكم أن تسألوا: "ما الخطوة التالية في جدولك؟"
 
 **[SLIDE: Make a routine chart together in 5 steps]**
 
-1. **Pick one routine to start,** like bedtime or the morning.
-2. **Brainstorm the steps together.** "What do we need to do before bed?" Let them come up with as many as possible.
-3. **Make it visual.** Take a photo of your child doing each step, or let them draw it. Non-readers can follow pictures.
-4. **Put the steps in order** and hang the chart where your child can see it, at their eye level.
-5. **Let the chart do the talking:** "What's next on your chart?"
+1. **اختاروا روتينًا واحدًا للبداية،** مثل وقت النوم أو الصباح.
+2. **فكّروا بالخطوات معًا.** "ماذا نحتاج أن نفعل قبل النوم؟" دعوه يقترح أكبر عدد ممكن.
+3. **اجعلوه مرئيًا.** صوّروا طفلكم وهو يقوم بكل خطوة، أو دعوه يرسمها. الأطفال الذين لا يقرؤون يمكنهم اتّباع الصور.
+4. **رتّبوا الخطوات** وعلّقوا الجدول حيث يراه طفلكم، بمستوى نظره.
+5. **دعوا الجدول يتكلّم:** "ما الخطوة التالية في جدولك؟"
 
-**Little kid example (age 3):** bath → pajamas → brush teeth → 2 books → song → hug.
+**مثال لطفل صغير (عمر 3):** حمّام ← بيجاما ← تفريش الأسنان ← قصّتان ← أغنية ← عناق.
 
-**Older kid example (age 10):** a morning checklist they design themselves: make bed, get dressed, breakfast, pack bag, check planner. They tick it off without reminders.
+**مثال لطفل أكبر (عمر 10):** قائمة صباحية يصمّمها بنفسه: ترتيب السرير، اللبس، الفطور، تحضير الحقيبة، مراجعة المفكّرة. يؤشّر عليها دون تذكير.
 
 **[SLIDE: No rewards needed]**
 
-Why no stickers or rewards? Because we want kids to feel the satisfaction of being capable, not to work for prizes. Rewards can work short-term, but they can teach kids to ask "What will I get?" The feeling of "I did it myself!" lasts longer.
+لماذا بلا ملصقات أو مكافآت؟ لأننا نريد أن يشعر الأطفال بالرضا عن قدرتهم، لا أن يعملوا من أجل جوائز. المكافآت قد تنجح على المدى القصير، لكنها قد تعلّم الأطفال أن يسألوا "ماذا سأحصل؟". أما شعور "فعلتها بنفسي!" فيدوم أطول.
 
 ---
 
-## Video 6.3: Limited choices + "When… then" (~8 min)
+## Video 6.3: Limited Choices + "When… Then" (~8 دقائق)
 
-**[SLIDE: Limited choices]**
+**[SLIDE: Limited Choices]**
 
-Kids who feel powerless fight for power. So give them some. **Limited choices** let children have real control, within limits you're happy with.
+الأطفال الذين يشعرون بالعجز يقاتلون من أجل القوة. لذلك أعطوهم بعضها. **الخيارات المحدودة** تمنح الأطفال سيطرة حقيقية، ضمن حدود تناسبكم.
 
-**[SLIDE: Limited choices by age]**
+**[SLIDE: Limited Choices by Age]**
 
-**Little kids:**
-- "Red cup or blue cup?"
-- "Do you want to walk to the car or should I carry you?"
-- "Bath first or pajamas first?"
+**الأطفال الصغار:**
+- "الكوب الأحمر أم الأزرق؟"
+- "تريد أن تمشي إلى السيارة أم أحملك؟"
+- "الحمّام أولًا أم البيجاما أولًا؟"
 
-**Older kids:**
-- "Do you want to do homework before or after a snack?"
-- "Will you empty the dishwasher or fold laundry?"
-- "Phone charges in the kitchen at 8 or 8:30. You choose."
+**الأطفال الأكبر:**
+- "تريد أن تكتب الواجب قبل الوجبة الخفيفة أم بعدها؟"
+- "ستفرغ غسّالة الصحون أم تطوي الغسيل؟"
+- "الهاتف يُشحن في المطبخ الساعة 8 أو 8:30. أنت تختار."
 
-**Tips:**
-- Only offer choices you're truly okay with.
-- Two options is plenty for little ones.
-- If they don't choose, you can say: "You can decide, or I'll decide."
+**نصائح:**
+- قدّموا فقط الخيارات التي تقبلونها فعلًا.
+- خياران يكفيان للصغار.
+- إذا لم يختر، يمكنكم القول: "تقرّر أنت، أو أقرّر أنا."
 
-**[SLIDE: "When… then"]**
+**[SLIDE: "When… Then"]**
 
-Another simple tool is **"When… then":**
-- "When your teeth are brushed, then we'll read."
-- "When the toys are picked up, then we can go outside."
+أداة بسيطة أخرى هي **"عندما… عندها":**
+- "عندما تنتهي من تفريش أسنانك، عندها نقرأ."
+- "عندما نرتّب الألعاب، عندها نخرج."
 
-It's calm, clear, and not a threat or a bribe. It just describes the order of things.
+هادئة وواضحة، وليست تهديدًا أو رشوة. فقط تصف ترتيب الأشياء.
 
 ---
 
-## Video 6.4: Contributions + your challenge (~6 min)
+## Video 6.4: Contributions + Your Challenge (~6 دقائق)
 
 **[SLIDE: Kids need to feel capable]**
 
-Remember significance, the need to feel "I matter"? One of the best ways to meet it is through **contributions:** real jobs that help the family.
+تذكّرون الأهمية، أي الحاجة إلى الشعور بـ"أنا مهم"؟ من أفضل الطرق لتلبيتها **المساهمات:** مهام حقيقية تساعد العائلة.
 
 **[SLIDE: Age-appropriate contributions]**
-- **Ages 2–4:** put toys in a basket, feed the pet, help set the table
-- **Ages 5–7:** make their bed, sort laundry, help with simple cooking
-- **Ages 8–12:** pack their own lunch, load the dishwasher, fold laundry, help plan a meal
+- **‏2–4 سنوات:** وضع الألعاب في السلة، إطعام الحيوان الأليف، المساعدة في ترتيب المائدة
+- **‏5–7 سنوات:** ترتيب السرير، فرز الغسيل، المساعدة في طبخ بسيط
+- **‏8–12 سنة:** تحضير الغداء المدرسي بنفسه، تعبئة غسّالة الصحون، طيّ الغسيل، المساعدة في التخطيط لوجبة
 
-Instead of calling them "chores you have to do," try: "We're a team. How would you like to help our family?"
+بدل تسميتها "أعمالًا يجب أن تقوم بها"، جرّبوا: "نحن فريق. كيف تحبّ أن تساعد عائلتنا؟"
 
 **[SLIDE: This week's challenge 🎯]**
 
-### Your practice challenge
-1. **Create one routine chart *with* your child,** for bedtime or mornings.
-2. **Offer limited choices** at least once a day.
-3. **Invite one new contribution** your child can be proud of.
+### تحدّي الأسبوع
+1. **اصنعوا جدول روتين واحدًا *مع* طفلكم،** لوقت النوم أو الصباح.
+2. **قدّموا خيارات محدودة** مرة واحدة على الأقل يوميًا.
+3. **ادعوا طفلكم إلى مساهمة جديدة** يفخر بها.
 
-**[SLIDE: Next week: Family meetings, siblings & screens]**
+**[SLIDE: Next week: Family Meetings, Siblings & Screens]**
 
-Next week: family meetings, sibling fights and the dreaded screen-time battle. See you then 💛
+الأسبوع القادم: الاجتماعات العائلية، وشجار الإخوة، ومعركة الشاشات المرهقة. أراكم 💛
 
-**[SLIDE (small print): Educational content only, not therapy or medical advice. If sleep problems persist, talk to your pediatrician.]**
+**[SLIDE (خط صغير): محتوى تثقيفي فقط، وليس علاجًا نفسيًا أو استشارة طبية. إذا استمرّت مشكلات النوم، تحدّثوا مع طبيب الأطفال.]**

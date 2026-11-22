@@ -1,130 +1,130 @@
 # Week 3: The Belief Behind the Behavior
-## Video lesson script (DRAFT)
+## نص الفيديو (مسودّة)
 
-**Total length:** ~32 minutes, 4 videos
-**Goal for the week:** parents understand belonging and significance, recognize the four mistaken goals, and use their own feelings as a clue to respond more helpfully.
+**المدة الإجمالية:** حوالي 32 دقيقة، 4 فيديوهات
+**هدف الأسبوع:** أن يفهم الأهل الانتماء والأهمية، وأن يتعرّفوا على الأهداف الخاطئة الأربعة (Mistaken Goals)، وأن يستخدموا مشاعرهم كدليل للتصرّف بطريقة أكثر فائدة.
 
-> **[SLIDE]** = on screen. *Italics* = stage directions. Say it in your own words.
+> **[SLIDE]** = على الشاشة. *الخط المائل* = توجيهات. قولوه بكلماتكم.
 
 ---
 
-## Video 3.1: The iceberg (~6 min)
+## Video 3.1: The Iceberg (~6 دقائق)
 
 **[SLIDE: Week 3 · The Belief Behind the Behavior]**
 
-Welcome back! How did the hand model go? I love hearing about kids who now say "My lid is flipping!" in the middle of a meltdown.
+أهلًا بعودتكم! كيف كان نموذج اليد؟ أحبّ سماع قصص الأطفال الذين صاروا يقولون "غطائي سيطير!" في منتصف نوبة الغضب.
 
-This week is about one of the most freeing ideas in Positive Discipline.
+هذا الأسبوع عن واحدة من أكثر أفكار Positive Discipline تحريرًا.
 
 **[SLIDE: An iceberg: behavior above the water, beliefs and needs below]**
 
-Picture an iceberg. The bit above the water is the **behavior**: the whining, hitting, back-talk, "I hate you."
+تخيّلوا جبلًا جليديًا. الجزء الظاهر فوق الماء هو **السلوك**: التذمّر، الضرب، الردّ بوقاحة، "أكرهك".
 
-But most of an iceberg is underwater. Underneath every behavior is a **belief**: what your child has decided about themselves and how to fit in.
+لكن معظم الجبل الجليدي تحت الماء. تحت كل سلوك يوجد **اعتقاد**: ما قرّره طفلكم عن نفسه وعن طريقة انتمائه.
 
 **[SLIDE: "A misbehaving child is a discouraged child." Rudolf Dreikurs]**
 
-Positive Discipline is based on the work of psychiatrists Alfred Adler and Rudolf Dreikurs. Dreikurs said: **"A misbehaving child is a discouraged child."**
+تقوم Positive Discipline على أعمال الطبيبين النفسيين Alfred Adler وRudolf Dreikurs. قال Dreikurs: **"الطفل الذي يسيء التصرّف هو طفل محبَط."**
 
 **[SLIDE: Every child needs to feel: I belong · I matter]**
 
-Every human, big or small, needs two things:
-- **Belonging:** "I'm connected. I'm part of this family."
-- **Significance:** "I matter. I can contribute."
+كل إنسان، صغيرًا كان أم كبيرًا، يحتاج إلى أمرين:
+- **الانتماء (Belonging):** "أنا قريب. أنا جزء من هذه العائلة."
+- **الأهمية (Significance):** "أنا مهم. أستطيع أن أساهم."
 
-When kids don't feel that, they look for it, often in mistaken ways. They aren't bad kids. They're discouraged kids who have made a mistaken decision about how to belong.
+عندما لا يشعر الأطفال بذلك، يبحثون عنه، وغالبًا بطرق خاطئة. ليسوا أطفالًا سيّئين. إنهم أطفال محبَطون اتخذوا قرارًا خاطئًا حول كيفية الانتماء.
 
 ---
 
-## Video 3.2: The four mistaken goals (~11 min)
+## Video 3.2: The Four Mistaken Goals (~11 دقيقة)
 
 **[SLIDE: The 4 Mistaken Goals]**
 
-Dreikurs described four mistaken goals. Kids aren't consciously choosing these. They're beliefs underneath the behavior.
+وصف Dreikurs أربعة أهداف خاطئة. الأطفال لا يختارونها بوعي. إنها اعتقادات تحت السلوك.
 
-**[SLIDE: 1. Undue attention]**
+**[SLIDE: 1. Undue Attention]**
 
-### 1. Undue attention
-- **The belief:** "I belong only when I'm being noticed or getting special service."
-- **What it looks like:** constant interrupting, "Watch me! Watch me!", clowning around, whining for help with things they can do.
-- **Example:** your 4-year-old starts acting silly the second you pick up the phone.
+### 1. Undue Attention (طلب الانتباه المفرط)
+- **الاعتقاد:** "أنتمي فقط عندما يُلاحظني الآخرون أو يقدّمون لي خدمة خاصة."
+- **كيف يبدو:** مقاطعة مستمرة، "شوفوني! شوفوني!"، تهريج، تذمّر لطلب المساعدة في أشياء يستطيع فعلها.
+- **مثال:** طفلكم ذو الأربع سنوات يبدأ بالتصرّف بشكل سخيف لحظة رفعكم الهاتف.
 
-**[SLIDE: 2. Misguided power]**
+**[SLIDE: 2. Misguided Power]**
 
-### 2. Misguided power
-- **The belief:** "I belong only when I'm the boss, or at least when you can't boss me."
-- **What it looks like:** "No!", "You can't make me!", power struggles, doing exactly what you said not to.
-- **Example:** your 8-year-old flatly refuses to get dressed, and the more you push, the more they dig in.
+### 2. Misguided Power (القوة في غير مكانها)
+- **الاعتقاد:** "أنتمي فقط عندما أكون أنا المسيطر، أو على الأقل عندما لا تستطيعون السيطرة عليّ."
+- **كيف يبدو:** "لا!"، "لا تستطيعون إجباري!"، صراعات قوة، فعل ما طُلب منه ألّا يفعله تمامًا.
+- **مثال:** طفلكم ذو الثماني سنوات يرفض اللبس رفضًا قاطعًا، وكلما ضغطتم أكثر ازداد عنادًا.
 
 **[SLIDE: 3. Revenge]**
 
-### 3. Revenge
-- **The belief:** "I don't think I belong, so I'll hurt others the way I feel hurt."
-- **What it looks like:** "I hate you!", hurtful words, breaking things, hurting a sibling.
-- **Example:** after being punished, your 10-year-old rips up their sister's drawing.
+### 3. Revenge (الانتقام)
+- **الاعتقاد:** "لا أظن أنني أنتمي، لذلك سأؤذي الآخرين كما أشعر بالأذى."
+- **كيف يبدو:** "أكرهك!"، كلمات جارحة، تكسير أشياء، إيذاء أحد الإخوة.
+- **مثال:** بعد معاقبته، يمزّق طفلكم ذو العشر سنوات رسمة أخته.
 
-**[SLIDE: 4. Assumed inadequacy]**
+**[SLIDE: 4. Assumed Inadequacy]**
 
-### 4. Assumed inadequacy
-- **The belief:** "I don't believe I can belong or do well, so I'll convince others not to expect anything from me."
-- **What it looks like:** giving up, "I can't," "I'm stupid," hiding, not trying.
-- **Example:** your 7-year-old won't even attempt their reading homework.
+### 4. Assumed Inadequacy (الشعور بالعجز)
+- **الاعتقاد:** "لا أصدّق أنني أستطيع الانتماء أو النجاح، لذلك سأقنع الآخرين بألّا ينتظروا مني شيئًا."
+- **كيف يبدو:** الاستسلام، "لا أستطيع"، "أنا غبي"، الاختباء، عدم المحاولة.
+- **مثال:** طفلكم ذو السبع سنوات لا يحاول حتى أن يبدأ واجب القراءة.
 
 ---
 
-## Video 3.3: Your feelings are the clue (~9 min)
+## Video 3.3: Your Feelings Are the Clue (~9 دقائق)
 
 **[SLIDE: How do I know which goal it is? Notice how YOU feel.]**
 
-This is the surprising part. **Your own feeling is the best clue** to the mistaken goal underneath.
+هذا هو الجزء المفاجئ. **مشاعركم أنتم هي أفضل دليل** على الهدف الخاطئ الكامن.
 
-**[SLIDE: Feeling → Goal → Coded message → What helps]**
+**[SLIDE: Feeling → Goal → Coded Message → What Helps]**
 
-| If you feel… | The goal may be… | Your child's coded message | What can help |
+| إذا شعرتم بـ… | قد يكون الهدف… | الرسالة المشفّرة من طفلكم | ما الذي يساعد |
 |---|---|---|---|
-| **Annoyed, irritated, worried** | Undue attention | "Notice me. Involve me usefully." | Give them a helpful job, plan special time, use a silent signal, "I love you, and I'll spend time with you after this call." |
-| **Challenged, angry, defeated** | Misguided power | "Let me help. Give me choices." | Step out of the fight, offer limited choices, ask for their help, decide what *you* will do |
-| **Hurt, disappointed, disbelieving** | Revenge | "I'm hurting. Validate my feelings." | Don't hurt back. Validate: "You seem really hurt." Repair and rebuild trust. |
-| **Hopeless, helpless, like giving up** | Assumed inadequacy | "Don't give up on me. Show me a small step." | Break it into tiny steps, show faith, celebrate effort, never compare |
+| **الانزعاج، الضيق، القلق** | Undue Attention | "لاحظوني. أشركوني بطريقة مفيدة." | أعطوه مهمة مفيدة، خطّطوا لـSpecial Time، استخدموا إشارة صامتة، "أحبك، وسأقضي وقتًا معك بعد هذه المكالمة." |
+| **التحدّي، الغضب، الهزيمة** | Misguided Power | "دعوني أساعد. أعطوني خيارات." | اخرجوا من المعركة، قدّموا خيارات محدودة، اطلبوا مساعدته، قرّروا ما ستفعلونه *أنتم* |
+| **الأذى، خيبة الأمل، عدم التصديق** | Revenge | "أنا متألّم. اعترفوا بمشاعري." | لا تردّوا الأذى. اعترفوا بمشاعره: "يبدو أنك متألّم جدًا." أصلحوا وأعيدوا بناء الثقة. |
+| **اليأس، العجز، الرغبة في الاستسلام** | Assumed Inadequacy | "لا تيأسوا مني. أروني خطوة صغيرة." | قسّموا المهمة إلى خطوات صغيرة جدًا، أظهروا ثقتكم به، احتفلوا بالجهد، لا تقارنوا أبدًا |
 
-*(This table is based on Dreikurs' and Nelsen's Mistaken Goal Chart.)*
+*(هذا الجدول مبني على Mistaken Goal Chart لـDreikurs وNelsen.)*
 
 **[SLIDE: Your usual reaction often makes it worse]**
 
-Notice something? Our instinctive reaction usually *feeds* the mistaken belief:
-- Attention-seeking → we give lots of (negative) attention → "See? This works."
-- Power → we fight back harder → "I need to win."
-- Revenge → we hurt back with punishment → "See? I don't belong."
-- Giving up → we take over or give up too → "See? I can't."
+لاحظتم شيئًا؟ ردّة فعلنا التلقائية غالبًا *تغذّي* الاعتقاد الخاطئ:
+- طلب الانتباه ← نعطيه الكثير من الانتباه (السلبي) ← "أرأيتم؟ هذا ينجح."
+- القوة ← نقاوم بقوة أكبر ← "يجب أن أنتصر."
+- الانتقام ← نردّ الأذى بالعقاب ← "أرأيتم؟ أنا لا أنتمي."
+- الاستسلام ← نتولّى المهمة عنه أو نيأس نحن أيضًا ← "أرأيتم؟ لا أستطيع."
 
-**The goal isn't to stop the behavior. It's to change the belief underneath.**
+**الهدف ليس إيقاف السلوك. الهدف تغيير الاعتقاد الذي تحته.**
 
 ---
 
-## Video 3.4: Put it into practice + your challenge (~6 min)
+## Video 3.4: Put It Into Practice + Your Challenge (~6 دقائق)
 
 **[SLIDE: Before you react, get curious]**
 
-Next time a behavior pushes your buttons, try this:
-1. **Pause.** (Remember your lid!)
-2. **Notice your feeling.** Annoyed? Challenged? Hurt? Hopeless?
-3. **Guess the belief.** "Maybe they need to feel noticed / in control / understood / capable."
-4. **Respond to the belief,** not just the behavior.
+في المرة القادمة التي يستفزّكم فيها سلوك ما، جرّبوا:
+1. **توقّفوا.** (تذكّروا الغطاء!)
+2. **لاحظوا شعوركم.** منزعجون؟ تشعرون بالتحدّي؟ متألّمون؟ يائسون؟
+3. **خمّنوا الاعتقاد.** "ربما يحتاج أن يشعر بأنه مُلاحَظ / مسيطر / مفهوم / قادر."
+4. **تجاوبوا مع الاعتقاد،** لا مع السلوك فقط.
 
 **[SLIDE: You won't always guess right, and that's okay]**
 
-You won't always guess right. Kids are complicated, and sometimes a behavior is just a tired, hungry kid. But asking "What is my child trying to tell me?" instead of "How do I make this stop?" changes everything.
+لن تخمّنوا بشكل صحيح دائمًا. الأطفال معقّدون، وأحيانًا يكون السلوك مجرّد طفل متعب أو جائع. لكن سؤال "ماذا يحاول طفلي أن يقول لي؟" بدل "كيف أوقف هذا؟" يغيّر كل شيء.
 
 **[SLIDE: This week's challenge 🎯]**
 
-### Your practice challenge
-**Become a behavior detective.** Once a day, when a behavior bugs you:
-- Write down how *you* felt
-- Guess the mistaken goal
-- Try one response from the chart
+### تحدّي الأسبوع
+**كونوا محقّقين في السلوك.** مرة يوميًا، عندما يزعجكم سلوك ما:
+- اكتبوا ما شعرتم به *أنتم*
+- خمّنوا الهدف الخاطئ
+- جرّبوا تصرّفًا واحدًا من الجدول
 
-**[SLIDE: Next week: Connection before correction]**
+**[SLIDE: Next week: Connection Before Correction]**
 
-Next week, we'll build the thing that heals all four goals: connection. See you then 💛
+الأسبوع القادم سنبني الشيء الذي يعالج الأهداف الأربعة كلها: التواصل. أراكم 💛
 
-**[SLIDE (small print): Educational content only. Behavior can also be affected by sleep, health, development and other factors. If you have concerns, please consult a pediatrician or licensed professional.]**
+**[SLIDE (خط صغير): محتوى تثقيفي فقط. قد يتأثّر السلوك أيضًا بالنوم والصحة والنموّ وعوامل أخرى. إذا كانت لديكم مخاوف، يُرجى استشارة طبيب الأطفال أو مختص مرخّص.]**

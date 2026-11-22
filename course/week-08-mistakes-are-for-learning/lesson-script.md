@@ -1,118 +1,118 @@
 # Week 8: Mistakes Are Opportunities to Learn
-## Video lesson script (DRAFT)
+## نص الفيديو (مسودّة)
 
-**Total length:** ~30 minutes, 4 videos
-**Goal for the week:** parents learn the 3 Rs of Recovery, help children see mistakes as chances to learn, review the program, and make a long-term family plan.
+**المدة الإجمالية:** حوالي 30 دقيقة، 4 فيديوهات
+**هدف الأسبوع:** أن يتعلّم الأهل 3 Rs of Recovery، ويساعدوا أطفالهم على رؤية الأخطاء كفرص للتعلّم، ويراجعوا البرنامج، ويضعوا خطة عائلية بعيدة المدى.
 
-> **[SLIDE]** = on screen. *Italics* = stage directions. Say it in your own words.
+> **[SLIDE]** = على الشاشة. *الخط المائل* = توجيهات. قولوه بكلماتكم.
 
 ---
 
-## Video 8.1: The most important lesson (~6 min)
+## Video 8.1: The Most Important Lesson (~6 دقائق)
 
 **[SLIDE: Week 8 · Mistakes Are Opportunities to Learn]**
 
-Welcome to our final week! How was your first family meeting? Whether it was a beautiful success or total chaos *(laugh)*, you did it, and that matters.
+أهلًا بكم في أسبوعنا الأخير! كيف كان اجتماعكم العائلي الأول؟ سواء كان نجاحًا جميلًا أو فوضى كاملة *(اضحكوا)*، لقد فعلتموه، وهذا ما يهم.
 
 **[SLIDE: There are no perfect parents.]**
 
-Remember how we started, back in Week 1? There are no perfect parents. This week is about what to do with that truth.
+تذكّرون كيف بدأنا في الأسبوع الأول؟ لا يوجد أهل مثاليون. هذا الأسبوع عمّا نفعله بهذه الحقيقة.
 
 **[SLIDE: Mistakes are wonderful opportunities to learn]**
 
-One of the most important ideas in Positive Discipline is that **mistakes are wonderful opportunities to learn.** That goes for our kids, *and* for us.
+من أهم أفكار Positive Discipline أن **الأخطاء فرص رائعة للتعلّم.** وهذا ينطبق على أطفالنا، *و*علينا نحن.
 
-Many of us grew up feeling that mistakes meant we were bad, stupid or a disappointment. So we hide mistakes, feel shame, or get defensive. Our kids can learn the same thing, unless we show them something different.
+كثيرون منّا كبروا وهم يشعرون أن الخطأ يعني أنهم سيّئون أو أغبياء أو مخيّبون للآمال. لذلك نُخفي أخطاءنا، أو نشعر بالخجل، أو ندافع عن أنفسنا. وقد يتعلّم أطفالنا الشيء نفسه، إلا إذا أريناهم شيئًا مختلفًا.
 
 ---
 
-## Video 8.2: The 3 Rs of Recovery (~9 min)
+## Video 8.2: The 3 Rs of Recovery (~9 دقائق)
 
 **[SLIDE: You WILL still lose your cool]**
 
-After 8 weeks, you'll still yell sometimes. You'll still flip your lid, still say "but" instead of "and," still occasionally threaten to cancel a birthday party. *(Smile.)* That's normal.
+بعد 8 أسابيع، ستبقون تصرخون أحيانًا. سيطير غطاؤكم، وستقولون "لكن" بدل "و"، وقد تهدّدون أحيانًا بإلغاء حفلة عيد ميلاد. *(ابتسموا.)* هذا طبيعي.
 
-What matters most isn't whether you make mistakes. It's what you do *after.*
+الأهم ليس أن تخطئوا أو لا. الأهم ما تفعلونه *بعد* الخطأ.
 
 **[SLIDE: The 3 Rs of Recovery]**
 
-Positive Discipline offers a simple way to repair: **the 3 Rs of Recovery.**
+تقدّم Positive Discipline طريقة بسيطة للإصلاح: **3 Rs of Recovery.**
 
-1. **Recognize:** notice and own your mistake, without beating yourself up. "I yelled at you."
-2. **Reconcile:** apologize sincerely. "I'm sorry. That wasn't respectful, and it wasn't your fault."
-3. **Resolve:** focus on a solution together. "Let's figure out what we can both do next time we're running late."
+1. **Recognize (الاعتراف):** لاحظوا خطأكم وتحمّلوا مسؤوليته، دون جلد الذات. "صرخت عليك."
+2. **Reconcile (المصالحة):** اعتذروا بصدق. "أنا آسف/ة. لم يكن ذلك محترمًا، ولم يكن ذنبك."
+3. **Resolve (الحل):** ركّزوا على حلّ معًا. "لنفكّر ماذا يمكن أن نفعل نحن الاثنين في المرة القادمة التي نتأخّر فيها."
 
 **[SLIDE: Repair builds connection]**
 
-Here's something beautiful: kids are often incredibly forgiving. And a sincere repair can actually make your connection *stronger.*
+وهنا شيء جميل: الأطفال غالبًا متسامحون جدًا. والإصلاح الصادق قد يجعل علاقتكم *أقوى* فعلًا.
 
-**When you repair, your child learns:**
-- Everyone makes mistakes, even grown-ups
-- Relationships can survive conflict
-- How to apologize and make things right
-- That they're loved, even after a hard moment
+**عندما تُصلحون، يتعلّم طفلكم أن:**
+- الجميع يخطئ، حتى الكبار
+- العلاقات تصمد أمام الخلاف
+- كيف يعتذر ويُصلح الأمور
+- أنه محبوب، حتى بعد لحظة صعبة
 
-**Little kid example:** "I grabbed your arm too hard when we were leaving. I'm sorry. That wasn't okay. Next time I'll take a breath first. Can I have a hug?"
+**مثال لطفل صغير:** "أمسكت ذراعك بقوة زائدة عندما كنا نغادر. أنا آسف/ة. لم يكن ذلك مقبولًا. في المرة القادمة سآخذ نفسًا أولًا. هل أحصل على عناق؟"
 
-**Older kid example:** "I said some things last night that weren't fair. I'm sorry. I was stressed, and I took it out on you. Can we talk about how to make homework time less stressful for both of us?"
+**مثال لطفل أكبر:** "قلت أشياء البارحة لم تكن عادلة. أنا آسف/ة. كنت متوتّرًا/ة وأفرغت ذلك عليك. هل يمكننا أن نتحدّث عن طريقة تجعل وقت الواجب أقل توتّرًا لنا نحن الاثنين؟"
 
 ---
 
-## Video 8.3: Helping kids learn from mistakes (~7 min)
+## Video 8.3: Helping Kids Learn From Mistakes (~7 دقائق)
 
 **[SLIDE: Make mistakes normal]**
 
-We want our kids to see mistakes as a normal part of learning, not something to hide.
+نريد أن يرى أطفالنا الأخطاء كجزء طبيعي من التعلّم، لا كشيء يجب إخفاؤه.
 
 **[SLIDE: Ideas to try]**
-- **Share your own mistakes:** "I forgot to send that email today. Here's how I'm going to fix it."
-- **Make it a dinner ritual:** "What mistake did you make today, and what did you learn?" Everyone shares, grown-ups too.
-- **Use curiosity questions:** "What happened? What can you do to fix it? What did you learn?"
-- **Respond calmly** to spills, broken things and forgotten homework: "Mistakes happen. What do we need to clean it up?"
-- **Encourage effort and improvement,** not perfection: "You kept trying, even when it was hard."
+- **شاركوا أخطاءكم:** "نسيت أن أرسل ذلك الإيميل اليوم. هكذا سأصلح الأمر."
+- **اجعلوها عادة على العشاء:** "ما الخطأ الذي ارتكبته اليوم، وماذا تعلّمت منه؟" الجميع يشارك، والكبار أيضًا.
+- **استخدموا أسئلة الفضول:** "ماذا حدث؟ ماذا يمكنك أن تفعل لإصلاحه؟ ماذا تعلّمت؟"
+- **تجاوبوا بهدوء** مع العصير المسكوب والأشياء المكسورة والواجب المنسي: "الأخطاء تحدث. ماذا نحتاج لننظّفه؟"
+- **شجّعوا الجهد والتحسّن،** لا الكمال: "استمرّيت في المحاولة، حتى عندما كان الأمر صعبًا."
 
 **[SLIDE: Kids hide mistakes when they fear punishment]**
 
-Remember the 4 Rs from Week 1? Fear of punishment can teach kids to hide mistakes and be sneaky. When mistakes are safe, kids are more likely to tell us the truth and learn from it.
+تذكّرون 4 Rs من الأسبوع الأول؟ الخوف من العقاب قد يعلّم الأطفال إخفاء الأخطاء والتخفّي. عندما تكون الأخطاء آمنة، يصبح الأطفال أكثر استعدادًا لقول الحقيقة والتعلّم منها.
 
 ---
 
-## Video 8.4: Looking back, looking forward (~8 min)
+## Video 8.4: Looking Back, Looking Forward (~8 دقائق)
 
 **[SLIDE: Look how far you've come]**
 
-Let's look back at everything you've learned:
+لننظر إلى كل ما تعلّمتموه:
 
-**[SLIDE: Your 8 weeks]**
-1. **Kind AND firm** at the same time
-2. **Your calm comes first:** the hand model and positive time-out
-3. **The belief behind the behavior:** belonging, significance and the mistaken goals
-4. **Connection before correction:** validation, special time, encouragement
-5. **Focus on solutions:** curiosity questions and solving problems together
-6. **Routines and choices:** routine charts, limited choices, contributions
-7. **Family meetings, siblings and screens**
-8. **Mistakes are opportunities to learn:** the 3 Rs of Recovery
+**[SLIDE: Your 8 Weeks]**
+1. **Kind AND Firm:** لطف وحزم في الوقت نفسه
+2. **Your Calm Comes First:** نموذج اليد وPositive Time-Out
+3. **The Belief Behind the Behavior:** الانتماء والأهمية والأهداف الخاطئة
+4. **Connection Before Correction:** الاعتراف بالمشاعر، Special Time، التشجيع
+5. **Focus on Solutions:** أسئلة الفضول وحلّ المشكلات معًا
+6. **Routines and Choices:** جداول الروتين، الخيارات المحدودة، المساهمات
+7. **Family Meetings, Siblings and Screens**
+8. **Mistakes Are Opportunities to Learn:** 3 Rs of Recovery
 
-*(Pause.)* That's a lot. Please take a moment to feel proud of yourself.
+*(توقّفوا لحظة.)* هذا كثير. خذوا لحظة لتشعروا بالفخر بأنفسكم.
 
 **[SLIDE: You don't have to use everything]**
 
-You don't need to use every tool every day. Pick the 2 or 3 that made the biggest difference for your family, and come back to the others when you need them. Rewatch any week whenever you need a refresher.
+لستم مضطرين لاستخدام كل الأدوات كل يوم. اختاروا الأداتين أو الثلاث التي أحدثت أكبر فرق في عائلتكم، وعودوا إلى الباقي عند الحاجة. أعيدوا مشاهدة أي أسبوع متى احتجتم إلى تذكير.
 
-**[SLIDE: Your family plan]**
+**[SLIDE: Your Family Plan]**
 
-On your worksheet this week, you'll make your own **family plan:**
-- The 3 tools I'll keep using
-- My biggest trigger, and my calm-down plan
-- Our family meeting day and time
-- One thing I want to remember on hard days
+في ورقة عمل هذا الأسبوع، ستضعون **خطتكم العائلية:**
+- الأدوات الثلاث التي سأستمر في استخدامها
+- أكثر ما يستفزّني، وخطتي للتهدئة
+- يوم ووقت اجتماعنا العائلي
+- أمر واحد أريد أن أتذكّره في الأيام الصعبة
 
 **[SLIDE: Thank you 💛]**
 
-Before you go, I just want to say thank you. Thank you for showing up for your family, and for yourself. Being willing to learn, try, mess up, repair and try again is exactly what makes a great parent.
+قبل أن تذهبوا، أريد فقط أن أقول: شكرًا. شكرًا لأنكم حضرتم من أجل عائلتكم، ومن أجل أنفسكم. الاستعداد للتعلّم والمحاولة والخطأ والإصلاح والمحاولة من جديد هو بالضبط ما يصنع أهلًا رائعين.
 
-There are no perfect parents. But there are parents like you, who keep showing up. And that's more than enough.
+لا يوجد أهل مثاليون. لكن يوجد أهل مثلكم، يستمرّون في الحضور. وهذا أكثر من كافٍ.
 
-*(Smile.)* I'd love to hear how you're doing. Come say hi on Instagram [@your-handle]. 💛
+*(ابتسموا.)* يسعدني أن أسمع أخباركم. تعالوا قولوا مرحبًا على Instagram ‏[@your-handle]. 💛
 
-**[SLIDE (small print): No Perfect Parents is an educational program, not therapy or medical advice. If you're worried about your child's development, mental health or safety, or about your own wellbeing, please talk with a licensed professional.]**
+**[SLIDE (خط صغير): No Perfect Parents برنامج تثقيفي، وليس علاجًا نفسيًا أو استشارة طبية. إذا كنتم قلقين بشأن نموّ طفلكم أو صحته النفسية أو سلامته، أو بشأن صحتكم أنتم، يُرجى التحدّث مع مختص مرخّص.]**

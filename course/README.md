@@ -1,35 +1,37 @@
-# No Perfect Parents: Course Content (DRAFT)
+# No Perfect Parents: Course Content (مسودّة)
 
-An 8-week Positive Discipline program for parents of kids aged 1–12.
-Taught by a Certified Positive Discipline Parent Educator. Friendly, casual, blame-free.
+برنامج **Positive Discipline** لمدة 8 أسابيع لأهالي الأطفال من عمر 1 إلى 12 سنة.
+يقدّمه شخص يحمل شهادة Certified Positive Discipline Parent Educator. نبرة ودودة وبسيطة وبلا لوم.
 
-## Each week includes
+> اللغة: المحتوى بالعربية الفصحى المبسّطة، مع إبقاء العناوين وأسماء الأدوات بالإنجليزية (مثل **Kind and Firm** و**3 Rs of Recovery**). الخطاب موجّه للأهل بصيغة الجمع (أنتم).
 
-| Piece | What it is | Time for the parent |
+## ماذا يتضمّن كل أسبوع
+
+| الجزء | ما هو | الوقت المطلوب من الأهل |
 |---|---|---|
-| **Video lesson** | 3–4 short videos (5–10 min each), filmed to camera with simple slides | ~30 min |
-| **Worksheet** | Reflection questions + a planning exercise (print it or fill it in) | ~10 min |
-| **Cheat sheet** | One page of phrases and reminders to stick on the fridge | 2 min |
-| **Practice challenge** | One small thing to try during the week | Daily, a few minutes |
+| **Video Lesson** | ‏3–4 فيديوهات قصيرة (‏5–10 دقائق لكل منها)، تصوير مباشر للكاميرا مع شرائح بسيطة | ~30 دقيقة |
+| **Worksheet** | أسئلة للتأمّل + تمرين تخطيط (للطباعة أو التعبئة) | ~10 دقائق |
+| **Cheat Sheet** | صفحة واحدة من العبارات والتذكيرات للبرّاد | دقيقتان |
+| **Practice Challenge** | أمر صغير واحد للتجربة خلال الأسبوع | دقائق يوميًا |
 
-Total: about **45 minutes per week**, plus practice. Use this for the website FAQ.
+المجموع: حوالي **45 دقيقة أسبوعيًا** إضافة إلى الممارسة.
 
-## The 8 weeks
+## الأسابيع الثمانية
 
-| Week | Title | Status |
+| الأسبوع | العنوان | الحالة |
 |---|---|---|
-| 1 | Kind and firm: the Positive Discipline way | ✅ Script, slides, filming notes, worksheet, cheat sheet ([folder](week-01-kind-and-firm/)) |
-| 2 | Your calm comes first | ✏️ Script ([folder](week-02-your-calm/)). Slides, filming notes, worksheet, cheat sheet still to do |
-| 3 | The belief behind the behavior | ✏️ Script ([folder](week-03-belief-behind-behavior/)). Slides, filming notes, worksheet, cheat sheet still to do |
-| 4 | Connection before correction | ✏️ Script ([folder](week-04-connection-before-correction/)). Slides, filming notes, worksheet, cheat sheet still to do |
-| 5 | Focus on solutions | ✏️ Script ([folder](week-05-focus-on-solutions/)). Slides, filming notes, worksheet, cheat sheet still to do |
-| 6 | Routines, choices & cooperation | ✏️ Script ([folder](week-06-routines-and-choices/)). Slides, filming notes, worksheet, cheat sheet still to do |
-| 7 | Family meetings, siblings & screens | ✏️ Script ([folder](week-07-family-meetings-siblings-screens/)). Slides, filming notes, worksheet, cheat sheet still to do |
-| 8 | Mistakes are opportunities to learn | ✏️ Script ([folder](week-08-mistakes-are-for-learning/)). Slides, filming notes, worksheet, cheat sheet still to do |
+| 1 | Kind and Firm: the Positive Discipline Way | ✅ النص، الشرائح، ملاحظات التصوير، ورقة العمل، ورقة الملخّص ([المجلد](week-01-kind-and-firm/)) |
+| 2 | Your Calm Comes First | ✏️ النص ([المجلد](week-02-your-calm/)). باقي المواد لم تُكتب بعد |
+| 3 | The Belief Behind the Behavior | ✏️ النص ([المجلد](week-03-belief-behind-behavior/)). باقي المواد لم تُكتب بعد |
+| 4 | Connection Before Correction | ✏️ النص ([المجلد](week-04-connection-before-correction/)). باقي المواد لم تُكتب بعد |
+| 5 | Focus on Solutions | ✏️ النص ([المجلد](week-05-focus-on-solutions/)). باقي المواد لم تُكتب بعد |
+| 6 | Routines, Choices & Cooperation | ✏️ النص ([المجلد](week-06-routines-and-choices/)). باقي المواد لم تُكتب بعد |
+| 7 | Family Meetings, Siblings & Screens | ✏️ النص ([المجلد](week-07-family-meetings-siblings-screens/)). باقي المواد لم تُكتب بعد |
+| 8 | Mistakes Are Opportunities to Learn | ✏️ النص ([المجلد](week-08-mistakes-are-for-learning/)). باقي المواد لم تُكتب بعد |
 
-## Notes before recording
+## ملاحظات قبل التسجيل
 
-- **Write in your own words.** These scripts are a starting point. Change any line that doesn't sound like you.
-- **Positive Discipline materials:** concepts like the five criteria and the 4 Rs of punishment come from Jane Nelsen's work. Teach them in your own words, credit the source, and check your certification agreement with the Positive Discipline Association before copying any activities, slides or handouts word for word.
-- **Not therapy:** each week ends with a reminder that the course is educational, and that parents should speak with a licensed professional about concerns for their child's development, mental health or safety.
-- **Examples cover ages 1–12:** each concept includes one example for little kids and one for older kids.
+- **بكلماتكم أنتم.** هذه النصوص نقطة انطلاق. غيّروا أي جملة لا تشبهكم. وإذا كنتم تفضّلون اللهجة اللبنانية أو أي لهجة أخرى أمام الكاميرا، استخدموا النص كدليل وتحدّثوا بطبيعتكم.
+- **مواد Positive Discipline:** مفاهيم مثل المعايير الخمسة و4 Rs of Punishment مأخوذة من أعمال Jane Nelsen. علّموها بكلماتكم، واذكروا المصدر، وراجعوا اتفاقية الشهادة مع Positive Discipline Association قبل نسخ أي نشاط أو شريحة أو ورقة حرفيًا.
+- **ليس علاجًا:** كل أسبوع ينتهي بتذكير بأن الدورة تثقيفية، وأن على الأهل التحدّث مع مختص مرخّص بشأن أي قلق يتعلّق بنموّ طفلهم أو صحته النفسية أو سلامته.
+- **أمثلة للأعمار 1–12:** كل مفهوم يتضمّن مثالًا للأطفال الصغار وآخر للأكبر سنًا.
