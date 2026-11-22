@@ -16,7 +16,7 @@ The owner is a **Certified Positive Discipline Parent Educator**. All content fo
 - Mistakes are opportunities to learn (the 3 Rs of Recovery: Recognize, Reconcile, Resolve)
 - Tools: curiosity questions, limited choices, routine charts, positive time-out, family meetings, special time, deciding what *you* will do and following through
 - Never recommend spanking, shaming, threats, bribes, or punitive time-outs. Credit quotes accurately, and don't suggest endorsement by the Positive Discipline Association or Jane Nelsen.
-- The course is **No Perfect Parents**: 8 weeks, for parents of kids aged 1–12, $297 or 3 × $109.
+- The course is **No Perfect Parents**: 8 weeks, for parents of kids aged 1–12, $297, one payment, lifetime access (no instalments).
 
 
 ## Language
