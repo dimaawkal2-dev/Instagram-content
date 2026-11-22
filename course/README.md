@@ -29,6 +29,10 @@
 | 7 | Family Meetings, Siblings & Screens | ✏️ النص ([المجلد](week-07-family-meetings-siblings-screens/)). باقي المواد لم تُكتب بعد |
 | 8 | Mistakes Are Opportunities to Learn | ✏️ النص ([المجلد](week-08-mistakes-are-for-learning/)). باقي المواد لم تُكتب بعد |
 
+## تسليم الدورة للمشتركين
+
+كيف يحصل المشترك على الدورة بعد الدفع (Google Classroom، الخطوات، رسائل جاهزة): [`delivery-guide.md`](delivery-guide.md)
+
 ## ملاحظات قبل التسجيل
 
 - **بكلماتكم أنتم.** هذه النصوص نقطة انطلاق. غيّروا أي جملة لا تشبهكم. وإذا كنتم تفضّلون اللهجة اللبنانية أو أي لهجة أخرى أمام الكاميرا، استخدموا النص كدليل وتحدّثوا بطبيعتكم.
